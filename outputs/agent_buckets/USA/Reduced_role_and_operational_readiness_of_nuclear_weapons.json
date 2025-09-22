@@ -1,0 +1,73 @@
+{
+  "country": "USA",
+  "issue": "Reduced role and operational readiness of nuclear weapons",
+  "updated_at": "2025-09-21T16:04:12.624005Z",
+  "entries": [
+    {
+      "id": 452,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_USA_Statements_3.pdf",
+      "page": 1,
+      "paragraph_id": 2,
+      "position_summary": "Citing its 2022 Nuclear Posture Review, the country aims to balance deterrence requirements with steps to reduce the role and salience of nuclear weapons in its national security strategy. It supports lowering reliance on nuclear weapons in military doctrine.",
+      "quote": "As articulated in the 2022 Nuclear Posture Review, we fully recognize the enduring importance of a nuclear policy that balances the evolving demands of deterrence with our goal of taking steps to reduce the role of nuclear weapons in our national security strategy, thereby also reducing the salience of nuclear weapons globally.",
+      "confidence": 0.86,
+      "weight": 0.43,
+      "tier": "core"
+    },
+    {
+      "id": 453,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_USA_Statements_3.pdf",
+      "page": 1,
+      "paragraph_id": 3,
+      "position_summary": "The U.S. says the fundamental role of its nuclear weapons is to deter nuclear attack against itself, its allies, and partners, reflecting extended deterrence and a restrained role. It would consider nuclear use only in extreme circumstances to defend vital interests, indicating it does not adopt a no-first-use pledge. It rejects threatening nuclear use for intimidation or expansionist aims.",
+      "quote": "As long as nuclear weapons exist, the fundamental role of U.S. nuclear weapons is to deter nuclear attack on the United States, our allies, and our partners. The United States would consider the use of nuclear weapons only in extreme circumstances to defend the vital interests of the United States or its allies and partners. Unlike some others, we will not threaten the use of nuclear weapons to intimidate or to pursue an expansionist security policy.",
+      "confidence": 0.86,
+      "weight": 0.172,
+      "tier": "core"
+    },
+    {
+      "id": 503,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_USA_Statements_2.pdf",
+      "page": 6,
+      "paragraph_id": 1,
+      "position_summary": "The United States emphasizes transparency through its NPR and stockpile disclosures, reports steep unilateral reductions including in non-strategic weapons, and highlights measures lowering operational status and the role of nuclear weapons in its strategy. It encourages China and Russia to adopt similar transparency. This is presented as part of fulfilling disarmament commitments and advancing risk reduction.",
+      "quote": "well as in the public release of information in our Nuclear Posture Review and pertaining to our nuclear weapons stockpile. The U.S. national report to the 2022 RevCon also provided detailed information on other relevant topics, including steep U.S. reductions in non-strategic nuclear weapons and other unilateral cuts beyond treaty-based reductions over the past three decades, significant measures taken to reduce operational status of nuclear weapons systems, and the reduced role of nuclear weapons in U.S. national security strategy, including with respect to the 2022 NPR’s Declaratory Policy. We encourage the PRC and Russia to provide similar transparency.",
+      "confidence": 0.86,
+      "weight": 0.172,
+      "tier": "core"
+    },
+    {
+      "id": 36,
+      "year": 2023,
+      "doc_type": "statement",
+      "source_file": "2023_USA_Statements_2.pdf",
+      "page": 2,
+      "paragraph_id": 1,
+      "position_summary": "The country reports an 88% reduction of its nuclear stockpile and seeks to further lessen the role of nuclear weapons in its defense strategy, while acknowledging current security conditions. This frames its actions as contributing to disarmament and provides a degree of transparency.",
+      "quote": "We have reduced the number of nuclear weapons in our stockpile by over 88% and, while fully cognizant of the current security environment, continue to seek opportunities to reduce the role of nuclear weapons in our national defense strategy.",
+      "confidence": 0.84,
+      "weight": 0.16799999999999998,
+      "tier": "core"
+    },
+    {
+      "id": 952,
+      "year": 2025,
+      "doc_type": "statement",
+      "source_file": "2025_USA_Statements_3.pdf",
+      "page": 1,
+      "paragraph_id": 3,
+      "position_summary": "The United States frames nuclear weapons primarily for deterrence, assurance of allies and partners, and potential use only if deterrence fails. It commits to maintaining a safe, secure, reliable, and effective nuclear deterrent as long as nuclear weapons exist, while stating a very high threshold for nuclear employment, limited to extreme circumstances.",
+      "quote": "The fundamental role of U.S. nuclear weapons is to deter a strategic attack, assure allies and partners, and achieve objectives if deterrence fails. The United States will continue to maintain a safe, secure, reliable, and effective nuclear deterrent as long as nuclear weapons exist. As has been made clear by successive U.S. Administrations, the United States maintains a very high bar for nuclear employment and would consider the use of nuclear weapons only in extreme circumstances. 1",
+      "confidence": 0.72,
+      "weight": 0.24,
+      "tier": "core"
+    }
+  ],
+  "topline_summary": null
+}

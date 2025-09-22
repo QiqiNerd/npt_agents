@@ -1,0 +1,107 @@
+{
+  "country": "USA",
+  "issue": "International Atomic Energy Agency safeguards",
+  "updated_at": "2025-09-21T17:55:19.319913Z",
+  "entries": [
+    {
+      "source_file": "2025_USA_Statements_4.pdf",
+      "page": 2,
+      "paragraph_id": 3,
+      "position_summary": "The country views Iran’s nuclear program as a prime challenge to the nonproliferation regime, asserting that Iran is producing highly enriched uranium without a credible civilian justification. It also accuses Iran of disregarding its NPT-mandated comprehensive safeguards obligations.",
+      "quote": "Despite the successes of the NPT in its 55 years in force, stressors con�nue to challenge the nonprolifera�on regime. Prime among these challenges con�nues to be Iran’s nuclear program Iran con�nues to accelerate its produc�on of highly enriched uranium – a material for which Iran has no credible civilian purpose. No other country in the world is enriching to this level that does not also possess nuclear weapons. Moreover, Iran has disregarded its obliga�ons under its NPT- mandated comprehensive safeguards agreement.",
+      "confidence": 0.93,
+      "weight": 0.465,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_4.pdf",
+      "page": 1,
+      "paragraph_id": 3,
+      "position_summary": "The country underscores the indispensability and independence of IAEA safeguards and urges the three remaining NPT States Parties without Comprehensive Safeguards Agreements to conclude them by the next Review Conference. It also advocates for the universalization of the Additional Protocol.",
+      "quote": "The IAEA’s safeguards work is indispensable to this effort, and its technical exper�se and independence are key to our collec�ve security. The assurances provided by the impar�al professionals of the IAEA give us all confidence in the NPT’s efficacy. Only three NPT States Par�es remain without Comprehensive Safeguards Agreements, and we call on these countries to enter into such agreements by the Review Conference next year as a strong affirma�on of commitment to the NPT. We are hopeful that the universaliza�on of the Addi�onal Protocol will not be far behind. We view",
+      "confidence": 0.92,
+      "weight": 0.92,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_4.pdf",
+      "page": 2,
+      "paragraph_id": 2,
+      "position_summary": "The United States calls for universal adoption of comprehensive safeguards agreements and Additional Protocols, with modified Small Quantities Protocols where applicable, and aims to solidify CSA+AP as the de facto standard by the 2026 Review Conference. It highlights recent progress, including three new CSAs and 141 States Parties with an AP.",
+      "quote": "Chair, The United States remains committed to achieving universality of comprehensive safeguards agreements (CSAs). Since last year’s Review Conference, three new CSAs entered into force, bringing us ever closer to universal adherence. In addition, 141 States Parties now have an Additional Protocol (AP). Let’s finish the job to make it universal in this review cycle. This would be a fitting achievement for the 2026 Review Conference; it would extend recognition of the combination of a CSA and an Additional Protocol, and where applicable a modified Small Quantities Protocol, as the de facto standard for achieving the",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_5.pdf",
+      "page": 2,
+      "paragraph_id": 3,
+      "position_summary": "The United States warns that Iran is escalating its nuclear program by producing highly enriched uranium and failing to fully cooperate with the IAEA. It argues that Iran is not meeting its safeguards obligations, preventing the Agency from assuring the program is exclusively peaceful.",
+      "quote": "The United States is profoundly concerned by Tehran’s sustained path of nuclear escalation. Iran is the only country without nuclear weapons that is producing highly enriched uranium. For five years, Iran has refused to fully cooperate with the IAEA and abide by its safeguards commitments; due to this intransigence, the Agency remains unable to provide critical assurances that the program is exclusively peaceful.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_1.pdf",
+      "page": 2,
+      "paragraph_id": 6,
+      "position_summary": "The statement condemns Iran for accelerating production and accumulation of highly enriched uranium without a credible civilian purpose, noting this level of enrichment is atypical for non-nuclear-weapon states. It further alleges Iran is disregarding its NPT-mandated comprehensive safeguards obligations.",
+      "quote": "Iran has accelerated its production and accumulation of highly enriched uranium – a material for which Iran has no credible civilian purpose. No other country in the world is enriching to this level that does not also possess nuclear weapons. Moreover, Iran has disregarded its obligations under its NPT-mandated comprehensive safeguards agreement.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_5.pdf",
+      "page": 1,
+      "paragraph_id": 3,
+      "position_summary": "The statement criticizes Iran for failing to cooperate with the IAEA on undeclared nuclear material, not implementing its Additional Protocol and modified Code 3.1, and expanding enrichment to 60% with advanced centrifuges. It argues these actions lack a credible civilian purpose and urges collective pressure for Iran to comply with its safeguards obligations.",
+      "quote": "Equally concerning are Iran’s failures to provide the IAEA with technically credible clarifications regarding undeclared locations where the IAEA detected the presence of nuclear material. Iran is not implementing its Additional Protocol and modified Code 3.1 of its safeguards subsidiary arrangements, both of which remain in force. Iran is also expanding its uranium enrichment infrastructure, deploying advanced centrifuges and producing HEU up to 60%, none of which have a credible civilian purpose. We must all insist that Iran",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_4.pdf",
+      "page": 2,
+      "paragraph_id": 2,
+      "position_summary": "The country strongly supports the IAEA’s independent safeguards system and promotes the CSA plus AP as the de facto verification standard under the NPT. It urges universalization of CSAs by the 2026 Review Conference and seeks rapid universalization of the Additional Protocol thereafter.",
+      "quote": "The NPT – and our collective security – depend on effective IAEA safeguards to verify that nuclear material is not diverted and that states do not pursue undeclared nuclear activities. We all owe a debt of gratitude to the IAEA for its outstanding work, technical excellence, and independence in providing credible assurances to that effect. Through it, the combination of a Comprehensive Safeguards Agreement (CSA) and an Additional Protocol (AP) represents a de facto standard for NPT verification. Universality of CSAs is finally within reach, with only four NPT States Parties having yet to bring one into force. Let’s make the final push for the 2026 Review Conference and let us see to it that universalization of the AP is not far behind.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_1.pdf",
+      "page": 1,
+      "paragraph_id": 9,
+      "position_summary": "The statement asserts that Iran has not fully addressed IAEA inquiries regarding indications of possible undeclared nuclear material and activities, signaling concern over safeguards compliance. It implicitly urges Iran to cooperate fully with the IAEA to resolve these issues.",
+      "quote": "And Iran has not yet fully answered questions from the IAEA about indications of possible undeclared nuclear material and activities on its territory.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_4.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "They affirm that the AUKUS transfer of conventionally armed, nuclear-powered submarines to Australia will meet the highest nonproliferation standards and be implemented consistently with the NPT. They emphasize ongoing transparency and engagement with the IAEA, noting the Director General’s positive assessment, and invite participation in a side event on naval nuclear propulsion.",
+      "quote": "Regarding the AUKUS partnership, the leaders of the United States, United Kingdom, and Australia have made clear that the provision of conventionally armed, nuclear-powered submarines to Australia will be carried out in a manner that sets the highest nonproliferation standard and strengthens the global nonproliferation regime. The AUKUS partners continue to routinely engage with the IAEA and note that IAEA Director General Grossi expressed satisfaction with our transparency and engagement to date. Given the wide interest expressed here, we hope states parties will join our side event today on naval nuclear propulsion and the NPT in Room M2.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_5.pdf",
+      "page": 2,
+      "paragraph_id": 3,
+      "position_summary": "The United States condemns the DPRK’s unlawful nuclear and missile programs and its threatening rhetoric, viewing them as a serious threat to international peace and the nonproliferation regime. It seeks complete, verifiable denuclearization of the Korean Peninsula through sustained diplomacy and insists on the DPRK’s return to the NPT and IAEA safeguards.",
+      "quote": "Chair, The DPRK’s unlawful and continuing nuclear and ballistic missile programs constitute a serious and direct threat to international peace and security and to the global nonproliferation regime. The DPRK’s threatening and irresponsible rhetoric has also intensified, including by characterizing some of its missile launches and other military activities as “trial runs” for the use of tactical nuclear weapons. Our goal remains the complete and verifiable denuclearization of the Korean Peninsula. In that regard, the United States is committed to serious, calibrated, and sustained diplomacy with the DPRK, and we will continue to insist on its return to the NPT and IAEA safeguards.",
+      "confidence": 0.9,
+      "weight": 0.225,
+      "tier": "core"
+    }
+  ]
+}

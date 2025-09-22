@@ -1,0 +1,107 @@
+{
+  "country": "USA",
+  "issue": "Nuclear threats",
+  "updated_at": "2025-09-21T17:55:19.338163Z",
+  "entries": [
+    {
+      "source_file": "2023_USA_Statements_1.pdf",
+      "page": 1,
+      "paragraph_id": 7,
+      "position_summary": "The country condemns the DPRK’s ongoing unlawful nuclear and ballistic missile programs, viewing them as a threat to international peace and security and to the global nonproliferation regime.",
+      "quote": "The DPRK continues its unlawful nuclear and ballistic missile programs, threatening international peace and security and the global nonproliferation regime.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_5.pdf",
+      "page": 2,
+      "paragraph_id": 3,
+      "position_summary": "The United States condemns the DPRK’s unlawful nuclear and missile programs and its threatening rhetoric, viewing them as a serious threat to international peace and the nonproliferation regime. It seeks complete, verifiable denuclearization of the Korean Peninsula through sustained diplomacy and insists on the DPRK’s return to the NPT and IAEA safeguards.",
+      "quote": "Chair, The DPRK’s unlawful and continuing nuclear and ballistic missile programs constitute a serious and direct threat to international peace and security and to the global nonproliferation regime. The DPRK’s threatening and irresponsible rhetoric has also intensified, including by characterizing some of its missile launches and other military activities as “trial runs” for the use of tactical nuclear weapons. Our goal remains the complete and verifiable denuclearization of the Korean Peninsula. In that regard, the United States is committed to serious, calibrated, and sustained diplomacy with the DPRK, and we will continue to insist on its return to the NPT and IAEA safeguards.",
+      "confidence": 0.9,
+      "weight": 0.225,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_5.pdf",
+      "page": 1,
+      "paragraph_id": 2,
+      "position_summary": "The country expresses concern over Iranian officials' statements implying a capability to acquire nuclear weapons and calls for rejecting such rhetoric. It urges collective condemnation to deter proliferation-related threats.",
+      "quote": "Concerning Iran, we note the recent statements by Iranian officials signaling a capability to acquire nuclear weapons should it decide to do so. We must all join in rejecting such language.",
+      "confidence": 0.88,
+      "weight": 0.44,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_1.pdf",
+      "page": 1,
+      "paragraph_id": 4,
+      "position_summary": "The statement condemns Russia’s war against Ukraine and its irresponsible nuclear rhetoric, criticizes reckless actions at the Zaporizhzhia nuclear power plant as endangering nuclear facilities and safety, and rejects Russia’s claimed suspension of New START as contrary to international law.",
+      "quote": "Russia’s unprovoked war against Ukraine tragically continues, as do Russia’s irresponsible nuclear rhetoric, its reckless actions at the Zaporizhzhia nuclear power plant, and its claim to suspend the New START Treaty, a claim that is inconsistent with international law.",
+      "confidence": 0.88,
+      "weight": 0.176,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_3.pdf",
+      "page": 2,
+      "paragraph_id": 6,
+      "position_summary": "The country calls for immediate assistance to any NPT non-nuclear-weapon State that faces nuclear threats or aggression involving nuclear weapons. This reflects support for strong security assurances in such circumstances.",
+      "quote": "• Third, the necessity of providing or supporting immediate assistance to any non-nuclear weapon State Party to the NPT that is an object of a threat or ofact of aggression involving the use of nuclear weapons.",
+      "confidence": 0.86,
+      "weight": 0.43,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_3.pdf",
+      "page": 3,
+      "paragraph_id": 3,
+      "position_summary": "The United States condemns Russia for violating the Budapest Memorandum’s security assurances to Ukraine and for irresponsible nuclear rhetoric and WMD disinformation, which heighten risks and undermine disarmament efforts. The U.S. pledges not to engage in such behavior and to uphold its own security assurances.",
+      "quote": "The international community cannot, and should not, ignore Russia’s repeated and flagrant disregard for its international obligations and commitments, including obligations under the UN Charter. Russia’s horrific war against Ukraine has betrayed the very security assurances Russia gave to Ukraine through the Budapest Memorandum when Ukraine joined the NPT. Russia’s irresponsible rhetoric regarding nuclear weapons, disinformation about possible WMD use, and past use of chemical weapons further undermine efforts to make progress on disarmament and increase the risk of miscalculation. The United States will not engage in such irresponsible and dangerous behavior, and we will continue to uphold the assurances hawse have provided on our own part.",
+      "confidence": 0.86,
+      "weight": 0.2866666666666667,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_4.pdf",
+      "page": 2,
+      "paragraph_id": 6,
+      "position_summary": "The United States views the DPRK’s missile and WMD programs as significant security threats and calls for the complete denuclearization of North Korea. It urges the DPRK to return to the NPT and to compliance with IAEA safeguards.",
+      "quote": "Similarly, the DPRK’s ballis�c missile and weapons of mass destruc�on programs pose significant security threats. The United States calls for the complete denucleariza�on of North Korea and its return to the NPT and IAEA",
+      "confidence": 0.86,
+      "weight": 0.215,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_1.pdf",
+      "page": 1,
+      "paragraph_id": 8,
+      "position_summary": "The country condemns Russia’s actions in Ukraine, accusing it of seizing peaceful nuclear facilities and engaging in reckless nuclear rhetoric. It also asserts that Russia has violated provisions of the New START Treaty.",
+      "quote": "• Russia, an NPT nuclear-weapon state and treaty depository, is engaged in an illegal war against its non-nuclear weapon state neighbor. It has violently seized Ukraine’s peaceful nuclear facilities; engaged in reckless nuclear rhetoric; violated provisions of the New START Treaty; and may be",
+      "confidence": 0.86,
+      "weight": 0.215,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_8.pdf",
+      "page": 3,
+      "paragraph_id": 3,
+      "position_summary": "The statement criticizes China’s rapid, opaque nuclear buildup and rejects China’s proposed No First Use treaty as non-credible and unverifiable. It also condemns Russia’s coercive nuclear rhetoric and highlights concern over Russia’s increased military cooperation with the DPRK.",
+      "quote": "Such falsehoods distract from the truly worrisome issues at hand, including China’s rapid and opaque nuclear weapons build-up, and Russia’s coercive nuclear rhetoric and increased military cooperation with the DPRK. We were dismayed by some States Parties’ support for China’s proposal for a non- credible, unverifiable No First Use Treaty. We must ask – what good is a statement from China that it will not use nuclear weapons first, when its nuclear build-up appears to contradict to its stated policy?",
+      "confidence": 0.86,
+      "weight": 0.172,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_1.pdf",
+      "page": 2,
+      "paragraph_id": 4,
+      "position_summary": "The statement condemns Russia for qualitatively expanding its nuclear forces, undermining arms control by purporting to suspend New START, and engaging in irresponsible nuclear rhetoric. It also accuses Russia of violating its security assurances to Ukraine.",
+      "quote": "Russia has developed novel nuclear weapons and improved dual-capable delivery systems, unlawfully purported to suspend the New START Treaty, engaged in irresponsible nuclear rhetoric, and reneged on the security assurances it provided Ukraine.",
+      "confidence": 0.86,
+      "weight": 0.172,
+      "tier": "core"
+    }
+  ]
+}

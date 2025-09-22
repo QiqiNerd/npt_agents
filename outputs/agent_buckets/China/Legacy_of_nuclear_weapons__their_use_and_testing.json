@@ -1,0 +1,21 @@
+{
+  "country": "China",
+  "issue": "Legacy of nuclear weapons, their use and testing",
+  "updated_at": "2025-09-21T16:04:12.624005Z",
+  "entries": [
+    {
+      "id": 1291,
+      "year": 2025,
+      "doc_type": "working_paper",
+      "source_file": "2025_China_WP_1.pdf",
+      "page": 6,
+      "paragraph_id": 8,
+      "position_summary": "The country urges states and relevant international organizations to assist nations affected by nuclear testing with remediation of radioactive contamination. It calls on nuclear-weapon states that tested abroad to assume historical responsibility, provide remediation and compensation, and address the humanitarian needs of affected populations.",
+      "quote": "Urge States and international organizations with expertise in eliminating and disposing of radioactive contamination to actively consider providing appropriate assistance, upon request, to countries affected by nuclear testing. In particular, nuclear-weapon States that have conducted nuclear tests abroad should fulfill their historical responsibilities and obligations for remediation and compensation, and thoroughly address the humanitarian issues faced by affected countries and their people. 6/6",
+      "confidence": 0.88,
+      "weight": 0.44,
+      "tier": "core"
+    }
+  ],
+  "topline_summary": null
+}

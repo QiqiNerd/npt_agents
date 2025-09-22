@@ -1,0 +1,73 @@
+{
+  "country": "Russia",
+  "issue": "Regional proliferation challenges including the the Democratic People's Republic of Korea, Iran and Joint Comprehensive Plan of Action",
+  "updated_at": "2025-09-21T16:04:12.624005Z",
+  "entries": [
+    {
+      "id": 893,
+      "year": 2023,
+      "doc_type": "statement",
+      "source_file": "2023_Russia_Statements_1.pdf",
+      "page": 5,
+      "paragraph_id": 1,
+      "position_summary": "The country condemns U.S.-ROK joint nuclear planning and the visit of a U.S. nuclear-armed ballistic missile submarine to Busan, arguing these actions undermine efforts and UN Security Council resolutions aimed at denuclearizing the Korean Peninsula. It assigns responsibility to Washington and Seoul.",
+      "quote": "5 referred to joint nuclear planning. On 18 July, a U.S. nuclear-armed ballistic missile submarine visited the port of Busan. Such actions undermine not only efforts to resolve the situation on the Korean Peninsula, but also the entire system of UN Security Council resolutions aimed at its denuclearization. The responsibility for this falls on Washington and Seoul.",
+      "confidence": 0.85,
+      "weight": 0.425,
+      "tier": "core"
+    },
+    {
+      "id": 891,
+      "year": 2023,
+      "doc_type": "statement",
+      "source_file": "2023_Russia_Statements_1.pdf",
+      "page": 4,
+      "paragraph_id": 5,
+      "position_summary": "The statement highlights the DPRK/Korean Peninsula as a major irritant to the non-proliferation regime, noting that the DPRK is commonly accused of NPT violations. It recalls that the UN Security Council has adopted multiple resolutions calling for denuclearization of the Korean Peninsula.",
+      "quote": "Mr. Chair, Speaking about the state of the nuclear non-proliferation regime, one cannot fail to mention such an irritant as the Korean Peninsula nuclear issue. For many years it has been common to accuse the DPRK of violating the NPT. The UN Security Council has adopted a number of resolutions on the denuclearization of the Korean Peninsula.",
+      "confidence": 0.84,
+      "weight": 0.84,
+      "tier": "core"
+    },
+    {
+      "id": 257,
+      "year": 2025,
+      "doc_type": "statement",
+      "source_file": "2025_Russia_Statements_5.pdf",
+      "page": 3,
+      "paragraph_id": 1,
+      "position_summary": "It criticizes certain countries for violating UNSCR 2231 and obstructing the JCPOA’s revival, aggravating tensions around Iran. It affirms Iran’s NPT-enshrined right to peaceful nuclear activities and claims Iran is complying with its obligations.",
+      "quote": "3 violated UN Security Council Resolution 2231 and then disrupted the process of the revival of the 'nuclear deal'. The moves of these countries lead to further aggravation around Iran and its nuclear activities, fuelling instability in the Middle East. Iran's right to develop peaceful nuclear activities is enshrined in the NPT as the country is a party to the Treaty and strictly complies with its obligations.",
+      "confidence": 0.82,
+      "weight": 0.41,
+      "tier": "core"
+    },
+    {
+      "id": 1004,
+      "year": 2023,
+      "doc_type": "statement",
+      "source_file": "2023_Russia_Statements_3.pdf",
+      "page": 2,
+      "paragraph_id": 4,
+      "position_summary": "The country contends that U.S. extended deterrence measures with the Republic of Korea—highlighted by an SSBN port visit and claims of a “nuclear” alliance—contradict nonproliferation goals and undermine denuclearization of the Korean Peninsula. It argues that Washington, not the DPRK, bears primary responsibility for the lack of progress on denuclearization.",
+      "quote": "For many years, it has been common to blame the DPRK for violating the NPT and the lack of progress in denuclearization of the Korean Peninsula. In fact, it is the United States that is taking steps incompatible with the objectives of nuclear non-proliferation by drawing the Republic of Korea, a non-nuclear-weapon State within the meaning of the NPT, into the orbit of its nuclear strategy. The President of the Republic of Korea has openly declared that the alliance with the U.S. has \"upgraded to a nuclear one.\" On 18 July, a U.S. nuclear-armed intercontinental ballistic missile submarine visited the port of Busan. Such actions nullify the prospects for resolving the situation on the Korean Peninsula, undermining the goal of its denuclearization, which is backed by relevant UN Security Council resolutions. The responsibility for this falls on Washington.",
+      "confidence": 0.82,
+      "weight": 0.2733333333333333,
+      "tier": "core"
+    },
+    {
+      "id": 258,
+      "year": 2025,
+      "doc_type": "statement",
+      "source_file": "2025_Russia_Statements_5.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "The country rejects threats or use of force, warning they fuel escalation, and insists the Iranian nuclear issue should be resolved through negotiated agreements rather than coercion.",
+      "quote": "External threats of use of force, not to mention the realization of such disastrous scenarios, inevitably lead to escalation and crisis. We firmly believe that a lasting settlement with regard to Iranian nuclear programme can only be achieved based on negotiated decisions.",
+      "confidence": 0.8,
+      "weight": 0.4,
+      "tier": "core"
+    }
+  ],
+  "topline_summary": null
+}

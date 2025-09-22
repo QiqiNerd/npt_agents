@@ -1,0 +1,73 @@
+{
+  "country": "USA",
+  "issue": "Discouraging the Treaty on the Non-Proliferation of Nuclear Weapons withdrawal",
+  "updated_at": "2025-09-21T16:04:12.624005Z",
+  "entries": [
+    {
+      "id": 239,
+      "year": 2023,
+      "doc_type": "statement",
+      "source_file": "2023_USA_Statements_7.pdf",
+      "page": 3,
+      "paragraph_id": 1,
+      "position_summary": "Supports preserving the 2022 draft final document’s principles to discourage NPT withdrawal, citing continued broad support despite Russia blocking consensus. Uses the DPRK’s 2003 withdrawal as context for the need to deter similar actions.",
+      "quote": "Chair, Concerning Article X: Since the DPRK’s announced withdrawal from the NPT in 2003, four Review Conferences have considered ways to discourage similar action by other State Parties in the future. We were pleased that the draft final document in 2022 endorsed a set of principles and elements related to withdrawal that should be preserved. Although Russia blocked consensus on the final document, we believe there remains broad support for those elements.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "id": 339,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_USA_Statements_4.pdf",
+      "page": 3,
+      "paragraph_id": 4,
+      "position_summary": "The country urges action to prevent abuse of Article X and to adopt principles that deter NPT withdrawals. It argues that withdrawal undermines universality, does not erase responsibility for pre-withdrawal noncompliance, and does not diminish obligations regarding the use or misuse of peaceful nuclear cooperation.",
+      "quote": "Chair, It is long past time that States Parties address the challenge of abuse of the NPT’s withdrawal right in Article X. Since the DPRK’s announced withdrawal in 2003, four Review Conferences have been unable to reach consensus on ways to discourage similar action by others in the future. NPT States Parties can make a start by acknowledging several basic principles: First, withdrawal from the NPT by definition sets back the goal of universality. Second, it must be recognized that a withdrawing state remains responsible under international law for any unresolved noncompliance prior to withdrawal. And third, a States Party’s withdrawal in no way minimizes its obligations regarding the use or misuse the fruits of peaceful nuclear cooperation.",
+      "confidence": 0.88,
+      "weight": 0.22,
+      "tier": "core"
+    },
+    {
+      "id": 698,
+      "year": 2025,
+      "doc_type": "statement",
+      "source_file": "2025_USA_Statements_7.pdf",
+      "page": 4,
+      "paragraph_id": 3,
+      "position_summary": "The delegation argues that while they do not seek to amend the NPT or restrict the legitimate right to withdraw, any withdrawal undermines the security benefits for remaining Parties. They advocate holding any withdrawing state fully accountable for violations committed prior to withdrawal, citing the DPRK case and the lack of RevCon consensus to date.",
+      "quote": "Chair, Since the DPRK announced its withdrawal from the NPT in 2003, four Review Conferences have been unable to reach consensus on ways to discourage similar action by another State Party in the future, though the 2022 RevCon came close. We are not proposing to amend the Treaty or to limit the legitimate right of withdrawal. However, any withdrawal from the NPT can diminish the security benefits the remaining NPT Parties derive from the Treaty. Holding a withdrawing state fully accountable for any violations of the Treaty committed prior to its withdrawal does not infringe upon that state’s right of withdrawal but rather",
+      "confidence": 0.87,
+      "weight": 0.435,
+      "tier": "core"
+    },
+    {
+      "id": 285,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_USA_Statements_5.pdf",
+      "page": 2,
+      "paragraph_id": 5,
+      "position_summary": "The country supports complete denuclearization of the Korean Peninsula and is ready for practical dialogue to secure the DPRK’s return to the NPT and full compliance with IAEA safeguards. It endorses France’s joint statement highlighting the DPRK’s threat to the global nonproliferation regime and urges others to join. This implies support for NPT universality and opposition to NPT withdrawal.",
+      "quote": "Our goal remains the complete denuclearization of the Korean Peninsula, and we stand ready to pursue calibrated, practical dialogue that results in the DPRK’s return to, and full compliance with, the NPT and IAEA safeguards. And in this regard, we fully endorse France’s joint statement addressing the DPRK’s threat to the global nuclear nonproliferation regime and urge all parties to do the same.",
+      "confidence": 0.86,
+      "weight": 0.215,
+      "tier": "core"
+    },
+    {
+      "id": 699,
+      "year": 2025,
+      "doc_type": "statement",
+      "source_file": "2025_USA_Statements_7.pdf",
+      "page": 5,
+      "paragraph_id": 1,
+      "position_summary": "The country argues that discouraging NPT withdrawal protects the collective interests of all Parties and stresses that leaving the Treaty does not relieve a state of separate obligations not to misuse peaceful nuclear cooperation. Withdrawal should not enable diversion of peaceful nuclear benefits to non-peaceful ends.",
+      "quote": "protects the mutual interests of all other NPT Parties. Furthermore, withdrawal from the NPT does not alter other obligations a withdrawing state may have, separate from the NPT, not to misuse the fruits of peaceful nuclear cooperation.",
+      "confidence": 0.71,
+      "weight": 0.355,
+      "tier": "core"
+    }
+  ],
+  "topline_summary": null
+}

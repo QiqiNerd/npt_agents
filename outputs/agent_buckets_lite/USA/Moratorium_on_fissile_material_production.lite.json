@@ -1,0 +1,87 @@
+{
+  "country": "USA",
+  "issue": "Moratorium on fissile material production",
+  "updated_at": "2025-09-21T17:55:19.361460Z",
+  "entries": [
+    {
+      "source_file": "2023_USA_Statements_2.pdf",
+      "page": 2,
+      "paragraph_id": 2,
+      "position_summary": "The country maintains a moratorium on producing fissile material for nuclear weapons and urges urgent negotiation of an FMCT in the Conference on Disarmament to prevent renewed nuclear arms racing.",
+      "quote": "We maintain a moratorium on the production of fissile material for use in nuclear weapons and continue to press for negotiation of an FMCT in the Conference on Disarmament, urgently needed to forestall a return to an era of nuclear arms racing.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_1.pdf",
+      "page": 3,
+      "paragraph_id": 1,
+      "position_summary": "The country supports negotiating an FMCT and urges China to join other NPT nuclear-weapon states in adopting a moratorium on producing fissile material for nuclear weapons pending such a treaty, framing this as part of fulfilling Article VI obligations.",
+      "quote": "Article VI. Pending such a treaty, we hope the PRC will join the other NPT nuclear- weapon States in adopting a moratorium on the production of fissile material for use in nuclear weapons.",
+      "confidence": 0.9,
+      "weight": 0.3,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_2.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "The United States supports negotiating an FMCT, has engaged in UNGA FMCT initiatives, and maintains a unilateral moratorium on producing fissile material for weapons while urging China to follow suit. It cites irreversible disarmament steps—dismantling plutonium production reactors, stockpile reductions via arms control with Russia, and fissile material disposition—and endorses the principles of irreversibility, verifiability, and transparency. The U.S. advances verification capabilities through the IPNDV, Quad Nuclear Verification Partnership, and UN GGE.",
+      "quote": "We will also engage constructively in the other subsidiary bodies, including on the Cessation of the nuclear arms race and nuclear disarmament. In addition to our efforts at the CD, the United States actively participated in two UN General Assembly FMCT initiatives in 2014-2015 and 2017-2018 that we believe laid important groundwork for future FMCT negotiations. We continue to maintain our unilateral moratorium on the production of fissile material for use in nuclear weapons and urge the PRC – the only Nuclear Weapon State that has not done the same – to join us. 2000 Steps Five and Thirteen; 2010 Actions Two and Eighteen: Irreversibility and Further Development of Verification Capabilities: On Steps Five and Thirteen, the United States has undertaken important steps to support the principal of irreversibility, including through irreversible dismantlement of all weapons-grade plutonium production reactors, stockpile reductions through arms control treaties with Russia, disposition of fissile material from nuclear weapons, and other efforts. We also support language from the 2022 RevCon Draft Final document that acknowledges the mutually reinforcing principles of irreversibility, verifiability, and transparency. Active U.S. engagement in the IPNDV, Quad Nuclear Verification Partnership, and UN GGE underscore our commitment to engaging a broad set of countries on the development of future tools for arms control that support irreversibility, verifiability, and transparency in nuclear disarmament. We also welcome the group statement on irreversibility in nuclear disarmament delivered by Norway,",
+      "confidence": 0.87,
+      "weight": 0.145,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_2.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "The United States criticizes China’s rapid, opaque expansion of its nuclear arsenal, citing new ICBM silos, delivery systems, and ongoing production of fissile material, with projections of 1,000+ warheads by 2030. It argues China’s buildup contradicts its stated policies of minimum deterrence and No First Use and contrasts with other NPT nuclear-weapon states’ behavior. The U.S. asserts it acts responsibly as a nuclear-weapon state under the NPT.",
+      "quote": "Mr. Chair, the United States is committed to responsible behavior as a nuclear-weapon State under the NPT. Not all NPT nuclear-weapon States have done the same. We continue to be deeply concerned by China’s rapid, opaque, and destabilizing expansion of its nuclear arsenal, including the construction of hundreds of new ICBM silos and the development of new delivery systems. We assess that China currently has 600 operational nuclear weapons, which will increase to over 1,000 by the year 2030, and that it is actively producing new fissile material for use in its growing nuclear arsenal, unlike the other four nuclear-weapon states. China’s activities indicate it seeks the ability to inflict far greater levels of overwhelming damage to an adversary in a nuclear exchange than it has historically deemed necessary, and all while professing to apply “minimum deterrence” and “No First Use” in its nuclear authorities.",
+      "confidence": 0.86,
+      "weight": 0.14333333333333334,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_5.pdf",
+      "page": 4,
+      "paragraph_id": 2,
+      "position_summary": "The United States expresses concern about the growth of nuclear arsenals and capabilities in Asia among both NPT Parties and non-Parties. It urges all nuclear-armed states to exercise restraint and to establish and maintain moratoria on the production of fissile material for nuclear weapons.",
+      "quote": "Finally, the United States remains concerned by the growth of nuclear weapons stockpiles and capabilities of NPT Parties and non-Parties in Asia, and we continue to encourage all states with nuclear weapons to exercise restraint regarding their nuclear weapons and missile capabilities, including by establishing and maintaining moratoria on production of fissile material for use in nuclear weapons.",
+      "confidence": 0.84,
+      "weight": 0.42,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_2.pdf",
+      "page": 1,
+      "paragraph_id": 2,
+      "position_summary": "The United States reaffirms strong support for the NPT and Article VI, highlighting an 88% reduction of its nuclear arsenal, dismantlement of thousands of warheads, and elimination of entire classes of delivery systems. It also notes a moratorium of over 30 years on producing fissile material for nuclear weapons.",
+      "quote": "The United States remains a strong supporter of the NPT, including the disarmament-related obligations contained in Article VI, and we have taken significant steps in this area, reducing U.S. nuclear arsenal by 88 percent, dismantling thousands of warheads, and eliminating entire classes of nuclear delivery systems. For more than 30 years, we have implemented a moratorium on the production of fissile material for use in nuclear weapons or other nuclear explosive devices. These are effective measures that 1",
+      "confidence": 0.84,
+      "weight": 0.27999999999999997,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_2.pdf",
+      "page": 5,
+      "paragraph_id": 3,
+      "position_summary": "Supports an immediate global moratorium on producing fissile material for nuclear weapons pending conclusion of an FMCT, and calls for transparency in civilian production of weapons-usable materials, likely through strengthened safeguards and reporting. The aim is to curb weapons-usable material accumulation and build confidence while negotiations proceed.",
+      "quote": "Pending that negotiation, it is time for all states to declare moratoria on the production of fissile material for use in nuclear weapons and other nuclear explosive devices and to provide transparency into their civil production of weapons usable material.",
+      "confidence": 0.82,
+      "weight": 0.2733333333333333,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_2.pdf",
+      "page": 1,
+      "paragraph_id": 3,
+      "position_summary": "The state frames its approach around the 2000 Thirteen Steps and the 2010 Action Plan, prioritizing bans/moratoria on nuclear testing, halting and disposing of fissile material production, and ensuring transparency and verification as core disarmament elements. It signals support for CTBT and FMCT-related measures and broader Article VI implementation.",
+      "quote": "I will frame my abridged remarks around the Thirteen Steps agreed to at the 2000 NPT Review Conference, which addressed nuclear testing, fissile material production and disposition, irreversibility, transparency, and verification, among other priorities, as key elements of disarmament. Our efforts also line up well with the relevant actions from the 2010 Action Plan. Our full statement will be available online.",
+      "confidence": 0.73,
+      "weight": 0.10428571428571429,
+      "tier": "core"
+    }
+  ]
+}

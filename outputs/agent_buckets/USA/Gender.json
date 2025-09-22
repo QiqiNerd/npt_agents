@@ -1,0 +1,21 @@
+{
+  "country": "USA",
+  "issue": "Gender",
+  "updated_at": "2025-09-21T16:04:12.624005Z",
+  "entries": [
+    {
+      "id": 1104,
+      "year": 2024,
+      "doc_type": "working_paper",
+      "source_file": "2024_USA_WP_1.pdf",
+      "page": 2,
+      "paragraph_id": 9,
+      "position_summary": "The country supports preserving and expanding attention to cross-cutting issues—transparency/reporting, education and capacity-building, and gender/diversity—within the NPT. It proposes dedicating plenary sessions at Review Conferences and the Preparatory Committee to these topics.",
+      "quote": "• Preserving and potentially expanding opportunities to address cross-cutting issues, such as transparency, reporting, education and capacity-building, gender and diversity. These could be addressed in dedicated plenary sessions of review conferences and the Preparatory Committee.",
+      "confidence": 0.86,
+      "weight": 0.215,
+      "tier": "core"
+    }
+  ],
+  "topline_summary": null
+}

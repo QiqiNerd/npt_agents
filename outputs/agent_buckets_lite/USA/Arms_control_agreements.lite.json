@@ -1,0 +1,107 @@
+{
+  "country": "USA",
+  "issue": "Arms control agreements",
+  "updated_at": "2025-09-21T17:55:19.345929Z",
+  "entries": [
+    {
+      "source_file": "2024_USA_Statements_1.pdf",
+      "page": 3,
+      "paragraph_id": 1,
+      "position_summary": "The country supports negotiating a Fissile Material Cut-Off Treaty in Geneva. It views such a treaty as a necessary step to prevent future nuclear arms racing.",
+      "quote": "And, here in Geneva, we continue to advocate for the negotiation of a Fissile Material Cut-Off Treaty, a step needed to help stop future arms racing in its tracks.",
+      "confidence": 0.93,
+      "weight": 0.31,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_2.pdf",
+      "page": 1,
+      "paragraph_id": 3,
+      "position_summary": "The United States reaffirms its Article VI obligation to pursue good-faith negotiations on nuclear disarmament and commits to doing so through bilateral treaties, multilateral fora, and practical actions to advance NPT disarmament goals.",
+      "quote": "The United States stands by our obligation under the NPT to pursue negotiations in good faith on effective measures on nuclear disarmament -- in bilateral treaties, through multilateral fora, and actions to advance NPT disarmament goals.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_2.pdf",
+      "page": 4,
+      "paragraph_id": 6,
+      "position_summary": "The country urges Russia to return to compliance with New START and to engage in talks to manage nuclear risks. It supports negotiating a post-2026 nuclear arms control framework.",
+      "quote": "It is time for Russia to return to compliance with New START and engage with us to manage nuclear risks and discuss a post-2026 nuclear arms control framework.",
+      "confidence": 0.88,
+      "weight": 0.44,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_8.pdf",
+      "page": 3,
+      "paragraph_id": 1,
+      "position_summary": "The United States underscores its commitment to transparency by voluntarily releasing aggregate New START data in May 2023. It criticizes Russia for not providing comparable data under the treaty.",
+      "quote": "Moreover, the United States voluntarily released aggregate data on U.S. strategic offensive arms under the New START Treaty on May 15, 2023. We note that Russia did not.",
+      "confidence": 0.88,
+      "weight": 0.44,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_1.pdf",
+      "page": 1,
+      "paragraph_id": 4,
+      "position_summary": "The statement condemns Russia’s war against Ukraine and its irresponsible nuclear rhetoric, criticizes reckless actions at the Zaporizhzhia nuclear power plant as endangering nuclear facilities and safety, and rejects Russia’s claimed suspension of New START as contrary to international law.",
+      "quote": "Russia’s unprovoked war against Ukraine tragically continues, as do Russia’s irresponsible nuclear rhetoric, its reckless actions at the Zaporizhzhia nuclear power plant, and its claim to suspend the New START Treaty, a claim that is inconsistent with international law.",
+      "confidence": 0.88,
+      "weight": 0.176,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_1.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "The country supports arms control engagement, risk reduction measures, and advancing a fissile material cutoff treaty to strengthen the NPT. It also stresses the importance of negative security assurances and calls on all states to uphold the assurances they have given.",
+      "quote": "Steps such as these – on arms control engagement, on risk reduction, and on Cutoff – can help strengthen the NPT’s role as a positive force for restraint and diplomacy. So too do negative security assurances, and we call on all states to uphold the assurances they have given.",
+      "confidence": 0.87,
+      "weight": 0.2175,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_1.pdf",
+      "page": 4,
+      "paragraph_id": 2,
+      "position_summary": "The country calls for using the NPT review process to advance nuclear restraint through renewed arms control and concrete risk-reduction measures. It insists on full compliance with IAEA safeguards and supports expanding peaceful nuclear uses globally.",
+      "quote": "At a time of rising instability and risk, let’s use this review process to advance policies and practices of nuclear restraint, including action on arms control and risk reduction, insisting on full compliance with IAEA safeguards, and facilitating an expansion of peaceful uses on a global scale.",
+      "confidence": 0.87,
+      "weight": 0.174,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_4.pdf",
+      "page": 2,
+      "paragraph_id": 1,
+      "position_summary": "The delegation condemns Syria’s safeguards non-compliance, the DPRK’s unchecked nuclear and ballistic advances, and Russia’s seizure of Ukraine’s Zaporizhzhia NPP, urging accountability for actions undermining the nonproliferation regime. It criticizes Russia and the PRC for expanding and diversifying their nuclear arsenals while showing little interest in arms control, and warns about destabilizing coordination among Russia, the PRC, the DPRK, and Iran.",
+      "quote": "agreement, Syria’s non-compliance with its comprehensive safeguards agreement, the DPRK’s unchecked advances of its nuclear and ballistic weapons programs, and Russia’s seizure of Ukraine’s Zaporizhzhia Nuclear Power Plant. Furthermore, Russia and the PRC are expanding and diversifying their nuclear weapons arsenals — showing little or no interest in arms control. Russia, the PRC, and the DPRK, together with Iran, are increasingly cooperating and coordinating with each other in ways that run counter to peace and stability and exacerbate regional tensions. We will have more to say on these topics in our statement on regional issues; however, my delegation wishes to stress that part of keeping the nonproliferation regime strong is holding those whose actions contradict it accountable.",
+      "confidence": 0.87,
+      "weight": 0.145,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_2.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "The United States supports negotiating an FMCT, has engaged in UNGA FMCT initiatives, and maintains a unilateral moratorium on producing fissile material for weapons while urging China to follow suit. It cites irreversible disarmament steps—dismantling plutonium production reactors, stockpile reductions via arms control with Russia, and fissile material disposition—and endorses the principles of irreversibility, verifiability, and transparency. The U.S. advances verification capabilities through the IPNDV, Quad Nuclear Verification Partnership, and UN GGE.",
+      "quote": "We will also engage constructively in the other subsidiary bodies, including on the Cessation of the nuclear arms race and nuclear disarmament. In addition to our efforts at the CD, the United States actively participated in two UN General Assembly FMCT initiatives in 2014-2015 and 2017-2018 that we believe laid important groundwork for future FMCT negotiations. We continue to maintain our unilateral moratorium on the production of fissile material for use in nuclear weapons and urge the PRC – the only Nuclear Weapon State that has not done the same – to join us. 2000 Steps Five and Thirteen; 2010 Actions Two and Eighteen: Irreversibility and Further Development of Verification Capabilities: On Steps Five and Thirteen, the United States has undertaken important steps to support the principal of irreversibility, including through irreversible dismantlement of all weapons-grade plutonium production reactors, stockpile reductions through arms control treaties with Russia, disposition of fissile material from nuclear weapons, and other efforts. We also support language from the 2022 RevCon Draft Final document that acknowledges the mutually reinforcing principles of irreversibility, verifiability, and transparency. Active U.S. engagement in the IPNDV, Quad Nuclear Verification Partnership, and UN GGE underscore our commitment to engaging a broad set of countries on the development of future tools for arms control that support irreversibility, verifiability, and transparency in nuclear disarmament. We also welcome the group statement on irreversibility in nuclear disarmament delivered by Norway,",
+      "confidence": 0.87,
+      "weight": 0.145,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_1.pdf",
+      "page": 2,
+      "paragraph_id": 9,
+      "position_summary": "The United States expresses readiness to engage in bilateral arms control discussions with Russia and China without preconditions, signaling openness to negotiate future arms control arrangements.",
+      "quote": "That is why National Security Advisor Jake Sullivan told the world the United States is willing to engage in bilateral arms control discussions with Russia and with China – without preconditions.",
+      "confidence": 0.86,
+      "weight": 0.86,
+      "tier": "core"
+    }
+  ]
+}

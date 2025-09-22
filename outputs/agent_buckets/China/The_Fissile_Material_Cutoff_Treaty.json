@@ -1,0 +1,60 @@
+{
+  "country": "China",
+  "issue": "The Fissile Material Cutoff Treaty",
+  "updated_at": "2025-09-21T16:04:12.624005Z",
+  "entries": [
+    {
+      "id": 1264,
+      "year": 2025,
+      "doc_type": "working_paper",
+      "source_file": "2025_China_WP_1.pdf",
+      "page": 3,
+      "paragraph_id": 5,
+      "position_summary": "Asserts that the Conference on Disarmament is the sole appropriate forum to negotiate an FMCT and supports commencing negotiations there by consensus, in line with CD/1299. Advocates a comprehensive and balanced program of work under that mandate.",
+      "quote": "Reiterate that the Conference on Disarmament is the only appropriate venue for the negotiation of the Fissile Material Cut-off Treaty (FMCT). Support the Conference on Disarmament in initiating relevant negotiations on the basis of reaching a comprehensive and balanced program of work through consensus in accordance with CD/1299 and the mandate contained therein.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "id": 680,
+      "year": 2023,
+      "doc_type": "statement",
+      "source_file": "2023_China_Statements_3.pdf",
+      "page": 4,
+      "paragraph_id": 2,
+      "position_summary": "China asserts it fulfills Article VI and supports arms control, endorsing the CTBT, observing a nuclear-testing moratorium, and backing the treaty’s monitoring and verification system. It supports FMCT negotiations in the CD under the Shannon Mandate, backs a Middle East WMD-free zone, and is willing to sign the SEANWFZ Protocol.",
+      "quote": "China actively fulfills its obligations under Article VI of the NPT, and participates constructively in the international nuclear arms control process. China firmly supports the object and purpose of the Comprehensive Nuclear-Test-Ban Treaty (CTBT), abides by the commitment to the “moratorium on nuclear testing”, fully participates in the work of the Preparatory Committee in a constructive manner, and supports the establishment of the treaty’s monitoring and verification mechanism. China supports the Conference on Disarmament in Geneva in reaching a comprehensive and balanced programme of work and carry out negotiations on FMCT in which all relevant parties participate in accordance with the Shannon Mandate. China supports countries in the Middle East in establishing a zone free of nuclear weapons and other weapons of mass destruction in the Middle East, and is willing to take the lead in signing the Protocol to the Treaty on the Southeast Asia Nuclear-Weapon-Free Zone.",
+      "confidence": 0.9,
+      "weight": 0.1285714285714286,
+      "tier": "core"
+    },
+    {
+      "id": 327,
+      "year": 2025,
+      "doc_type": "statement",
+      "source_file": "2025_China_Statements_4.pdf",
+      "page": 5,
+      "paragraph_id": 2,
+      "position_summary": "China says it maintains a minimum nuclear deterrent and will not engage in an arms race. It supports the early entry into force of the CTBT, adheres to a testing moratorium, and backs the Treaty’s monitoring and verification system. China also supports launching FMCT negotiations in the Conference on Disarmament on a consensus basis consistent with CD/1299.",
+      "quote": "China has always maintained its nuclear forces at the minimum level required for national security, has no intention of engaging in an arms race with any country now or in the future. China supports the early entry into force of the Comprehensive Nuclear-Test-Ban Treaty, always abides by its moratorium on nuclear testing, and supports the establishment of the Treaty’s monitoring and verification mechanism. China supports the Conference on Disarmament in initiating the negotiation of a Fissile Material Cut-off Treaty (FMCT) participated by all key parties on the basis of reaching a comprehensive and balanced program of work through consensus in accordance with CD/1299 and the mandate contained therein.",
+      "confidence": 0.86,
+      "weight": 0.215,
+      "tier": "core"
+    },
+    {
+      "id": 298,
+      "year": 2025,
+      "doc_type": "statement",
+      "source_file": "2025_China_Statements_5.pdf",
+      "page": 2,
+      "paragraph_id": 1,
+      "position_summary": "The country supports negotiating an FMCT, considering it the most realistic and feasible disarmament step at present and urging that it be prioritized in the Conference on Disarmament.",
+      "quote": "Council. It is the most realistic and feasible nuclear disarmament measure at the current stage and should be a priority for the Conference on Disarmament.",
+      "confidence": 0.84,
+      "weight": 0.84,
+      "tier": "core"
+    }
+  ],
+  "topline_summary": null
+}

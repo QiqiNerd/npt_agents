@@ -1,0 +1,21 @@
+{
+  "country": "USA",
+  "issue": "Naval propulsion",
+  "updated_at": "2025-09-21T16:04:12.624005Z",
+  "entries": [
+    {
+      "id": 167,
+      "year": 2023,
+      "doc_type": "statement",
+      "source_file": "2023_USA_Statements_4.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "They affirm that the AUKUS transfer of conventionally armed, nuclear-powered submarines to Australia will meet the highest nonproliferation standards and be implemented consistently with the NPT. They emphasize ongoing transparency and engagement with the IAEA, noting the Director General’s positive assessment, and invite participation in a side event on naval nuclear propulsion.",
+      "quote": "Regarding the AUKUS partnership, the leaders of the United States, United Kingdom, and Australia have made clear that the provision of conventionally armed, nuclear-powered submarines to Australia will be carried out in a manner that sets the highest nonproliferation standard and strengthens the global nonproliferation regime. The AUKUS partners continue to routinely engage with the IAEA and note that IAEA Director General Grossi expressed satisfaction with our transparency and engagement to date. Given the wide interest expressed here, we hope states parties will join our side event today on naval nuclear propulsion and the NPT in Room M2.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    }
+  ],
+  "topline_summary": null
+}

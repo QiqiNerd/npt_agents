@@ -1,0 +1,107 @@
+{
+  "country": "USA",
+  "issue": "Nuclear security",
+  "updated_at": "2025-09-21T17:55:19.316772Z",
+  "entries": [
+    {
+      "source_file": "2025_USA_Statements_6.pdf",
+      "page": 2,
+      "paragraph_id": 4,
+      "position_summary": "The United States emphasizes responsible, sustainable peaceful nuclear uses under the highest safety and security standards and highlights the IAEA’s central role in setting and supporting implementation of these norms. It urges all NPT States Parties to ratify and implement international nuclear safety and security treaties and commitments from the design phase onward.",
+      "quote": "The peaceful uses of the atom must be leveraged responsibly and under the highest standards of nuclear safety and security. The United States continues to prioritize implementing and maintaining these standards because they are essential for sustainability. Safe and secure nuclear technology is technology that citizens can trust, businesses can sell, utilities can rely on, and governments can back. The IAEA plays a critical role here as well by promoting safety standards and security guidance that reflect international consensus and supporting national regulatory bodies to implement these guidelines. We encourage all NPT States Parties to ratify and implement the international treaties and commitments related to nuclear safety and security throughout national planning – beginning with the design phase.",
+      "confidence": 0.91,
+      "weight": 0.30333333333333334,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_4.pdf",
+      "page": 5,
+      "paragraph_id": 2,
+      "position_summary": "Supports strengthening a robust nuclear security framework through implementation of relevant conventions, guidelines, and state practices, and calls for global support to counter evolving nuclear and radiological terrorism threats.",
+      "quote": "In the same vein, we underscore the importance of a robust nuclear security framework, grounded in implementation of the relevant conventions, policy guidance, and state practices. Global support for such a framework is essential to address continuing and evolving threat of nuclear and radiological terrorism.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_4.pdf",
+      "page": 6,
+      "paragraph_id": 1,
+      "position_summary": "The United States commits significant voluntary funding and technical assistance to enable safe and secure access to peaceful nuclear energy, including hundreds of programs on safeguards, nuclear security, and export controls. It reports providing over a quarter-billion dollars in extra-budgetary support to IAEA safeguards since 2015 and expresses a strong commitment to expanding peaceful uses.",
+      "quote": "In each of these areas, the United States devotes significant financial resources, technology, training and policy assistance on a voluntary basis to assure the fullest, secure and safe access to peaceful nuclear energy and technology. This includes hundreds of support programs conducted worldwide relating to nuclear safeguards, nuclear security, and export controls, as well as more than a quarter of a billion dollars of extrabudgetary IAEA safeguards support since the 2015 Review Conference. The United States is deeply committed to improving access to peaceful uses, and we look forward to discussing this further in our Cluster III statement.",
+      "confidence": 0.9,
+      "weight": 0.225,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_6.pdf",
+      "page": 6,
+      "paragraph_id": 1,
+      "position_summary": "The country calls for restoring full Ukrainian control over the Zaporizhzhya nuclear power plant, enabling regular rotation of Ukrainian and IAEA personnel, and reconnecting automatic radiation monitoring data transmission to the IAEA. It urges all parties to refrain from actions that could trigger a nuclear incident and supports sustained IAEA oversight for safety and security.",
+      "quote": "the territory under Ukraine’s control, provide for regular rotation of Ukrainian and IAEA personnel, reconnect automatic data transmission of all radiation monitoring systems, refrain from taking any actions that could result in a nuclear incident directly to the IAEA, and return full control of Zaporizhzhya to the competent Ukrainian authorities.",
+      "confidence": 0.88,
+      "weight": 0.22,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_4.pdf",
+      "page": 7,
+      "paragraph_id": 2,
+      "position_summary": "The country calls on Russia to withdraw weapons, equipment, and personnel from the Zaporizhzhya Nuclear Power Plant and restore full control to Ukrainian authorities. This underscores concerns about the safety and security of nuclear facilities in the context of the war in Ukraine.",
+      "quote": "We continue to call on Russia to remove its weapons, military equipment, and personnel from Zaporizhzhya and return full control of ZNPP to the competent Ukrainian authorities.",
+      "confidence": 0.87,
+      "weight": 0.2175,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_7.pdf",
+      "page": 4,
+      "paragraph_id": 2,
+      "position_summary": "The United States supports international cooperation on small modular reactors through capacity building and infrastructure assistance, integrating safeguards and security by design. It also backs the IAEA’s Milestones Approach to ensure new nuclear power programs meet the highest standards of safety, security, and safeguards.",
+      "quote": "In this regard, I note that the United States supports a range of bilateral and regional assistance to countries seeking to cooperate with the United States on small modular reactor technology, including through capacity building programs, infrastructure assistance, and integrating safeguards and security into new reactor designs. These activities are supplemental to our support for IAEA activities, including the Agency’s Milestones Approach, which enables a sound development process for a national nuclear power program that prioritizes the highest standards of safety, security, and safeguards.",
+      "confidence": 0.87,
+      "weight": 0.2175,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_4.pdf",
+      "page": 7,
+      "paragraph_id": 1,
+      "position_summary": "The country asserts that Russia has violated Director General Grossi’s seven pillars and five principles at the Zaporizhzhya Nuclear Power Plant, creating serious safety and security risks. It further contends that Russia is obstructing full, timely, and unfettered IAEA access to ZNPP, impeding assessment of the plant and implementation of Ukraine’s safeguards agreement.",
+      "quote": "Director General Grossi’s seven indispensable pillars of nuclear safety and security. They have also contravened his five principles for averting “a catastrophic incident” at the Zaporizhzhya plant. Russia’s actions also disrupt the IAEA’s efforts to secure full, timely, and unfettered access to all areas of ZNPP so that they can assess the safety and security of the plant and implement Ukraine’s safeguards agreement.",
+      "confidence": 0.87,
+      "weight": 0.174,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_6.pdf",
+      "page": 5,
+      "paragraph_id": 2,
+      "position_summary": "The country emphasizes the IAEA’s role in helping states meet nuclear security commitments and supports universal implementation of relevant legally binding and voluntary instruments to prevent unauthorized access or use of dangerous materials.",
+      "quote": "The IAEA’s support for Member States’ achievements of their nuclear security commitments contributes to the universal implementation of a range of legally binding treaties and voluntary commitments to prevent unauthorized use or access to potentially dangerous materials.",
+      "confidence": 0.86,
+      "weight": 0.86,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_6.pdf",
+      "page": 5,
+      "paragraph_id": 1,
+      "position_summary": "They highlight the IAEA’s central role in setting nuclear safety standards and security guidelines. They urge all NPT States Parties to ratify and implement international treaties and commitments related to nuclear safety and security.",
+      "quote": "standards are essential to sustainability. We underscore the IAEA’s important role in setting safety standards and security guidelines reflecting international consensus on safe and secure use of and exposure to radioactive materials. We encourage all NPT States Parties to ratify and implement the international treaties and commitments related to nuclear safety and security.",
+      "confidence": 0.86,
+      "weight": 0.43,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_6.pdf",
+      "page": 1,
+      "paragraph_id": 2,
+      "position_summary": "The United States advocates a global resurgence in civil nuclear energy and aims to lead international cooperation and deployment of advanced nuclear power. It emphasizes that such growth will occur under the highest standards of safety, security, and non-proliferation. The U.S. positions its technology as the safest and most secure for peaceful energy use.",
+      "quote": "Chair, Nowhere is this more evident than in civil nuclear energy. President Trump has committed the United States to lead a nuclear resurgence to advance our shared security and prosperity. Continued growth and innovation in nuclear power will decrease dependence on less reliable sources of energy, reduce costs for consumers, and increase economic investment opportunities. The United States has the safest, most secure, and most advanced nuclear technology on offer today and is positioned to lead in civil nuclear cooperation globally. For instance, we are working diligently and creatively to enable the rapid deployment of advanced nuclear energy that is intended to provide abundant and affordable energy under the highest standards of safety, security, and non-proliferation.",
+      "confidence": 0.86,
+      "weight": 0.2866666666666667,
+      "tier": "core"
+    }
+  ]
+}

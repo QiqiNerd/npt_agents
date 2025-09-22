@@ -1,0 +1,107 @@
+{
+  "country": "USA",
+  "issue": "Ukraine",
+  "updated_at": "2025-09-21T17:55:19.344027Z",
+  "entries": [
+    {
+      "source_file": "2023_USA_Statements_6.pdf",
+      "page": 6,
+      "paragraph_id": 1,
+      "position_summary": "The country calls for restoring full Ukrainian control over the Zaporizhzhya nuclear power plant, enabling regular rotation of Ukrainian and IAEA personnel, and reconnecting automatic radiation monitoring data transmission to the IAEA. It urges all parties to refrain from actions that could trigger a nuclear incident and supports sustained IAEA oversight for safety and security.",
+      "quote": "the territory under Ukraine’s control, provide for regular rotation of Ukrainian and IAEA personnel, reconnect automatic data transmission of all radiation monitoring systems, refrain from taking any actions that could result in a nuclear incident directly to the IAEA, and return full control of Zaporizhzhya to the competent Ukrainian authorities.",
+      "confidence": 0.88,
+      "weight": 0.22,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_1.pdf",
+      "page": 1,
+      "paragraph_id": 4,
+      "position_summary": "The statement condemns Russia’s war against Ukraine and its irresponsible nuclear rhetoric, criticizes reckless actions at the Zaporizhzhia nuclear power plant as endangering nuclear facilities and safety, and rejects Russia’s claimed suspension of New START as contrary to international law.",
+      "quote": "Russia’s unprovoked war against Ukraine tragically continues, as do Russia’s irresponsible nuclear rhetoric, its reckless actions at the Zaporizhzhia nuclear power plant, and its claim to suspend the New START Treaty, a claim that is inconsistent with international law.",
+      "confidence": 0.88,
+      "weight": 0.176,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_4.pdf",
+      "page": 7,
+      "paragraph_id": 2,
+      "position_summary": "The country calls on Russia to withdraw weapons, equipment, and personnel from the Zaporizhzhya Nuclear Power Plant and restore full control to Ukrainian authorities. This underscores concerns about the safety and security of nuclear facilities in the context of the war in Ukraine.",
+      "quote": "We continue to call on Russia to remove its weapons, military equipment, and personnel from Zaporizhzhya and return full control of ZNPP to the competent Ukrainian authorities.",
+      "confidence": 0.87,
+      "weight": 0.2175,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_4.pdf",
+      "page": 7,
+      "paragraph_id": 1,
+      "position_summary": "The country asserts that Russia has violated Director General Grossi’s seven pillars and five principles at the Zaporizhzhya Nuclear Power Plant, creating serious safety and security risks. It further contends that Russia is obstructing full, timely, and unfettered IAEA access to ZNPP, impeding assessment of the plant and implementation of Ukraine’s safeguards agreement.",
+      "quote": "Director General Grossi’s seven indispensable pillars of nuclear safety and security. They have also contravened his five principles for averting “a catastrophic incident” at the Zaporizhzhya plant. Russia’s actions also disrupt the IAEA’s efforts to secure full, timely, and unfettered access to all areas of ZNPP so that they can assess the safety and security of the plant and implement Ukraine’s safeguards agreement.",
+      "confidence": 0.87,
+      "weight": 0.174,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_4.pdf",
+      "page": 2,
+      "paragraph_id": 1,
+      "position_summary": "The delegation condemns Syria’s safeguards non-compliance, the DPRK’s unchecked nuclear and ballistic advances, and Russia’s seizure of Ukraine’s Zaporizhzhia NPP, urging accountability for actions undermining the nonproliferation regime. It criticizes Russia and the PRC for expanding and diversifying their nuclear arsenals while showing little interest in arms control, and warns about destabilizing coordination among Russia, the PRC, the DPRK, and Iran.",
+      "quote": "agreement, Syria’s non-compliance with its comprehensive safeguards agreement, the DPRK’s unchecked advances of its nuclear and ballistic weapons programs, and Russia’s seizure of Ukraine’s Zaporizhzhia Nuclear Power Plant. Furthermore, Russia and the PRC are expanding and diversifying their nuclear weapons arsenals — showing little or no interest in arms control. Russia, the PRC, and the DPRK, together with Iran, are increasingly cooperating and coordinating with each other in ways that run counter to peace and stability and exacerbate regional tensions. We will have more to say on these topics in our statement on regional issues; however, my delegation wishes to stress that part of keeping the nonproliferation regime strong is holding those whose actions contradict it accountable.",
+      "confidence": 0.87,
+      "weight": 0.145,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_5.pdf",
+      "page": 2,
+      "paragraph_id": 6,
+      "position_summary": "The country condemns Russia for enabling the DPRK’s weapons capabilities, unlawfully procuring DPRK ballistic missiles and munitions, and shielding Pyongyang from UN Security Council action, labeling the DPRK an NPT violator. It asserts Russia is doing this to sustain its war against Ukraine.",
+      "quote": "Unfortunately, rather than enforce UN Security Council resolutions, the Russian Federation chooses to enable the weapons capabilities of the DPRK — an NPT violator. The Russian Federation is unlawfully procuring DPRK ballistic missiles and munitions, and shields the DPRK from condemnation or UN Security Council action. And let’s be clear, Russia is doing this to sustain its illegal war against Ukraine.",
+      "confidence": 0.86,
+      "weight": 0.43,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_3.pdf",
+      "page": 3,
+      "paragraph_id": 3,
+      "position_summary": "The United States condemns Russia for violating the Budapest Memorandum’s security assurances to Ukraine and for irresponsible nuclear rhetoric and WMD disinformation, which heighten risks and undermine disarmament efforts. The U.S. pledges not to engage in such behavior and to uphold its own security assurances.",
+      "quote": "The international community cannot, and should not, ignore Russia’s repeated and flagrant disregard for its international obligations and commitments, including obligations under the UN Charter. Russia’s horrific war against Ukraine has betrayed the very security assurances Russia gave to Ukraine through the Budapest Memorandum when Ukraine joined the NPT. Russia’s irresponsible rhetoric regarding nuclear weapons, disinformation about possible WMD use, and past use of chemical weapons further undermine efforts to make progress on disarmament and increase the risk of miscalculation. The United States will not engage in such irresponsible and dangerous behavior, and we will continue to uphold the assurances hawse have provided on our own part.",
+      "confidence": 0.86,
+      "weight": 0.2866666666666667,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_1.pdf",
+      "page": 1,
+      "paragraph_id": 8,
+      "position_summary": "The country condemns Russia’s actions in Ukraine, accusing it of seizing peaceful nuclear facilities and engaging in reckless nuclear rhetoric. It also asserts that Russia has violated provisions of the New START Treaty.",
+      "quote": "• Russia, an NPT nuclear-weapon state and treaty depository, is engaged in an illegal war against its non-nuclear weapon state neighbor. It has violently seized Ukraine’s peaceful nuclear facilities; engaged in reckless nuclear rhetoric; violated provisions of the New START Treaty; and may be",
+      "confidence": 0.86,
+      "weight": 0.215,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_6.pdf",
+      "page": 5,
+      "paragraph_id": 4,
+      "position_summary": "They call on Russia to withdraw its weapons, equipment, and personnel from the Zaporizhzhya nuclear plant and to ensure an uninterrupted power supply to all of Ukraine’s nuclear facilities. The statement emphasizes protecting nuclear installations during the conflict and upholding nuclear safety and security.",
+      "quote": "We call on Russia to remove its weapons and military equipment and civil and military personnel from Zaporizhzhya, maintain an uninterrupted power supply to all of Ukraine’s nuclear facilities from",
+      "confidence": 0.86,
+      "weight": 0.215,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_1.pdf",
+      "page": 2,
+      "paragraph_id": 4,
+      "position_summary": "The statement condemns Russia for qualitatively expanding its nuclear forces, undermining arms control by purporting to suspend New START, and engaging in irresponsible nuclear rhetoric. It also accuses Russia of violating its security assurances to Ukraine.",
+      "quote": "Russia has developed novel nuclear weapons and improved dual-capable delivery systems, unlawfully purported to suspend the New START Treaty, engaged in irresponsible nuclear rhetoric, and reneged on the security assurances it provided Ukraine.",
+      "confidence": 0.86,
+      "weight": 0.172,
+      "tier": "core"
+    }
+  ]
+}

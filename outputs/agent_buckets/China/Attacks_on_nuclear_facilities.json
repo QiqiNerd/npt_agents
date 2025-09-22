@@ -1,0 +1,73 @@
+{
+  "country": "China",
+  "issue": "Attacks on nuclear facilities",
+  "updated_at": "2025-09-21T16:04:12.624005Z",
+  "entries": [
+    {
+      "id": 1173,
+      "year": 2023,
+      "doc_type": "working_paper",
+      "source_file": "2023_China_WP_1.pdf",
+      "page": 2,
+      "paragraph_id": 7,
+      "position_summary": "The country urges stronger safety and security measures for peaceful nuclear facilities, including nuclear power plants. It opposes armed attacks on such facilities, calls for compliance with the Convention on Nuclear Safety and prevention of man-made accidents, and supports a proactive IAEA role in promoting safety and security.",
+      "quote": "7. Efforts must be made to ensure the safety and security of nuclear facilities for peaceful uses. Discussions should focus on maintaining the safety and security of nuclear power plants, opposing armed attacks on nuclear power plants and other peaceful nuclear facilities, complying with the Convention on Nuclear Safety, resolutely avoiding man-made nuclear accidents, and supporting the International Atomic Energy Agency (IAEA) in playing a positive role in promoting the safety and security of peaceful nuclear facilities.",
+      "confidence": 0.9,
+      "weight": 0.225,
+      "tier": "core"
+    },
+    {
+      "id": 1356,
+      "year": 2024,
+      "doc_type": "working_paper",
+      "source_file": "2024_China_WP_4.pdf",
+      "page": 3,
+      "paragraph_id": 7,
+      "position_summary": "The country calls to protect peaceful nuclear facilities and opposes armed attacks on them. It urges compliance with the Convention on Nuclear Safety, efforts to prevent man-made nuclear accidents, and supports an active IAEA role in enhancing the safety and security of such facilities.",
+      "quote": "18. Guarantee the safety of peaceful nuclear facilities and oppose armed attacks against nuclear power plants or other peaceful nuclear facilities. All parties should comply with the Convention on Nuclear Safety (CNS), resolutely avoid man-made nuclear accident, and support IAEA to play a positive role in promoting the safety and security of peaceful nuclear facilities.",
+      "confidence": 0.89,
+      "weight": 0.2966666666666667,
+      "tier": "core"
+    },
+    {
+      "id": 1287,
+      "year": 2025,
+      "doc_type": "working_paper",
+      "source_file": "2025_China_WP_1.pdf",
+      "page": 6,
+      "paragraph_id": 4,
+      "position_summary": "Calls for strict compliance with the Convention on Nuclear Safety, enhanced protection of peaceful nuclear facilities, and opposition to any armed attacks on nuclear power plants or other installations. Urges full adherence to the 2009 IAEA General Conference decision prohibiting attacks or threats against operational or under-construction nuclear facilities.",
+      "quote": "Reiterate that all state parties shall strictly comply with the Convention on Nuclear Safety to avoid man-made nuclear accidents. All efforts should be made to ensure the safety of peaceful nuclear facilities and oppose armed attacks on nuclear power plants or other peaceful nuclear installations. The decision adopted by consensus at the IAEA General Conference on September 18, 2009,which prohibits armed attacks or threats of armed attacks against operational or under-construction nuclear facilities, shall be fully complied with.",
+      "confidence": 0.88,
+      "weight": 0.44,
+      "tier": "core"
+    },
+    {
+      "id": 488,
+      "year": 2025,
+      "doc_type": "statement",
+      "source_file": "2025_China_Statements_2.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "China emphasizes protecting NNWS rights to peaceful nuclear energy, supports the IAEA’s central role, and backs efforts to ensure safety and security of peaceful facilities. It opposes unilateral export restrictions and broader decoupling, and condemns armed attacks on peaceful nuclear facilities.",
+      "quote": "Fourthly, remain faithful to NPT's initial mission, contribute to peace and development. The rights of peaceful uses of nuclear energy of non-nuclear-weapon States should be effectively protected. As a major country in nuclear science and technology, China supports the “Atoms for Global South Initiative\" and supports the central role of the International Atomic Energy Agency (IAEA). We resolutely oppose any misuse of unilateral export restrictions that impedes nuclear energy global collaborative efforts. Nuclear technology should serve as wealth for shared and win-win benefits rather than a tool to weave an iron curtain. Decoupling will ultimately lead to self-isolation. China opposes armed attacks against peaceful nuclear facilities, supports the IAEA in playing a constructive role in promoting the safety and security of peaceful nuclear facilities.",
+      "confidence": 0.82,
+      "weight": 0.16399999999999998,
+      "tier": "core"
+    },
+    {
+      "id": 543,
+      "year": 2025,
+      "doc_type": "statement",
+      "source_file": "2025_China_Statements_1.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "China emphasizes protecting NNWS rights to peaceful nuclear energy, supports the IAEA’s central role and the Atoms for Global South initiative, and opposes unilateral export restrictions and decoupling that hinder cooperation. It also opposes armed attacks on peaceful nuclear facilities and backs the IAEA’s role in ensuring their safety and security.",
+      "quote": "Fourthly, remain faithful to NPT's initial mission, contribute to peace and development. The rights of peaceful uses of nuclear energy of non-nuclear-weapon States should be effectively protected. As a major country in nuclear science and technology, China supports the “Atoms for Global South Initiative\" and supports the central role of the International Atomic Energy Agency (IAEA). We resolutely oppose any misuse of unilateral export restrictions that impedes nuclear energy global collaborative efforts. Nuclear technology should serve as wealth for shared and win-win benefits rather than a tool to weave an iron curtain. Decoupling will ultimately lead to self-isolation. China opposes armed attacks against peaceful nuclear facilities, supports the IAEA in playing a constructive role in promoting the safety and security of peaceful nuclear facilities.",
+      "confidence": 0.82,
+      "weight": 0.13666666666666666,
+      "tier": "core"
+    }
+  ],
+  "topline_summary": null
+}

@@ -1,0 +1,21 @@
+{
+  "country": "Russia",
+  "issue": "Moratorium on nuclear testing",
+  "updated_at": "2025-09-21T16:04:12.624005Z",
+  "entries": [
+    {
+      "id": 1017,
+      "year": 2023,
+      "doc_type": "statement",
+      "source_file": "2023_Russia_Statements_3.pdf",
+      "page": 4,
+      "paragraph_id": 5,
+      "position_summary": "Russia highlights its support for and compliance with the CTBT, noting ratification in 2000 and strict fulfillment of obligations. It also emphasizes maintaining a voluntary moratorium on nuclear testing since the early 1990s.",
+      "quote": "Russia actively participated in drafting the CTBT, ratified it in 2000 and has strictly fulfilled its obligations under it. Since the early 1990s, our country has rigorously observed a voluntary moratorium on nuclear testing.",
+      "confidence": 0.92,
+      "weight": 0.46,
+      "tier": "core"
+    }
+  ],
+  "topline_summary": null
+}

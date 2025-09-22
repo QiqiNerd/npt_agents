@@ -1,0 +1,27 @@
+{
+  "country": "China",
+  "issue": "Nonproliferation and disarmament education",
+  "updated_at": "2025-09-21T17:55:19.440123Z",
+  "entries": [
+    {
+      "source_file": "2025_China_WP_1.pdf",
+      "page": 4,
+      "paragraph_id": 2,
+      "position_summary": "The country calls for strengthening disarmament education and public awareness to advance a world free of nuclear weapons. It emphasizes teaching younger generations about the humanitarian consequences of war and nuclear weapon use to cultivate opposition to their use.",
+      "quote": "Strengthen nuclear disarmament education and enhance public awareness of the importance of achieving the goal of a world free of nuclear-weapons. Build on a comprehensive and objective understanding of history, help the younger generation to accurately understand the humanitarian disasters brought by war and enhance their belief in opposing war and the use of nuclear weapons.",
+      "confidence": 0.88,
+      "weight": 0.44,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_China_WP_1.pdf",
+      "page": 2,
+      "paragraph_id": 9,
+      "position_summary": "The country supports preserving and expanding attention to cross-cutting issues—transparency and reporting, education and capacity-building, and gender and diversity—within the NPT context. It proposes dedicating plenary sessions at Review Conferences and the Preparatory Committee to address these topics.",
+      "quote": "• Preserving and potentially expanding opportunities to address cross-cutting issues, such as transparency, reporting, education and capacity-building, gender and diversity. These could be addressed in dedicated plenary sessions of review conferences and the Preparatory Committee.",
+      "confidence": 0.86,
+      "weight": 0.215,
+      "tier": "core"
+    }
+  ]
+}

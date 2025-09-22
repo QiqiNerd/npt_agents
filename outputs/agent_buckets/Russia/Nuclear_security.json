@@ -1,0 +1,47 @@
+{
+  "country": "Russia",
+  "issue": "Nuclear security",
+  "updated_at": "2025-09-21T16:04:12.624005Z",
+  "entries": [
+    {
+      "id": 822,
+      "year": 2023,
+      "doc_type": "statement",
+      "source_file": "2023_Russia_Statements_5.pdf",
+      "page": 9,
+      "paragraph_id": 4,
+      "position_summary": "The country advocates universal adherence to nuclear security instruments, specifically calling for widespread ratification and implementation of the Convention on the Physical Protection of Nuclear Material and its 2005 Amendment.",
+      "quote": "We support the universalization of key international legal instruments in this area, in particular the Convention on the Physical Protection of Nuclear Material and the 2005 Amendment.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "id": 823,
+      "year": 2023,
+      "doc_type": "statement",
+      "source_file": "2023_Russia_Statements_5.pdf",
+      "page": 9,
+      "paragraph_id": 5,
+      "position_summary": "The country supports the IAEA having a central role in international cooperation on physical nuclear security, emphasizing its representativeness and technical competence.",
+      "quote": "We are convinced that the IAEA should play a central role in international cooperation on physical nuclear security since it is the most representative and technically competent international organization in this field.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "id": 1022,
+      "year": 2023,
+      "doc_type": "statement",
+      "source_file": "2023_Russia_Statements_3.pdf",
+      "page": 5,
+      "paragraph_id": 2,
+      "position_summary": "Russia supports universal and full implementation of UN Security Council Resolution 1540, emphasizing its balanced nature. It stresses cooperation and non-interference in states’ internal affairs as essential principles for broad acceptance and effective implementation. Russia urges preserving these fundamentals while advancing 1540 obligations.",
+      "quote": "Mr. Chair, One of Russia's long-term non-proliferation objectives is to facilitate the implementation of UN SC Resolution 1540 by all countries and in full. We have always emphasized the need to treat this document, which reflects the delicate balance of interests of various countries, with care. The principles of cooperation and non-interference in the internal affairs of a country, which are core to the resolution, are the guarantee of a positive attitude towards it on the part of all United Nations Member States. We are convinced that this fundamental pillar must not be abandoned.",
+      "confidence": 0.8,
+      "weight": 0.4,
+      "tier": "core"
+    }
+  ],
+  "topline_summary": null
+}

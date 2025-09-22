@@ -1,0 +1,86 @@
+{
+  "country": "Russia",
+  "issue": "Disarmament verification",
+  "updated_at": "2025-09-21T16:04:12.624005Z",
+  "entries": [
+    {
+      "id": 443,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_Russia_Statements_3.pdf",
+      "page": 5,
+      "paragraph_id": 3,
+      "position_summary": "Russia supports launching negotiations at the Conference on Disarmament for a universal, non-discriminatory, and effectively verifiable FMCT banning production of fissile material for nuclear weapons or other explosive devices.",
+      "quote": "Mr. Chairman, Russia supports launching negotiations to elaborate a universal, non- discriminating, and effectively verifiable Treaty banning the production of fissile material for nuclear weapons or other nuclear explosive devices (FMCT), at the Conference on Disarmament.",
+      "confidence": 0.93,
+      "weight": 0.465,
+      "tier": "core"
+    },
+    {
+      "id": 991,
+      "year": 2023,
+      "doc_type": "statement",
+      "source_file": "2023_Russia_Statements_2.pdf",
+      "page": 6,
+      "paragraph_id": 3,
+      "position_summary": "They express skepticism about the current emphasis on nuclear disarmament verification, arguing that the benefits of pursuing in-depth discussions on NDV at this stage are overstated and premature.",
+      "quote": "The issue of nuclear disarmament verification (NDV) has been gaining popularity in recent years. However, we strongly believe that the potential benefits of its in-depth discussion at the present stage have been greatly overestimated.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "id": 518,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_Russia_Statements_2.pdf",
+      "page": 2,
+      "paragraph_id": 2,
+      "position_summary": "The country rejects universal or stand-alone transparency and verification measures as inadequate for sensitive national security matters. It argues these issues should be addressed only in light of the strategic context and within substantive negotiations on specific future arms control and disarmament agreements.",
+      "quote": "Any ideas involving \"compartmentalized\" development of some \"universal\" measures of nuclear arsenals transparency and nuclear disarmament verification, appear to be equally inadequate. What we have here at hand is highly sensitive national security aspects that should not be addressed without due regard for strategic situation and outside any substantive negotiations on specific future arms control and disarmament agreements.",
+      "confidence": 0.9,
+      "weight": 0.3,
+      "tier": "core"
+    },
+    {
+      "id": 445,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_Russia_Statements_3.pdf",
+      "page": 5,
+      "paragraph_id": 5,
+      "position_summary": "The country argues that any FMCT, if negotiated, must provide reliable guarantees—implying strong verification—to ensure a global halt to the production of fissile material for nuclear weapons. This is presented as essential to uphold equal and indivisible security for all states.",
+      "quote": "We see that the FMCT, if it is ever to be elaborated, should aim at providing reliable guarantee that fissile material for nuclear weapons will not be produced globally. This is the only way to ensure the compliance with the principle of equal and indivisible security for all.",
+      "confidence": 0.86,
+      "weight": 0.43,
+      "tier": "core"
+    },
+    {
+      "id": 992,
+      "year": 2023,
+      "doc_type": "statement",
+      "source_file": "2023_Russia_Statements_2.pdf",
+      "page": 6,
+      "paragraph_id": 4,
+      "position_summary": "The country highlights divisions within the UN GGE on nuclear disarmament verification (NDV), arguing against developing verification procedures early and in isolation from comprehensive disarmament negotiations. It notes some consensus on NDV principles but expects limited additional contributions to this topic in the NPT review process in the near term.",
+      "quote": "Discussions in the specialized UN Group of Governmental Experts confirmed the lack of unity in relation to approaches to NDV and its scope. Most importantly, there is no agreement on the advisability of the \"early\" development of verification procedures in isolation from comprehensive negotiation work that will be required in the future to conclude nuclear disarmament agreements. All of this range of views is presented in the final report of the Group, which also contains a number of important consensus statements on the fundamental principles on which the NDV should be based. It is unlikely that in the foreseeable future the NPT community will have much to add on this topic for the purposes of the Treaty review process.",
+      "confidence": 0.86,
+      "weight": 0.43,
+      "tier": "core"
+    },
+    {
+      "id": 519,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_Russia_Statements_2.pdf",
+      "page": 2,
+      "paragraph_id": 3,
+      "position_summary": "Advocates a consensus-based, realistic, step-by-step approach to complete nuclear disarmament, emphasizing transparency and verifiability. Stresses that all states possessing military nuclear capabilities must be involved in the process.",
+      "quote": "Any further practical results in the reduction of nuclear weapons and ultimately their complete, transparent and verifiable elimination can only be achieved on the basis of a consensus, realistic sequence of actions and carefully calibrated step-by-step approach. Furthermore, this collaboration will need to involve all the States possessing military nuclear capabilities.",
+      "confidence": 0.78,
+      "weight": 0.26,
+      "tier": "core"
+    }
+  ],
+  "topline_summary": null
+}

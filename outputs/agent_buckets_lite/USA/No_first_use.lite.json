@@ -1,0 +1,57 @@
+{
+  "country": "USA",
+  "issue": "No first use",
+  "updated_at": "2025-09-21T17:55:19.309950Z",
+  "entries": [
+    {
+      "source_file": "2025_USA_Statements_8.pdf",
+      "page": 3,
+      "paragraph_id": 3,
+      "position_summary": "The statement criticizes China’s rapid, opaque nuclear buildup and rejects China’s proposed No First Use treaty as non-credible and unverifiable. It also condemns Russia’s coercive nuclear rhetoric and highlights concern over Russia’s increased military cooperation with the DPRK.",
+      "quote": "Such falsehoods distract from the truly worrisome issues at hand, including China’s rapid and opaque nuclear weapons build-up, and Russia’s coercive nuclear rhetoric and increased military cooperation with the DPRK. We were dismayed by some States Parties’ support for China’s proposal for a non- credible, unverifiable No First Use Treaty. We must ask – what good is a statement from China that it will not use nuclear weapons first, when its nuclear build-up appears to contradict to its stated policy?",
+      "confidence": 0.86,
+      "weight": 0.172,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_3.pdf",
+      "page": 1,
+      "paragraph_id": 3,
+      "position_summary": "The U.S. says the fundamental role of its nuclear weapons is to deter nuclear attack against itself, its allies, and partners, reflecting extended deterrence and a restrained role. It would consider nuclear use only in extreme circumstances to defend vital interests, indicating it does not adopt a no-first-use pledge. It rejects threatening nuclear use for intimidation or expansionist aims.",
+      "quote": "As long as nuclear weapons exist, the fundamental role of U.S. nuclear weapons is to deter nuclear attack on the United States, our allies, and our partners. The United States would consider the use of nuclear weapons only in extreme circumstances to defend the vital interests of the United States or its allies and partners. Unlike some others, we will not threaten the use of nuclear weapons to intimidate or to pursue an expansionist security policy.",
+      "confidence": 0.86,
+      "weight": 0.172,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_2.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "The United States criticizes China’s rapid, opaque expansion of its nuclear arsenal, citing new ICBM silos, delivery systems, and ongoing production of fissile material, with projections of 1,000+ warheads by 2030. It argues China’s buildup contradicts its stated policies of minimum deterrence and No First Use and contrasts with other NPT nuclear-weapon states’ behavior. The U.S. asserts it acts responsibly as a nuclear-weapon state under the NPT.",
+      "quote": "Mr. Chair, the United States is committed to responsible behavior as a nuclear-weapon State under the NPT. Not all NPT nuclear-weapon States have done the same. We continue to be deeply concerned by China’s rapid, opaque, and destabilizing expansion of its nuclear arsenal, including the construction of hundreds of new ICBM silos and the development of new delivery systems. We assess that China currently has 600 operational nuclear weapons, which will increase to over 1,000 by the year 2030, and that it is actively producing new fissile material for use in its growing nuclear arsenal, unlike the other four nuclear-weapon states. China’s activities indicate it seeks the ability to inflict far greater levels of overwhelming damage to an adversary in a nuclear exchange than it has historically deemed necessary, and all while professing to apply “minimum deterrence” and “No First Use” in its nuclear authorities.",
+      "confidence": 0.86,
+      "weight": 0.14333333333333334,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_3.pdf",
+      "page": 2,
+      "paragraph_id": 4,
+      "position_summary": "The statement criticizes China’s rapid and opaque nuclear build-up, questioning the credibility and clarity of its no-first-use policy and broader doctrine. It notes Beijing’s reluctance to engage substantively and expresses skepticism about a proposed no-first-use treaty, particularly regarding how it would be verified. Overall, it views China’s initiative as lacking substance.",
+      "quote": "The PRC’s actions, in particular its rapid and opaque nuclear weapons build-up, raise questions about Beijing’s already ambiguous, stated “no first use” policy and its nuclear doctrine more broadly, calling into question what such an initiative aims to achieve. The PRC, to date, has resisted substantive engagement to answer these questions. We also continue to have concerns about how its proposed no first use treaty would operate in practice, including with respect to verification. We see more style than substance.",
+      "confidence": 0.86,
+      "weight": 0.14333333333333334,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_3.pdf",
+      "page": 3,
+      "paragraph_id": 1,
+      "position_summary": "The statement criticizes China for expanding its nuclear forces in ways seen as inconsistent with its stated No First Use policy and traditional minimum deterrent posture. It urges China to increase transparency and engage in arms control by answering outstanding questions at the PrepCom.",
+      "quote": "stated “No First Use” policy and strays from its historic focus on a “minimum deterrent” force structure. China, to date, has resisted calls to explain its build-up or engage on arms control. During this PrepCom, we hope China will abandon its approach of distractions and avoidance and instead demonstrate responsibility by answering the questions many of us have posed over the last two PrepComs.",
+      "confidence": 0.83,
+      "weight": 0.2075,
+      "tier": "core"
+    }
+  ]
+}

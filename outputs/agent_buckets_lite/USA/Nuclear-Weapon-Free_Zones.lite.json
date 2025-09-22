@@ -1,0 +1,107 @@
+{
+  "country": "USA",
+  "issue": "Nuclear-Weapon-Free Zones",
+  "updated_at": "2025-09-21T17:55:19.329116Z",
+  "entries": [
+    {
+      "source_file": "2023_USA_Statements_4.pdf",
+      "page": 4,
+      "paragraph_id": 2,
+      "position_summary": "The United States supports nuclear-weapon-free zone treaties as reinforcing the NPT and regional security. It is working to ratify the protocols to the South Pacific, African, and Central Asian treaties and to sign and ratify the Southeast Asia treaty’s Protocol as soon as possible. The U.S. also asserts that its interpretative statements related to these protocols are consistent with the treaties’ object and purpose.",
+      "quote": "The United States supports regional nuclear-weapon-free zone treaties, which reinforce and are integral to the NPT and regional security. In recognition of their significance, we are working to advance U.S. ratification of the protocols to the South Pacific, African, and Central Asian treaties. We also continue to engage Parties to the Southeast Asia Nuclear-Weapon-Free Zone so that we can sign and ratify that treaty’s Protocol at the soonest possible time. Concerning U.S. interpretative statements made in connection with ratification of those zone protocols, we wish to make clear that none are or would be inconsistent with the object and purpose of those treaties and their associated protocols.",
+      "confidence": 0.94,
+      "weight": 0.94,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_3.pdf",
+      "page": 2,
+      "paragraph_id": 1,
+      "position_summary": "The United States commits not to use or threaten nuclear weapons against NPT-compliant non-nuclear-weapon states, offering policy-based negative security assurances and legally binding assurances through protocols to nuclear-weapon-free zones. It underscores the importance of these assurances to non-nuclear-weapon states.",
+      "quote": "The United States has long maintained a negative security assurance as part of its nuclear doctrine. The United States will not use or threaten to use nuclear weapons against non-nuclear weapon states that are party to the NPT and in compliance with their nuclear nonproliferation obligations. This describes, and therefore is applied to, the vast majority of countries. These assurances are a matter of U.S. policy, but we also offer legally binding negative security assurances in connection with the Protocols to the nuclear-weapon-free zones. We understand the importance to non-nuclear weapon states of such negative security assurances.",
+      "confidence": 0.93,
+      "weight": 0.465,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_5.pdf",
+      "page": 1,
+      "paragraph_id": 2,
+      "position_summary": "The United States expresses full support for nuclear-weapon-free-zone treaties, viewing them as reinforcing the NPT and the broader nonproliferation regime while promoting regional security and disarmament.",
+      "quote": "In this vein, the United States wishes to reiterate its full support for nuclear- weapon-free-zone treaties that reinforce the NPT and the global nonproliferation regime and advance security and disarmament on a regional basis.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_3.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "The United States supports regional Nuclear-Weapon-Free Zones, formed by consensus among all states in the region, as the most practical means to provide legally binding negative security assurances. This reflects a longstanding U.S. policy of extending NSAs primarily through NWFZ treaty protocols.",
+      "quote": "Consistent with long-standing U.S. policy, we have long believed that regional nuclear weapon free zones, established on the basis of arrangements freely arrived at among all States of the region concerned, provide the most expeditious and practical way to extend legally binding negative security assurances.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_3.pdf",
+      "page": 3,
+      "paragraph_id": 1,
+      "position_summary": "The country supports establishing regional nuclear-weapon-free zones through consensual regional arrangements, viewing them as the most effective and practical means to provide legally binding negative security assurances. It favors NWFZs as the preferred vehicle for extending such guarantees.",
+      "quote": "known complications in such negotiations, we have long believed that regional nuclear-weapon-free zones (NWFZs), established on the basis of arrangements freely arrived at among all States of the region concerned, provide the most expeditious and practical way to extend legally binding negative security assurances.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_5.pdf",
+      "page": 4,
+      "paragraph_id": 1,
+      "position_summary": "The country questions the UN Conference as an effective forum to negotiate a Middle East WMD-free zone, noting other zones were established without a UN-led architecture. It rejects claims that its decision not to observe the Conference hinders the 1995 Resolution or backtracks on commitments, and asserts it was not responsible for ending prior regional consultations, which included senior Israeli participation.",
+      "quote": "but we continue to question whether that UN Conference can serve as an effective forum for dialogue among all the regional states. We note that no other regional zone required a UN umbrella or architecture for negotiation, and we reject claims that the United States’ decision not to participate as an observer in this Conference in any way constitutes hindering the implementation of the 1995 Resolution or backtracking on past U.S. commitments. I note that it was not the United States that ended regional consultations to prepare for the Middle East Zone conference called for in the 2010 Action Plan, consultations in which the Israel participated in at a senior level.",
+      "confidence": 0.88,
+      "weight": 0.44,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_5.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "The United States expresses full support for nuclear-weapon-free zones as complementary to the NPT and is pursuing ratification of NWFZ protocols it has signed. It is actively engaging with parties to the Southeast Asia Nuclear-Weapon-Free Zone Treaty to sign and ratify the revised Protocol as soon as possible.",
+      "quote": "Chair, the United States wishes to reiterate its full support for nuclear-weapon-free-zone treaties as a complement to the NPT and a means to advance security and disarmament on a regional basis. We continue to pursue ratification of the protocols we have signed. And we continue to engage with Parties to the Southeast Asia Nuclear- Weapon-Free Zone Treaty in order to sign and ratify that treaty’s revised Protocol at the soonest possible time.",
+      "confidence": 0.86,
+      "weight": 0.43,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_1.pdf",
+      "page": 1,
+      "paragraph_id": 5,
+      "position_summary": "The statement credits the NPT with containing proliferation, establishing robust IAEA safeguards, and advancing disarmament through stockpile reductions and arms control. It also praises the spread of nuclear-weapon-free zones and the benefits delivered by peaceful nuclear applications.",
+      "quote": "Since it entered into force, we have contained nuclear proliferation; developed robust international safeguards to monitor peaceful nuclear programs; made significant steps towards disarmament through stockpile reductions and other arms control measures; seen entire regions adopt nuclear-weapon-free zones; and, through the peaceful uses of nuclear energy, science, and technology, improved the lives of millions.",
+      "confidence": 0.86,
+      "weight": 0.172,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_3.pdf",
+      "page": 1,
+      "paragraph_id": 3,
+      "position_summary": "The United States supports making security assurances legally binding by signing and ratifying the relevant protocols to existing nuclear-weapon-free zone treaties. It views these protocols as the appropriate mechanism for such assurances.",
+      "quote": "• Second, recognizing interest in making such assurances legally-binding, the United States views the signature and ratification of relevant protocols to existing nuclear-weapon-free zone treaties as the appropriate vehicle through",
+      "confidence": 0.84,
+      "weight": 0.42,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_5.pdf",
+      "page": 2,
+      "paragraph_id": 1,
+      "position_summary": "The United States supports a Middle East WMD-free zone and related regional initiatives pursued voluntarily and by mutual agreement among all regional states, consistent with international practice and confidence-building. It also calls for universal adherence to the NPT worldwide.",
+      "quote": "aimed at building trust and addressing the political and security obstacles that have impeded progress. Such efforts must be pursued voluntarily on the basis of arrangements mutually agreed upon by all the regional states, consistent with international practices. The United States looks forward to the day when the NPT is truly universal, not just in the Middle East but everywhere.",
+      "confidence": 0.74,
+      "weight": 0.185,
+      "tier": "core"
+    }
+  ]
+}

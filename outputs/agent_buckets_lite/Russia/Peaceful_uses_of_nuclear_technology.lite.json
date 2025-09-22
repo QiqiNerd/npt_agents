@@ -1,0 +1,107 @@
+{
+  "country": "Russia",
+  "issue": "Peaceful uses of nuclear technology",
+  "updated_at": "2025-09-21T17:55:19.381412Z",
+  "entries": [
+    {
+      "source_file": "2025_Russia_Statements_2.pdf",
+      "page": 4,
+      "paragraph_id": 3,
+      "position_summary": "The country strongly supports the expansion of peaceful nuclear technologies, viewing them as essential for peace and human well-being. It highlights growing global adoption of nuclear energy and broader applications in industry, agriculture, and healthcare.",
+      "quote": "Mr. Chair, The development of peaceful nuclear technologies is essential for the maintenance of peace and human well-being. More and more States include nuclear energy in their energy mix, make increasing use of peaceful atom in their industry, agriculture, healthcare and other key economic sectors.",
+      "confidence": 0.93,
+      "weight": 0.93,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_5.pdf",
+      "page": 1,
+      "paragraph_id": 1,
+      "position_summary": "Russia supports broad access to peaceful nuclear energy for NPT States Parties and advocates expanding international cooperation in this area.",
+      "quote": "STATEMENT by the Delegation of the Russian Federation at the First Session of the Preparatory Committee for the 11th Review Conference of the Parties to the Treaty on the Non-Proliferation of Nuclear Weapons (Cluster III: peaceful uses of nuclear energy) Mr. Chair, Russia has consistently stood for a broad access to the benefits of peaceful nuclear energy for the States parties to the NPT and the development of international cooperation in this area.",
+      "confidence": 0.93,
+      "weight": 0.93,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_Russia_Statements_5.pdf",
+      "page": 1,
+      "paragraph_id": 2,
+      "position_summary": "The country emphasizes that a trusted, impartial, depoliticized, and technically robust IAEA safeguards system is essential to the NPT and to enabling peaceful nuclear uses. It warns that politicization or technical shortcomings in safeguards would undermine the NPT verification regime and broader non-proliferation efforts.",
+      "quote": "The IAEA safeguards system, which is pivotal for strengthening the NPT and the peaceful uses of nuclear energy, is one of the key elements of this regime. It is essential that the safeguards system be trusted by all States parties to the Treaty. To secure confidence, it should be impartial, politically unbiased, technically reliable and sound. Failure to meet these criteria, as well as any attempts to politicize the IAEA safeguards can severely impair both the NPT verification regime and the nuclear non-proliferation in general.",
+      "confidence": 0.92,
+      "weight": 0.46,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_1.pdf",
+      "page": 6,
+      "paragraph_id": 2,
+      "position_summary": "Russia advocates broad access to peaceful nuclear technology and actively supports global nuclear energy development. It highlights exports of Russian-designed power units to multiple countries and the recent commercial operation of a plant in Belarus.",
+      "quote": "Russia actively promotes the development of nuclear energy across the world, and champions broad access of States to the benefits of the peaceful atom. Russian- designed power units are currently build in China, India, Egypt, Turkey, Bangladesh and Hungary. Late last year, a nuclear power plant in Belarus started commercial operation.",
+      "confidence": 0.91,
+      "weight": 0.91,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_Russia_Statements_7.pdf",
+      "page": 1,
+      "paragraph_id": 1,
+      "position_summary": "Russia supports broad access for NPT States Parties to the benefits of peaceful nuclear energy and advocates enhanced international cooperation in this domain.",
+      "quote": "Unofficial translation STATEMENT by the Deputy Head of the Delegation of the Russian Federation at the Third Session of the Preparatory Committee for the 11th Review Conference of the Parties to the Treaty on the Non-Proliferation of Nuclear Weapons (Cluster III: Peaceful uses of nuclear energy) New York, 6 May 2025 Mr. Chair, Russia has consistently stood for the NPT States parties’ broad access to the benefits of peaceful uses of nuclear energy and the development of international cooperation in this area.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_Russia_Statements_7.pdf",
+      "page": 1,
+      "paragraph_id": 2,
+      "position_summary": "The country emphasizes its leadership in civil nuclear energy, citing 42 operational reactors (34.6 GW), including the world’s only floating power unit, providing 17.8% of national electricity and up to 40% in some regions. This presents its nuclear program as focused on peaceful energy production and market leadership.",
+      "quote": "Our country is among the leaders of the world nuclear energy market. A total of 42 nuclear power reactors with a total installed capacity of 34.6 GW are in operation at 12 Russian NPPs, including the world's only floating power unit of the Akademik Lomonosov nuclear thermal power plant; this accounts for 17.8 per cent of the total energy generated in the country (and up to 40 percent of energy generated in certain regions).",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_Russia_Statements_7.pdf",
+      "page": 3,
+      "paragraph_id": 4,
+      "position_summary": "Russia prioritizes scientific research and development of radiation technologies and the peaceful uses of nuclear energy across medicine, agriculture, industry, and other economic sectors.",
+      "quote": "Mr. Chair, Russia's priorities include scientific research into and development of radiation technologies and peaceful uses of nuclear energy in medicine, agriculture, industry and other key economic sectors.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_Russia_Statements_7.pdf",
+      "page": 3,
+      "paragraph_id": 5,
+      "position_summary": "Russia highlights its leadership in peaceful nuclear applications by producing most of the world's medical isotopes, constructing Europe's largest radiopharmaceuticals plant in Obninsk, and promoting BRICS cooperation in nuclear medicine. This underscores a focus on expanding international collaboration and benefits of nuclear technology for health.",
+      "quote": "In the field of nuclear medicine, Russia produces over 70 per cent of the world's range of medical isotopes. The construction of Europe's largest radiopharmaceuticals plant is underway in Obninsk. We are working on a BRICS nuclear medicine cooperation platform.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_4.pdf",
+      "page": 1,
+      "paragraph_id": 3,
+      "position_summary": "The country promotes nuclear energy as a sustainable, low-carbon source that provides reliable clean power and significantly reduces greenhouse gas emissions. It views nuclear power as an essential tool for addressing climate change.",
+      "quote": "Nuclear energy is consistent with the principles of sustainable development and ensures steady supply of clean energy demonstrating the lowest life cycle СО 2 emissions. Its contribution to addressing climate change can hardly be overestimated. Nuclear power plants operated across the world save the world greenhouse gases emissions comparable to the quantity of carbon that can be absorbed by all the planet's forests.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_4.pdf",
+      "page": 2,
+      "paragraph_id": 5,
+      "position_summary": "Russia emphasizes the importance of nuclear energy for sustainable development and advocates broad access to peaceful nuclear technology. It highlights extensive global construction of Russian-designed power units and ongoing projects in several countries as evidence of its commitment.",
+      "quote": "Mr. Chairman, Russia considers nuclear energy as an important means of achieving the United Nations' sustainable development goals. Our country has always actively promoted the development of nuclear energy across the world, and championed broad access of States to the benefits of the peaceful atom. 110 power units based on USSR and Russian design have been constructed at nuclear power plants across the world. Our specialists are building 22 more high-power units in seven countries. In Turkey, four generation III+ 1200 MW power units are simultaneously constructed at Akkuyu nuclear power plant. Works to build nuclear power plants have been commenced in Hungary, Egypt and Bangladesh. New power units are under construction in China and India.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    }
+  ]
+}

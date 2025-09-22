@@ -1,0 +1,107 @@
+{
+  "country": "China",
+  "issue": "Export controls",
+  "updated_at": "2025-09-21T17:55:19.429151Z",
+  "entries": [
+    {
+      "source_file": "2023_China_Statements_1.pdf",
+      "page": 7,
+      "paragraph_id": 1,
+      "position_summary": "China supports expanding peaceful uses of nuclear energy, backing the IAEA’s central role and increased financial and technical assistance to developing countries to advance the 2030 Agenda. It supports multilateral export control mechanisms but opposes their politicization and use for decoupling or ideological purposes.",
+      "quote": "peaceful uses of nuclear energy and nuclear technology are growing. China supports the central role of the IAEA in promoting international nuclear energy cooperation and opts for increasing financial and technical assistance to developing countries in order to contribute to implementation of the 2030 Agenda for Sustainable Development. China supports multilateral export control mechanism, but opposes the use of non-proliferation as an excuse to draw ideological lines, stretch the concept of national security, and use export control as a political tool for decoupling.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_China_Statements_5.pdf",
+      "page": 3,
+      "paragraph_id": 1,
+      "position_summary": "Supports strengthening IAEA safeguards, calling for objective implementation and universal adoption of Comprehensive Safeguards Agreements and the Additional Protocol. Urges effective implementation of UNSCR 1540 and 1887 and backs the Zangger Committee and Nuclear Suppliers Group to enhance export controls.",
+      "quote": "mutually supplementary and reinforcing. The international community should lend support to the IAEA in fulfilling its safeguards-related mandates in an objective, impartial and neutral manner, and continue to promote the universality of the Comprehensive Safeguards Agreements as well as the Additional Protocol. The United Nations Security Council Resolutions 1540 and 1887 should be effectively implemented and support should be given to efforts by the Zangger Committee and the Nuclear Suppliers Group in enhancing export control.",
+      "confidence": 0.88,
+      "weight": 0.44,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_China_Statements_6.pdf",
+      "page": 2,
+      "paragraph_id": 2,
+      "position_summary": "The country emphasizes balancing non-proliferation with the Article IV right to peaceful nuclear energy, especially for developing states. It opposes using national security justifications to restrict cooperation and technology transfer, calling for broader access to nuclear energy and technology.",
+      "quote": "Second, it’s necessary to keep the balance between non-proliferation of nuclear weapons and peaceful uses of nuclear energy. Efforts to prevent nuclear proliferation should not undermine the legitimate right of countries, especially developing countries, to peaceful uses of nuclear energy. We should reject using national security as an excuse by some countries to wantonly suppress, interfere with and restrict other countries’ cooperation in peaceful uses of nuclear energy, and ensure that nuclear energy and nuclear technology will benefit more countries.",
+      "confidence": 0.88,
+      "weight": 0.44,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_China_WP_1.pdf",
+      "page": 4,
+      "paragraph_id": 6,
+      "position_summary": "The country urges stricter controls on nuclear-related exports and cooperation to prevent any assistance to nuclear weapons R&D. It voices concern that AUKUS nuclear-powered submarine cooperation could harm international peace and security and strain the IAEA safeguards system, and supports addressing related safeguards questions through a transparent, inclusive process under the NPT review and IAEA frameworks with consensus-based decisions. It warns that such cooperation may undermine regional strategic balance and stability.",
+      "quote": "Take practical measures to ensure that nuclear-related exports and cooperation are fully in line with the object and purpose of the NPT and will not directly or indirectly assist in the research and development of nuclear weapons or other nuclear explosive devices. Pay attention to the impact of AUKUS nuclear-powered submarine cooperation on international peace and security and the IAEA safeguards system. Support discussing the safeguards issues involved in the above-mentioned cooperation through a transparent, open and inclusive intergovernmental process under the NPT review process and the IAEA framework, and make decision by consensus. Meanwhile, be vigilant that such cooperation undermines regional strategic balance and stability and intensifies regional tensions.",
+      "confidence": 0.87,
+      "weight": 0.2175,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_China_Statements_4.pdf",
+      "page": 3,
+      "paragraph_id": 1,
+      "position_summary": "Supports the IAEA’s objective, impartial, and neutral implementation of safeguards and promotes universal adoption of Comprehensive Safeguards Agreements and the Additional Protocol. Calls for effective implementation of UNSCR 1540 and 1887 and backs the Zangger Committee and Nuclear Suppliers Group to strengthen export controls.",
+      "quote": "mutually supplementary and reinforcing. The international community should lend support to the IAEA in fulfilling its safeguards-related mandates in an objective, impartial and neutral manner, and continue to promote the universality of the Comprehensive Safeguards Agreements as well as the Additional Protocol. The United Nations Security Council Resolutions 1540 and 1887 should be effectively implemented and support should be given to efforts by the Zangger Committee and the Nuclear Suppliers Group in enhancing export control.",
+      "confidence": 0.86,
+      "weight": 0.43,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_China_Statements_6.pdf",
+      "page": 3,
+      "paragraph_id": 1,
+      "position_summary": "The country calls for fairness, objectivity, and transparency, opposes the politicization of export controls through expanded national security claims, and defends the right of non‑nuclear‑weapon States to peaceful nuclear energy.",
+      "quote": "principle of fairness, objectivity and transparency. At the same time, we should firmly oppose the attempt of certain countries to stretch the national security concept, take export control as tools for geopolitical game, and undermine the right of non-nuclear-weapon States for peaceful uses of nuclear energy.",
+      "confidence": 0.84,
+      "weight": 0.42,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_China_Statements_1.pdf",
+      "page": 5,
+      "paragraph_id": 2,
+      "position_summary": "China urges inclusive international cooperation on peaceful nuclear energy with the IAEA in a central role and equitable participation by the Global South. It opposes the politicization of export controls that restrict nuclear energy cooperation and plans to advance a UNGA resolution promoting such cooperation. China also emphasizes that peaceful uses must not compromise environmental protection or human health.",
+      "quote": "Fifthly, ensure shared benefits and inclusiveness, and promote the cause of peaceful uses of nuclear energy. China advocates the establishment of an inclusive market environment, giving full play to the central role of IAEA, and ensuring the “Global South” participate in international nuclear energy cooperation on an equal and orderly basis. We are firmly opposed to attempts to overstretch the concept of national security, use export control as a political tool for “decoupling” and impose unnecessary restrictions on international nuclear energy cooperation. China will submit again the resolution of Promoting International Cooperation on Peaceful Uses in the Context of International Security to the upcoming session of the UN General Assembly, and we look forward to your support. In the meantime, the peaceful uses of nuclear energy should not be achieved at the cost of natural environment and human health.",
+      "confidence": 0.84,
+      "weight": 0.27999999999999997,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_China_WP_1.pdf",
+      "page": 5,
+      "paragraph_id": 7,
+      "position_summary": "The country emphasizes that nonproliferation efforts must not restrict states’ legitimate right to peaceful nuclear energy, particularly for the Global South. It opposes politicization and any NPT-inconsistent restrictions on cooperation, and criticizes the use of export controls as tools for decoupling or supply-chain disruption.",
+      "quote": "Effort to prevent the proliferation of nuclear weapons should not undermine the legitimate rights of all countries, especially Global South countries, to the peaceful uses of nuclear energy. Firmly oppose the politicization of peaceful uses of nuclear energy and the imposition of any inappropriate restrictions inconsistent with the NPT, which may disrupt and restrict normal international cooperation. Oppose any country using the excuse of non- proliferation to draw ideological lines, overstretch the concept of national security, or use export controls as a tool for decoupling and severing supply chains.",
+      "confidence": 0.82,
+      "weight": 0.41,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_China_Statements_2.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "China emphasizes protecting NNWS rights to peaceful nuclear energy, supports the IAEA’s central role, and backs efforts to ensure safety and security of peaceful facilities. It opposes unilateral export restrictions and broader decoupling, and condemns armed attacks on peaceful nuclear facilities.",
+      "quote": "Fourthly, remain faithful to NPT's initial mission, contribute to peace and development. The rights of peaceful uses of nuclear energy of non-nuclear-weapon States should be effectively protected. As a major country in nuclear science and technology, China supports the “Atoms for Global South Initiative\" and supports the central role of the International Atomic Energy Agency (IAEA). We resolutely oppose any misuse of unilateral export restrictions that impedes nuclear energy global collaborative efforts. Nuclear technology should serve as wealth for shared and win-win benefits rather than a tool to weave an iron curtain. Decoupling will ultimately lead to self-isolation. China opposes armed attacks against peaceful nuclear facilities, supports the IAEA in playing a constructive role in promoting the safety and security of peaceful nuclear facilities.",
+      "confidence": 0.82,
+      "weight": 0.16399999999999998,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_China_Statements_1.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "China emphasizes protecting NNWS rights to peaceful nuclear energy, supports the IAEA’s central role and the Atoms for Global South initiative, and opposes unilateral export restrictions and decoupling that hinder cooperation. It also opposes armed attacks on peaceful nuclear facilities and backs the IAEA’s role in ensuring their safety and security.",
+      "quote": "Fourthly, remain faithful to NPT's initial mission, contribute to peace and development. The rights of peaceful uses of nuclear energy of non-nuclear-weapon States should be effectively protected. As a major country in nuclear science and technology, China supports the “Atoms for Global South Initiative\" and supports the central role of the International Atomic Energy Agency (IAEA). We resolutely oppose any misuse of unilateral export restrictions that impedes nuclear energy global collaborative efforts. Nuclear technology should serve as wealth for shared and win-win benefits rather than a tool to weave an iron curtain. Decoupling will ultimately lead to self-isolation. China opposes armed attacks against peaceful nuclear facilities, supports the IAEA in playing a constructive role in promoting the safety and security of peaceful nuclear facilities.",
+      "confidence": 0.82,
+      "weight": 0.13666666666666666,
+      "tier": "core"
+    }
+  ]
+}

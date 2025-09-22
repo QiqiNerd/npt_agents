@@ -1,0 +1,47 @@
+{
+  "country": "Russia",
+  "issue": "Nonproliferation and disarmament education",
+  "updated_at": "2025-09-21T17:55:19.395834Z",
+  "entries": [
+    {
+      "source_file": "2024_Russia_Statements_4.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "Russia highlights its major role as a global supplier of enriched uranium and nuclear fuel and emphasizes prioritizing research and development of civilian nuclear applications in medicine, agriculture, and industry. It also stresses capacity-building by training nuclear professionals, hosting thousands of foreign students in related fields.",
+      "quote": "Our country provides over a third of the world's supply of enriched uranium and is one of the leading nuclear fuel manufacturers. Russia's priorities include scientific research into and development of radiation technologies and peaceful uses of nuclear energy in medicine, agriculture, industry and other key economic sectors. We attach special importance to training professionals in nuclear and related spheres. Over two thousand students from 65 foreign countries are currently studying in Russian universities.",
+      "confidence": 0.84,
+      "weight": 0.42,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_1.pdf",
+      "page": 6,
+      "paragraph_id": 3,
+      "position_summary": "Russia highlights its leadership in uranium enrichment and nuclear fuel production and prioritizes expanding peaceful nuclear applications in medicine, agriculture, industry, and other sectors. It also emphasizes training and capacity-building, hosting thousands of international students in nuclear-related fields.",
+      "quote": "Russia is a leader in uranium enrichment and nuclear fuel production. Its priorities include scientific research into and development of radiation technologies and peaceful uses of nuclear energy in medicine, agriculture, industry and other key economic sectors. We attach special importance to training professionals in nuclear sphere: over two thousand students from 65 foreign countries are currently studying in Russian universities.",
+      "confidence": 0.8,
+      "weight": 0.4,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_1.pdf",
+      "page": 8,
+      "paragraph_id": 1,
+      "position_summary": "Russia highlights support for peaceful nuclear development by establishing nuclear science and technology centers and providing training for the nuclear power workforce. It also emphasizes education, noting that over 2,000 students from 65 countries study nuclear-related disciplines at Russian universities.",
+      "quote": "8 assistance, nuclear science and technology centers are being established. We actively participate in the training and retraining of personnel for the nuclear power industry. Over 2,000 students from 65 countries study at Russian universities specializing in nuclear and related disciplines.",
+      "confidence": 0.78,
+      "weight": 0.39,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_5.pdf",
+      "page": 7,
+      "paragraph_id": 3,
+      "position_summary": "The country highlights large-scale training of international students in nuclear-related fields with ROSATOM’s assistance and expresses full support for the IAEA’s efforts to expand the peaceful use of nuclear energy for global well-being. This underscores a commitment to capacity-building and international cooperation in peaceful nuclear applications.",
+      "quote": "In the academic year 2021–2023 more than 2,000 foreign students in nuclear and related fields of study, recruited with the assistance of ROSATOM from 65 countries of the world, are enrolled in Russian universities We fully support IAEA efforts to promote the widespread use of nuclear energy for peace, health and well-being throughout the world.",
+      "confidence": 0.72,
+      "weight": 0.36,
+      "tier": "core"
+    }
+  ]
+}

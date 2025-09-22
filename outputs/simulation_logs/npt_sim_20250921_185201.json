@@ -1,0 +1,960 @@
+{
+  "countries": [
+    "USA",
+    "China",
+    "Russia"
+  ],
+  "max_rounds": 3,
+  "use_llm_router": true,
+  "use_semantic_evidence": false,
+  "transcripts": [
+    [
+      {
+        "round": 1,
+        "country": "USA",
+        "selected_issues": [
+          "Naval propulsion",
+          "Treaty on the Prohibition of Nuclear Weapons"
+        ],
+        "statement": "Mr. Chair, we thank previous speakers for their thoughtful interventions and shared commitment to strengthening the NPT.\n\nOn naval nuclear propulsion, the United States reiterates that the AUKUS pathway to provide conventionally armed, nuclear‑powered submarines to Australia will be implemented consistently with the NPT and sets the highest nonproliferation standard. The AUKUS partners maintain routine, substantive engagement with the IAEA; Director General Grossi has noted satisfaction with our transparency to date. We hear concerns about precedent and safeguards, and we welcome continued, inclusive dialogue on robust verification, material accountancy, and non‑diversion tailored to naval fuel cycles, including at our side event on naval propulsion and the NPT.\n\nWe respect the humanitarian impulse behind the Treaty on the Prohibition of Nuclear Weapons and share the objective of a world without nuclear weapons. Yet sustainable disarmament must proceed through the NPT framework and engagement‑based arms control, not shortcuts that risk fragmenting consensus and lack workable verification and implementation. As we look to the Review Conference, let us focus on concrete risk‑reduction measures and press China and Russia to engage in serious, results‑oriented dialogues. The United States stands ready to pursue that path and invites broad support.\n\nAccordingly, we propose an intersessional, IAEA‑briefed technical workshop on naval propulsion safeguards and will circulate a paper outlining pragmatic, verifiable risk‑reduction steps for co‑sponsorship.",
+        "citations": [
+          {
+            "source": "2023_USA_Statements_4.pdf",
+            "page": 3,
+            "para": 2
+          },
+          {
+            "source": "2025_USA_Statements_2.pdf",
+            "page": 4,
+            "para": 4
+          },
+          {
+            "source": "2025_USA_Statements_8.pdf",
+            "page": 3,
+            "para": 4
+          }
+        ],
+        "drafts": [
+          {
+            "issue": "Naval propulsion",
+            "text": "Colleagues, on naval nuclear propulsion, the United States reiterates that the AUKUS pathway to provide conventionally armed, nuclear‑powered submarines to Australia will be implemented consistently with the NPT and in a way that sets the highest nonproliferation standard (2023_USA_Statements_4.pdf p.3 ¶2). The AUKUS partners have maintained routine and substantive engagement with the IAEA; Director General Grossi has noted satisfaction with our transparency to date (2023_USA_Statements_4.pdf p.3 ¶2). We hear concerns about precedent and safeguards, and we welcome continued, inclusive dialogue on how to ensure robust verification, material accountancy, and non-diversion tailored to naval fuel cycles. We also invite all delegations to the side event on naval nuclear propulsion and the NPT to discuss safeguards approaches in detail (2023_USA_Statements_4.pdf p.3 ¶2). Our objective is to strengthen, not strain, the nonproliferation regime while enabling peaceful, lawful naval propulsion capabilities.",
+            "citations": [
+              {
+                "source": "2023_USA_Statements_4.pdf",
+                "page": 3,
+                "para": 2
+              }
+            ]
+          },
+          {
+            "issue": "Treaty on the Prohibition of Nuclear Weapons",
+            "text": "Colleagues, we respect the humanitarian impulse behind the TPNW, and we share the objective of a world without nuclear weapons. However, the United States remains convinced that sustainable disarmament must proceed through the NPT framework and engagement-based arms control, not through instruments we view as shortcuts that risk fragmenting consensus and lack mechanisms for verification and implementation (2025_USA_Statements_2.pdf p.4 ¶4). As we look to the Review Conference, let us focus our collective effort on concrete measures that prevent arms races and reduce risks—above all by pressing China and Russia to engage in serious, results-oriented dialogues on arms control and risk reduction. The United States stands ready to pursue that path and invites all delegations to support these efforts rather than echo proposals we judge to be empty and unverifiable (2025_USA_Statements_8.pdf p.3 ¶4).",
+            "citations": [
+              {
+                "source": "2025_USA_Statements_2.pdf",
+                "page": 4,
+                "para": 4
+              },
+              {
+                "source": "2025_USA_Statements_8.pdf",
+                "page": 3,
+                "para": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "round": 1,
+        "country": "China",
+        "selected_issues": [
+          "Role and significance of nuclear weapons in military and security concepts, doctrines and policies",
+          "Security assurances",
+          "Nuclear sharing and extended deterrence"
+        ],
+        "statement": "We thank previous speakers for their constructive contributions.\n\nChina’s nuclear posture is strictly defensive: nuclear weapons serve solely to deter nuclear aggression. We uphold a resolute no‑first‑use commitment and seek to minimize nuclear salience in planning, inviting others to put NFU and credible assurances at the core of security concepts (2025_China_Statements_4.pdf p.5 ¶1; 2023_China_WP_1.pdf p.1 ¶5).\n\nPending elimination, NNWS deserve legally binding negative security assurances. China supports negotiating an international instrument; urges universal respect for nuclear‑weapon‑free zones, ratification of relevant protocols, and progress toward a Middle East zone free of WMD; and recalls our NFU at all times and unconditional assurances to NNWS and NWFZs, unique among NWS (2024_China_WP_3.pdf p.1 ¶3; 2025_China_Statements_5.pdf p.2 ¶3; 2025_China_Statements_5.pdf p.3 ¶3).\n\nNuclear sharing and expanded extended deterrence contravene the NPT’s letter and spirit and risk spreading to the Asia‑Pacific. We urge an end to such practices: no overseas deployments or transfer of control, stop training NNWS, withdraw forward‑deployed weapons, and reduce nuclear roles in doctrines (2025_China_Statements_3.pdf p.3 ¶2; 2024_China_Statements_2.pdf p.1 ¶4; 2023_China_Statements_2.pdf p.2 ¶5).\n\nChina proposes dedicated consultations on an NFU‑based, legally binding assurances framework and an NPT decision to phase out nuclear sharing.",
+        "citations": [
+          {
+            "source": "2025_China_Statements_4.pdf",
+            "page": 5,
+            "para": 1
+          },
+          {
+            "source": "2023_China_WP_1.pdf",
+            "page": 1,
+            "para": 5
+          },
+          {
+            "source": "2024_China_WP_3.pdf",
+            "page": 1,
+            "para": 3
+          },
+          {
+            "source": "2025_China_Statements_5.pdf",
+            "page": 2,
+            "para": 3
+          },
+          {
+            "source": "2025_China_Statements_5.pdf",
+            "page": 3,
+            "para": 3
+          },
+          {
+            "source": "2025_China_Statements_3.pdf",
+            "page": 3,
+            "para": 2
+          },
+          {
+            "source": "2024_China_Statements_2.pdf",
+            "page": 1,
+            "para": 4
+          },
+          {
+            "source": "2023_China_Statements_2.pdf",
+            "page": 2,
+            "para": 5
+          }
+        ],
+        "drafts": [
+          {
+            "issue": "Role and significance of nuclear weapons in military and security concepts, doctrines and policies",
+            "text": "China views the role of nuclear weapons as strictly limited to deterring nuclear aggression. Our doctrine is self-defensive and anchored in a resolute no-first-use commitment, which inherently minimizes the salience of nuclear weapons in planning and operations (2025_China_Statements_4.pdf p.5 ¶1; 2023_China_Statements_3.pdf p.3 ¶5). We also extend unconditional negative security assurances to non-nuclear-weapon States and nuclear-weapon-free zones, underscoring that nuclear weapons have no place in coercion or warfighting (2023_China_Statements_3.pdf p.3 ¶5). In light of concerns about the expanded nuclear role in some alliances, China urges States engaged in nuclear sharing and extended deterrence to take concrete steps to reduce nuclear salience in their doctrines (2023_China_WP_1.pdf p.1 ¶5). We are ready to work with all parties to place NFU and credible assurances at the core of security concepts.",
+            "citations": [
+              {
+                "source": "2025_China_Statements_4.pdf",
+                "page": 5,
+                "para": 1
+              },
+              {
+                "source": "2023_China_WP_1.pdf",
+                "page": 1,
+                "para": 5
+              },
+              {
+                "source": "2023_China_Statements_3.pdf",
+                "page": 3,
+                "para": 5
+              }
+            ]
+          },
+          {
+            "issue": "Security assurances",
+            "text": "China hears the clear call from non-nuclear-weapon States: pending the elimination of nuclear weapons, legally binding negative security assurances are their legitimate right. We support moving toward an international, legally binding instrument whereby nuclear-weapon States undertake not to use or threaten to use nuclear weapons against NNWS under any circumstances (2024_China_WP_3.pdf p.1 ¶3). As immediate steps, all nuclear-weapon States should respect nuclear-weapon-free zones, sign and ratify the relevant protocols, and implement associated assurances; we also support efforts toward a Middle East zone free of nuclear weapons and other WMD (2025_China_Statements_5.pdf p.2 ¶3). China has already pledged no first use at all times and unconditionally not to use or threaten to use nuclear weapons against NNWS and NWFZs, and remains the only NWS to have made these undertakings; we encourage others to follow suit (2025_China_Statements_5.pdf p.3 ¶3).",
+            "citations": [
+              {
+                "source": "2024_China_WP_3.pdf",
+                "page": 1,
+                "para": 3
+              },
+              {
+                "source": "2025_China_Statements_5.pdf",
+                "page": 2,
+                "para": 3
+              },
+              {
+                "source": "2025_China_Statements_5.pdf",
+                "page": 3,
+                "para": 3
+              }
+            ]
+          },
+          {
+            "issue": "Nuclear sharing and extended deterrence",
+            "text": "China reiterates that nuclear sharing and the expansion of extended deterrence run counter to the NPT’s letter and spirit (2025_China_Statements_3.pdf p.3 ¶2). NATO-style arrangements—training and preparing non‑nuclear‑weapon states for nuclear missions—are incompatible with Articles I and II, are Cold War relics, and should be ended (2024_China_Statements_2.pdf p.1 ¶4). We are gravely concerned about signs of proliferation of such practices to the Asia‑Pacific; any spread would violate the Treaty and erode regional stability (2023_China_Statements_2.pdf p.2 ¶5; 2025_China_Statements_3.pdf p.3 ¶2). We propose: 1) a commitment not to deploy nuclear weapons abroad nor transfer control in peace or war; 2) cessation of training of non‑nuclear‑weapon states and withdrawal of forward‑deployed weapons; 3) dialogue to reduce the role of nuclear weapons in doctrines and extended deterrence.",
+            "citations": [
+              {
+                "source": "2024_China_Statements_2.pdf",
+                "page": 1,
+                "para": 4
+              },
+              {
+                "source": "2025_China_Statements_3.pdf",
+                "page": 3,
+                "para": 2
+              },
+              {
+                "source": "2023_China_Statements_2.pdf",
+                "page": 2,
+                "para": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "round": 1,
+        "country": "Russia",
+        "selected_issues": [
+          "Strengthening the Treaty on the Non-Proliferation of Nuclear Weapons review process",
+          "Universality of the Treaty on the Non-Proliferation of Nuclear Weapons",
+          "Middle East Weapons of Mass Destruction Free Zone and Israel"
+        ],
+        "statement": "We thank previous speakers and support balanced, depoliticized progress under the NPT.\n\nTo strengthen the review process, we must avoid brinkmanship; the lack of final documents in 2015 and 2022 must not imperil the mechanism. This PrepCom should agree 2026 RevCon modalities—agenda, officers, rules, time and documentation—to maximize time for substance. We are ready to work toward outcomes by consensus, with a balanced agenda and transparent drafting agreed early (2025_Russia_Statements_1.pdf p.3 ¶5; 2025_Russia_Statements_1.pdf p.3 ¶6; 2025_Russia_Statements_2.pdf p.5 ¶1).\n\nUniversality remains indispensable. With the Working Group’s mandate expired, universality, withdrawal and related issues should revert to Cluster 3. Transparency is a means, not an end; both NWS and NNWS should report on disarmament implementation to build balanced confidence and support outreach (2024_Russia_Statements_5.pdf p.2 ¶1).\n\nRussia consistently supports a Middle East zone free of nuclear and other WMD, grounded in the 1995 Resolution we co-sponsored. We urge all regional states—including Israel—and invited observers to participate constructively in the UN Conference; we have circulated a working paper and stand ready to facilitate convergence, consistent with the BRICS Kazan Declaration. We propose the 2026 RevCon explicitly recommend universal participation (2025_Russia_Statements_6.pdf p.1 ¶1; 2025_Russia_WP_2.pdf p.3 ¶8; 2024_Russia_Statements_3.pdf p.4 ¶2).\n\nNext steps: early agreement on RevCon modalities, reinstating Cluster 3 on universality, and a RevCon call for universal participation in the ME WMDFZ Conference.",
+        "citations": [
+          {
+            "source": "2025_Russia_Statements_1.pdf",
+            "page": 3,
+            "para": 5
+          },
+          {
+            "source": "2025_Russia_Statements_1.pdf",
+            "page": 3,
+            "para": 6
+          },
+          {
+            "source": "2025_Russia_Statements_2.pdf",
+            "page": 5,
+            "para": 1
+          },
+          {
+            "source": "2024_Russia_Statements_5.pdf",
+            "page": 2,
+            "para": 1
+          },
+          {
+            "source": "2025_Russia_Statements_6.pdf",
+            "page": 1,
+            "para": 1
+          },
+          {
+            "source": "2025_Russia_WP_2.pdf",
+            "page": 3,
+            "para": 8
+          },
+          {
+            "source": "2024_Russia_Statements_3.pdf",
+            "page": 4,
+            "para": 2
+          }
+        ],
+        "drafts": [
+          {
+            "issue": "Middle East Weapons of Mass Destruction Free Zone and Israel",
+            "text": "Russia reiterates its consistent support for establishing a Middle East zone free of nuclear and other WMD—one of our top non-proliferation priorities. This objective, rooted in the 1995 NPT Resolution which we co-sponsored, carries a continuing responsibility we intend to fulfill. We note colleagues’ calls for inclusive, security‑minded dialogue and agree that progress must be depoliticized and results‑oriented. To that end, we urge all regional states—without exception, including Israel—and invited observers to participate constructively in the UN Conference on the ME WMDFZ to accelerate tangible progress toward early establishment. Consistent with the BRICS Kazan Declaration, Russia stands ready to work with all parties and has circulated a working document to facilitate convergence. We propose the 2026 Review Conference explicitly recommend universal participation.",
+            "citations": [
+              {
+                "source": "2025_Russia_Statements_6.pdf",
+                "page": 1,
+                "para": 1
+              },
+              {
+                "source": "2025_Russia_WP_2.pdf",
+                "page": 3,
+                "para": 8
+              },
+              {
+                "source": "2024_Russia_Statements_3.pdf",
+                "page": 4,
+                "para": 2
+              }
+            ]
+          },
+          {
+            "issue": "Strengthening the Treaty on the Non-Proliferation of Nuclear Weapons review process",
+            "text": "To strengthen the NPT review process, we must avoid brinkmanship. We regret that final documents were not adopted in 2015 and 2022; while desirable, such texts are not the sole measure of success. Our priority is preserving the review mechanism and eschewing steps that could imperil it (2025_Russia_Statements_1.pdf p.3 ¶5). The third PrepCom should focus on modalities for the 2026 Review Conference—agenda, officers, rules, time allocation, and documentation—so the RevCon can devote maximum time to substance (2025_Russia_Statements_1.pdf p.3 ¶6). For the 11th Review Conference, we are ready to work toward outcome documents, provided deliberations proceed by consensus and respect each delegation’s political priorities and constraints (2025_Russia_Statements_2.pdf p.5 ¶1). We support early agreement on a balanced agenda and transparent drafting modalities. This pragmatic, procedural-first approach can restore predictability and confidence across the Treaty’s pillars.",
+            "citations": [
+              {
+                "source": "2025_Russia_Statements_1.pdf",
+                "page": 3,
+                "para": 5
+              },
+              {
+                "source": "2025_Russia_Statements_1.pdf",
+                "page": 3,
+                "para": 6
+              },
+              {
+                "source": "2025_Russia_Statements_2.pdf",
+                "page": 5,
+                "para": 1
+              }
+            ]
+          },
+          {
+            "issue": "Universality of the Treaty on the Non-Proliferation of Nuclear Weapons",
+            "text": "Russia reaffirms that universal adherence to the NPT is indispensable for a stable, equitable non-proliferation regime. With the mandate of the Working Group on strengthening the review process having expired, questions of universality should revert to discussion under Cluster 3, alongside withdrawal and related issues, as was previously the practice (2024_Russia_Statements_5.pdf p.2 ¶1). We caution against narrowing this agenda to calls for nuclear-weapon States’ transparency alone; transparency and other confidence-building measures are means to advance arms control, disarmament and non-proliferation, which in turn create conditions conducive to universalization (2024_Russia_Statements_5.pdf p.2 ¶1). In line with Article VI’s framing of disarmament within general and complete disarmament, both nuclear-weapon and non-nuclear-weapon States should report on implementation of their disarmament obligations to foster balanced confidence and support outreach to states remaining outside the Treaty (2024_Russia_Statements_5.pdf p.2 ¶1). We stand ready to work constructively under Cluster 3 on practical, non-politicized steps to encourage adherence.",
+            "citations": [
+              {
+                "source": "2024_Russia_Statements_5.pdf",
+                "page": 2,
+                "para": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "round": 2,
+        "country": "USA",
+        "selected_issues": [
+          "Naval propulsion",
+          "Nuclear sharing and extended deterrence",
+          "Middle East Weapons of Mass Destruction Free Zone and Israel"
+        ],
+        "statement": "Mr. Chair, we thank previous speakers for their constructive contributions.\n\nOn naval nuclear propulsion, the AUKUS pathway to provide conventionally armed, nuclear‑powered submarines to Australia will be implemented fully consistent with the NPT and set the highest nonproliferation standard. We maintain substantive engagement with the IAEA and welcome inclusive dialogue on robust safeguards and non‑diversion assurances, including via an intersessional, IAEA‑briefed technical workshop. (2023_USA_Statements_4.pdf p.3 ¶2)\n\nU.S. extended deterrence and associated nuclear‑sharing arrangements comply with Articles I and II: we do not transfer nuclear weapons or control, and the United States retains full custody under the highest safety and security standards. These defensive alliances reduce incentives for proliferation. The fundamental role of U.S. nuclear weapons is to deter nuclear attack; use would be considered only in extreme circumstances. (2024_USA_Statements_4.pdf p.4 ¶1; 2025_USA_Statements_4.pdf p.3 ¶3; 2024_USA_Statements_3.pdf p.1 ¶3)\n\nWe remain committed to a Middle East free of nuclear and other WMD, achieved alongside a comprehensive and durable regional peace. Progress must be based on arrangements freely agreed by all regional states and cannot be imposed; we encourage universal participation, including Israel, and support the long‑term goal of universal NPT adherence. (2025_USA_Statements_5.pdf p.1 ¶3; 2023_USA_Statements_5.pdf p.3 ¶3; 2024_USA_Statements_5.pdf p.3 ¶3)\n\nAccordingly, we will convene an IAEA‑briefed naval‑safeguards workshop and circulate a paper on pragmatic, verifiable risk‑reduction steps for co‑sponsorship.",
+        "citations": [
+          {
+            "source": "2023_USA_Statements_4.pdf",
+            "page": 3,
+            "para": 2
+          },
+          {
+            "source": "2024_USA_Statements_4.pdf",
+            "page": 4,
+            "para": 1
+          },
+          {
+            "source": "2025_USA_Statements_4.pdf",
+            "page": 3,
+            "para": 3
+          },
+          {
+            "source": "2024_USA_Statements_3.pdf",
+            "page": 1,
+            "para": 3
+          },
+          {
+            "source": "2025_USA_Statements_5.pdf",
+            "page": 1,
+            "para": 3
+          },
+          {
+            "source": "2023_USA_Statements_5.pdf",
+            "page": 3,
+            "para": 3
+          },
+          {
+            "source": "2024_USA_Statements_5.pdf",
+            "page": 3,
+            "para": 3
+          }
+        ],
+        "drafts": [
+          {
+            "issue": "Naval propulsion",
+            "text": "Mr. Chair, focusing on naval propulsion, the United States reiterates that the AUKUS pathway to provide conventionally armed, nuclear‑powered submarines to Australia will be implemented fully consistent with the NPT and set the highest nonproliferation standard. The AUKUS partners maintain routine, substantive engagement with the IAEA, and Director General Grossi has expressed satisfaction with our transparency to date. We hear concerns about precedent and safeguards for naval fuel and welcome continued, inclusive dialogue on robust verification, non‑diversion assurances, and accountable material management tailored to naval propulsion. To that end, we invite delegations to our side event on naval propulsion and the NPT and support an intersessional, IAEA‑briefed technical workshop to advance practical, verifiable safeguards solutions, informed by broad participation and expert input.",
+            "citations": [
+              {
+                "source": "2023_USA_Statements_4.pdf",
+                "page": 3,
+                "para": 2
+              }
+            ]
+          },
+          {
+            "issue": "Middle East Weapons of Mass Destruction Free Zone and Israel",
+            "text": "Mr. Chair, the United States remains committed to a Middle East free of nuclear and other WMD, achieved in a manner that strengthens—and proceeds alongside—a comprehensive and durable regional peace (2025_USA_Statements_5.pdf p.1 ¶3). Progress must rest on arrangements freely agreed by all regional states—addressing the legitimate security concerns of each party—and cannot be imposed from outside; the only sustainable path is direct, inclusive dialogue among the states of the region, and we are prepared to engage on consensus‑based initiatives, taking note of discussions at the UN Conference (2023_USA_Statements_5.pdf p.3 ¶3). We encourage universal participation by regional states, including Israel and all its neighbors, while underscoring that outcomes must command regional consent. We also continue to support the long‑term goal of universal NPT adherence in the Middle East and globally, recognizing this will take time (2024_USA_Statements_5.pdf p.3 ¶3).",
+            "citations": [
+              {
+                "source": "2025_USA_Statements_5.pdf",
+                "page": 1,
+                "para": 3
+              },
+              {
+                "source": "2023_USA_Statements_5.pdf",
+                "page": 3,
+                "para": 3
+              },
+              {
+                "source": "2024_USA_Statements_5.pdf",
+                "page": 3,
+                "para": 3
+              }
+            ]
+          },
+          {
+            "issue": "Nuclear sharing and extended deterrence",
+            "text": "Mr. Chair, we welcome calls for clarity. U.S. extended deterrence and associated nuclear‑sharing arrangements are fully consistent with NPT Articles I and II. We neither transfer nuclear weapons or control, nor assist any NNWS to acquire them; the United States retains complete control and the highest safety and security standards. Far from undermining the Treaty, these defensive alliances reduce incentives for allies to seek national nuclear weapons and thus strengthen nonproliferation and stability. The NPT was negotiated with an understanding of existing alliances—claims to the contrary are historical revisionism. Our posture is restrained: the fundamental role of U.S. nuclear weapons is to deter nuclear attack; we would consider use only in extreme circumstances to defend vital interests. We stand ready to engage on transparency and risk‑reduction discussions within the NPT framework. (2024_USA_Statements_4.pdf p.4 ¶1; 2025_USA_Statements_4.pdf p.3 ¶3; 2024_USA_Statements_3.pdf p.1 ¶3)",
+            "citations": [
+              {
+                "source": "2024_USA_Statements_4.pdf",
+                "page": 4,
+                "para": 1
+              },
+              {
+                "source": "2025_USA_Statements_4.pdf",
+                "page": 3,
+                "para": 3
+              },
+              {
+                "source": "2024_USA_Statements_3.pdf",
+                "page": 1,
+                "para": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "round": 2,
+        "country": "China",
+        "selected_issues": [
+          "Naval propulsion",
+          "Middle East Weapons of Mass Destruction Free Zone and Israel",
+          "Strengthening the Treaty on the Non-Proliferation of Nuclear Weapons review process"
+        ],
+        "statement": "Mr. Chair, we thank previous speakers for their constructive contributions and shared commitment to strengthening the NPT.\n\nOn naval nuclear propulsion, China remains gravely concerned that AUKUS would transfer naval reactors and large quantities of weapons‑grade HEU to a non‑nuclear‑weapon State—posing proliferation risks current safeguards cannot address. Article 14 has never been applied; neither partners nor the Secretariat may interpret it unilaterally. Workshops are useful, but only an inclusive IAEA intergovernmental process can deliver Board‑approved definitions, accountancy and verification; implementation should await such consensus.\n\nChina firmly supports establishing a Middle East zone free of nuclear and other WMD, has participated in the UN Conference, and encourages all regional states, including Israel, to engage constructively under UN auspices. Nuclear‑weapon States should respect NWFZs, ratify relevant protocols, and provide credible assurances; China stands ready to facilitate inclusive dialogue on practical steps and verification.\n\nTo strengthen the review process, China supports a practical, consensus‑oriented approach toward positive results at the 2026 Review Conference. We should carry forward the Working Group’s outputs and the Chair’s proposals, agree early on RevCon modalities, streamline agendas and drafting, enable intersessional Bureau‑facilitated exchanges, and encourage voluntary, balanced reporting across pillars.\n\nAccordingly, China proposes IAEA‑led consultations on naval‑propulsion safeguards, early PrepCom agreement on RevCon modalities, and universal participation in the ME WMDFZ Conference.",
+        "citations": [
+          {
+            "source": "2023_China_WP_2.pdf",
+            "page": 1,
+            "para": 2
+          },
+          {
+            "source": "2023_China_Statements_5.pdf",
+            "page": 3,
+            "para": 3
+          },
+          {
+            "source": "2025_China_Statements_3.pdf",
+            "page": 2,
+            "para": 5
+          },
+          {
+            "source": "2025_China_Statements_7.pdf",
+            "page": 2,
+            "para": 3
+          },
+          {
+            "source": "2024_China_WP_4.pdf",
+            "page": 2,
+            "para": 8
+          },
+          {
+            "source": "2025_China_Statements_5.pdf",
+            "page": 2,
+            "para": 3
+          },
+          {
+            "source": "2025_China_Statements_2.pdf",
+            "page": 3,
+            "para": 5
+          },
+          {
+            "source": "2024_China_WP_1.pdf",
+            "page": 1,
+            "para": 2
+          },
+          {
+            "source": "2024_China_WP_1.pdf",
+            "page": 1,
+            "para": 3
+          }
+        ],
+        "drafts": [
+          {
+            "issue": "Naval propulsion",
+            "text": "China thanks the United States for its intervention. On naval nuclear propulsion, we remain gravely concerned that the AUKUS pathway would, for the first time, transfer naval reactors and tons of weapons‑grade HEU to a non‑nuclear‑weapon State—creating serious proliferation risks that current IAEA safeguards cannot effectively address (2023_China_WP_2.pdf p.1 ¶2). Article 14 of CSAs has never been applied; there is wide divergence on key definitions and procedures. Neither AUKUS partners nor the Secretariat have authority to unilaterally interpret or implement Article 14; explanations must be negotiated by Member States and approved by the Board of Governors (2023_China_Statements_5.pdf p.3 ¶3). We are open to technical exchanges, but workshops and side events cannot substitute for an inclusive, sustainable intergovernmental process under the IAEA to develop Board‑endorsed definitions, accountancy and verification modalities. Implementation should not proceed absent such consensus safeguards arrangements (2025_China_Statements_3.pdf p.2 ¶5).",
+            "citations": [
+              {
+                "source": "2023_China_WP_2.pdf",
+                "page": 1,
+                "para": 2
+              },
+              {
+                "source": "2023_China_Statements_5.pdf",
+                "page": 3,
+                "para": 3
+              },
+              {
+                "source": "2025_China_Statements_3.pdf",
+                "page": 2,
+                "para": 5
+              }
+            ]
+          },
+          {
+            "issue": "Middle East Weapons of Mass Destruction Free Zone and Israel",
+            "text": "China reiterates firm support for establishing a Middle East Zone Free of Nuclear Weapons and Other Weapons of Mass Destruction. We have consistently backed this process, participated in the UN Conference as an observer, and will continue working with partners for its early realization to enhance regional peace and security (2025_China_Statements_7.pdf p.2 ¶3; 2024_China_WP_4.pdf p.2 ¶8). We encourage all regional states, including Israel, to engage constructively and without preconditions in the Conference process, and we support calls for universal participation under UN auspices (2025_China_Statements_5.pdf p.2 ¶3). Nuclear‑weapon States should respect existing nuclear‑weapon‑free zones, sign and ratify relevant protocols, and provide credible security assurances that reinforce the prospective Middle East zone (2025_China_Statements_5.pdf p.2 ¶3). China stands ready to facilitate consensus‑based, inclusive dialogue focused on practical steps, timelines, and verification arrangements that reflect regional realities and enjoy broad support (2025_China_Statements_7.pdf p.2 ¶3).",
+            "citations": [
+              {
+                "source": "2025_China_Statements_7.pdf",
+                "page": 2,
+                "para": 3
+              },
+              {
+                "source": "2024_China_WP_4.pdf",
+                "page": 2,
+                "para": 8
+              },
+              {
+                "source": "2025_China_Statements_5.pdf",
+                "page": 2,
+                "para": 3
+              }
+            ]
+          },
+          {
+            "issue": "Strengthening the Treaty on the Non-Proliferation of Nuclear Weapons review process",
+            "text": "China supports a practical, consensus‑oriented effort to strengthen the NPT review process. We encourage this PrepCom to build convergence and lay a solid foundation for positive results at the 2026 Review Conference (2025_China_Statements_2.pdf p.3 ¶5). We should carry forward the valuable work of the Working Group and the Chair’s draft/compromise proposals, which enjoyed broad support and offer a sound basis for review‑process reforms (2024_China_WP_1.pdf p.1 ¶2). Concretely, China proposes: early agreement on RevCon modalities; structured agendas and streamlined, inclusive drafting procedures; intersessional, Bureau‑facilitated technical exchanges to sustain continuity; and voluntary, balanced reporting to focus discussions and reduce differences across pillars—thereby fostering constructive engagement the Working Group envisioned (2024_China_WP_1.pdf p.1 ¶3). Substantive issues raised by delegations can be taken up in the relevant clusters; our focus here is to ensure a depoliticized, results‑focused process.",
+            "citations": [
+              {
+                "source": "2025_China_Statements_2.pdf",
+                "page": 3,
+                "para": 5
+              },
+              {
+                "source": "2024_China_WP_1.pdf",
+                "page": 1,
+                "para": 2
+              },
+              {
+                "source": "2024_China_WP_1.pdf",
+                "page": 1,
+                "para": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "round": 2,
+        "country": "Russia",
+        "selected_issues": [
+          "Naval nuclear propulsion",
+          "Middle East WMD‑Free Zone",
+          "Nuclear sharing and extended deterrence"
+        ],
+        "statement": "Mr. Chair, we thank previous speakers and support balanced, depoliticized progress under the NPT.\n\nOn naval nuclear propulsion, we welcome technical dialogue but cannot accept AUKUS as a “highest standard.” Removing HEU from safeguards under the naval-use exemption risks a precedent of NNWS holding weapons‑grade material outside verification. Drawing on our civilian propulsion experience, we could join an IAEA‑briefed workshop focused on closing paragraph‑14 gaps, continuous accountancy and non‑diversion, and time‑bound return of any exempted material to safeguards.\n\nWe reiterate practical support for a Middle East zone free of nuclear and other WMD, grounded in the 1995 Resolution we co‑sponsored. All regional states—including Israel—and invited observers should participate in the UN Conference to negotiate scope, verification, and assurances by consensus. The 2026 Review Conference should explicitly recommend universal participation.\n\nNuclear sharing and expanded extended deterrence contradict the Treaty’s letter and spirit. The stationing of U.S. nuclear weapons in Europe and training of NNWS should cease, with complete withdrawal and dismantlement of related infrastructure. We urge maximum transparency by involved NNWS and support negotiating legally binding negative security assurances, consistent with UNSC 984; we are ready to discuss reporting templates and timelines for verified withdrawal.\n\nNext steps: agree early on 2026 RevCon modalities, reinstate Cluster 3 on universality, and convene an intersessional IAEA‑briefed workshop on naval propulsion safeguards.",
+        "citations": [
+          {
+            "source": "2023_Russia_Statements_3.pdf",
+            "page": 3,
+            "para": 2
+          },
+          {
+            "source": "2023_Russia_Statements_1.pdf",
+            "page": 7,
+            "para": 3
+          },
+          {
+            "source": "2024_Russia_Statements_4.pdf",
+            "page": 2,
+            "para": 4
+          },
+          {
+            "source": "2024_Russia_Statements_3.pdf",
+            "page": 4,
+            "para": 2
+          },
+          {
+            "source": "2025_Russia_Statements_6.pdf",
+            "page": 1,
+            "para": 1
+          },
+          {
+            "source": "2025_Russia_WP_2.pdf",
+            "page": 3,
+            "para": 8
+          },
+          {
+            "source": "2023_Russia_Statements_2.pdf",
+            "page": 5,
+            "para": 2
+          },
+          {
+            "source": "2024_Russia_Statements_5.pdf",
+            "page": 3,
+            "para": 2
+          },
+          {
+            "source": "2025_Russia_Statements_4.pdf",
+            "page": 1,
+            "para": 2
+          }
+        ],
+        "drafts": [
+          {
+            "issue": "Naval propulsion",
+            "text": "Mr. Chair, Russia supports frank, technical discussion of naval nuclear propulsion, but we cannot accept portrayals of AUKUS as a ‘highest standard’ model. The planned withdrawal of highly enriched uranium from IAEA safeguards under a naval-use exemption risks creating a new category of NNWS holding weapons‑grade material outside safeguards, setting a precedent that weakens the regime (2023_Russia_Statements_3.pdf p.3 ¶2; 2023_Russia_Statements_1.pdf p.7 ¶3). Russia has long experience with peaceful nuclear propulsion in the civilian domain, including a fleet of nuclear‑powered icebreakers, and understands both the benefits and the safeguards responsibilities such technology entails (2024_Russia_Statements_4.pdf p.2 ¶4). We can engage in an IAEA‑briefed workshop, provided it addresses: closing paragraph‑14 loopholes; strict, continuous accountancy and non‑diversion measures for all naval fuel; and clear, time‑bound arrangements to return any exempted material to safeguards. We invite broad support for developing uniform, verifiable approaches applicable to all.",
+            "citations": [
+              {
+                "source": "2023_Russia_Statements_3.pdf",
+                "page": 3,
+                "para": 2
+              },
+              {
+                "source": "2023_Russia_Statements_1.pdf",
+                "page": 7,
+                "para": 3
+              },
+              {
+                "source": "2024_Russia_Statements_4.pdf",
+                "page": 2,
+                "para": 4
+              }
+            ]
+          },
+          {
+            "issue": "Middle East Weapons of Mass Destruction Free Zone and Israel",
+            "text": "Mr. Chair, Russia reiterates its long-standing, practical support for establishing a Middle East zone free of nuclear and other WMD, as mandated by the 1995 Resolution we co‑sponsored. We shoulder that responsibility and will continue to facilitate convergence among regional stakeholders. We urge all Middle Eastern states—including Israel—and invited observers to participate constructively in the UN Conference process; universal participation is indispensable to negotiate scope, verification, and security assurances on an agreed, consensus basis. To that end, we have circulated a working paper and propose that the 2026 Review Conference explicitly recommend universal participation to accelerate tangible progress toward the early establishment of the zone. We stand ready, together with partners, to assist dialogue in a depoliticized, inclusive format and encourage all to engage directly with the Conference chair and facilitators.",
+            "citations": [
+              {
+                "source": "2024_Russia_Statements_3.pdf",
+                "page": 4,
+                "para": 2
+              },
+              {
+                "source": "2025_Russia_Statements_6.pdf",
+                "page": 1,
+                "para": 1
+              },
+              {
+                "source": "2025_Russia_WP_2.pdf",
+                "page": 3,
+                "para": 8
+              }
+            ]
+          },
+          {
+            "issue": "Nuclear sharing and extended deterrence",
+            "text": "Mr. Chair, on other agenda items we will engage separately; on nuclear sharing and extended deterrence, our concerns are acute. The continued stationing of U.S. nuclear weapons in Europe, coupled with training of non‑nuclear‑weapon States, undermines the NPT and provokes countermeasures. Those weapons should be completely withdrawn to U.S. territory and the related infrastructure dismantled. We urge NATO NNWS involved in such arrangements to provide maximum, detailed transparency on nuclear‑related infrastructure, its use, and future plans. To strengthen security for NNWS legitimately, Russia supports negotiating legally binding negative security assurances equivalent to UNSC resolution 984, conditional on full non‑proliferation compliance and on renouncing any control over nuclear weapons within alliance frameworks. As practical steps, we are ready to discuss a reporting template for NNWS engaged in sharing and timelines for verified withdrawal.",
+            "citations": [
+              {
+                "source": "2023_Russia_Statements_2.pdf",
+                "page": 5,
+                "para": 2
+              },
+              {
+                "source": "2024_Russia_Statements_5.pdf",
+                "page": 3,
+                "para": 2
+              },
+              {
+                "source": "2025_Russia_Statements_4.pdf",
+                "page": 1,
+                "para": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "round": 3,
+        "country": "USA",
+        "selected_issues": [
+          "Naval nuclear propulsion",
+          "Extended deterrence and nuclear sharing",
+          "Middle East WMD-Free Zone"
+        ],
+        "statement": "Mr. Chair, we thank previous speakers for their constructive contributions and welcome continued, fact‑based dialogue.\n\nOn naval nuclear propulsion, the AUKUS pathway to provide conventionally armed, nuclear‑powered submarines to Australia will be implemented fully consistent with the NPT and set the highest nonproliferation standard. We maintain transparent engagement with the IAEA and support inclusive technical discussion to ensure robust safeguards and credible non‑diversion assurances, seeking practical, Board‑informed solutions developed with the Secretariat and all States Parties (2023_USA_Statements_4.pdf p.3 ¶2).\n\nRegarding extended deterrence and associated nuclear‑sharing arrangements, these practices comply with Articles I and II. The United States does not transfer nuclear weapons or control; we retain full custody under the highest safety and security standards. Such defensive alliances reduce incentives for proliferation. The fundamental role of U.S. nuclear weapons is to deter nuclear attack; any use would be considered only in extreme circumstances (2024_USA_Statements_4.pdf p.4 ¶1; 2025_USA_Statements_4.pdf p.3 ¶3; 2024_USA_Statements_3.pdf p.1 ¶3).\n\nWe remain committed to a Middle East free of nuclear and other WMD, achieved alongside comprehensive and durable regional peace, through arrangements freely agreed by all regional states. We encourage universal participation, including Israel, and the long‑term goal of universal NPT adherence (2025_USA_Statements_5.pdf p.1 ¶3; 2023_USA_Statements_5.pdf p.3 ¶3; 2024_USA_Statements_5.pdf p.3 ¶3).\n\nAccordingly, we will convene an intersessional, IAEA‑briefed naval‑safeguards workshop and circulate a paper on pragmatic, verifiable risk‑reduction steps for co‑sponsorship.",
+        "citations": [
+          {
+            "source": "2023_USA_Statements_4.pdf",
+            "page": 3,
+            "para": 2
+          },
+          {
+            "source": "2024_USA_Statements_4.pdf",
+            "page": 4,
+            "para": 1
+          },
+          {
+            "source": "2025_USA_Statements_4.pdf",
+            "page": 3,
+            "para": 3
+          },
+          {
+            "source": "2024_USA_Statements_3.pdf",
+            "page": 1,
+            "para": 3
+          },
+          {
+            "source": "2025_USA_Statements_5.pdf",
+            "page": 1,
+            "para": 3
+          },
+          {
+            "source": "2023_USA_Statements_5.pdf",
+            "page": 3,
+            "para": 3
+          },
+          {
+            "source": "2024_USA_Statements_5.pdf",
+            "page": 3,
+            "para": 3
+          }
+        ],
+        "drafts": [
+          {
+            "issue": "Naval propulsion",
+            "text": "Mr. Chair, we hear the concerns raised. Let me reiterate: the AUKUS pathway to provide conventionally armed, nuclear‑powered submarines to Australia will be implemented fully consistent with the NPT and set the highest nonproliferation standard. We continue routine, transparent engagement with the IAEA; Director General Grossi has noted satisfaction with our transparency to date (2023_USA_Statements_4.pdf p.3 ¶2). We welcome inclusive, technical dialogue to ensure robust safeguards and credible non‑diversion assurances for naval propulsion, and propose an intersessional, IAEA‑briefed workshop open to all interested states. Our objective is practical, Board‑informed solutions that strengthen—not weaken—the regime, developed with the Secretariat and all states parties. We invite delegations to engage with us in forthcoming briefings and papers to advance common understanding and confidence.",
+            "citations": [
+              {
+                "source": "2023_USA_Statements_4.pdf",
+                "page": 3,
+                "para": 2
+              }
+            ]
+          },
+          {
+            "issue": "Nuclear sharing and extended deterrence",
+            "text": "Mr. Chair, some delegations have again mischaracterized U.S. extended deterrence and nuclear‑sharing arrangements. Let me be clear: these arrangements fully comply with Articles I and II. The United States does not transfer nuclear weapons or control to any ally; we retain full custody under the highest safety and security standards. Far from undermining the Treaty, these defensive alliances reduce incentives for proliferation by providing credible security assurances that obviate national nuclear programs and contribute to stability. As long as nuclear weapons exist, the fundamental role of U.S. nuclear weapons is to deter nuclear attack; any U.S. use would be considered only in extreme circumstances to defend vital interests. We invite factual, good‑faith dialogue and encourage delegations to reject revisionist narratives that conflate lawful alliance practices with proliferation.",
+            "citations": [
+              {
+                "source": "2024_USA_Statements_4.pdf",
+                "page": 4,
+                "para": 1
+              },
+              {
+                "source": "2025_USA_Statements_4.pdf",
+                "page": 3,
+                "para": 3
+              },
+              {
+                "source": "2024_USA_Statements_3.pdf",
+                "page": 1,
+                "para": 3
+              }
+            ]
+          },
+          {
+            "issue": "Middle East Weapons of Mass Destruction Free Zone and Israel",
+            "text": "Mr. Chair, we share the objective of a Middle East free of nuclear and other WMD. The United States remains committed to this goal, to be achieved alongside a comprehensive and durable regional peace (2025_USA_Statements_5.pdf p.1 ¶3). Progress must rest on arrangements freely agreed by all regional states; it cannot be imposed from outside. We therefore support direct, inclusive regional dialogue that builds confidence and addresses legitimate security concerns, and we are prepared to engage in initiatives with consensus regional support, taking note of developments at the UN Conference (2023_USA_Statements_5.pdf p.3 ¶3). Universal participation is essential, and we continue to support the long‑term goal of universal adherence to the NPT, including by those not yet Party (2024_USA_Statements_5.pdf p.3 ¶3). As practical next steps, we encourage all regional states to intensify direct consultations and explore pragmatic, verifiable confidence‑building measures.",
+            "citations": [
+              {
+                "source": "2025_USA_Statements_5.pdf",
+                "page": 1,
+                "para": 3
+              },
+              {
+                "source": "2023_USA_Statements_5.pdf",
+                "page": 3,
+                "para": 3
+              },
+              {
+                "source": "2024_USA_Statements_5.pdf",
+                "page": 3,
+                "para": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "round": 3,
+        "country": "China",
+        "selected_issues": [
+          "Naval nuclear propulsion",
+          "Middle East WMDFZ",
+          "Nuclear sharing and extended deterrence"
+        ],
+        "statement": "Mr. Chair, China thanks previous speakers for their constructive contributions and shares the common objective of strengthening the NPT.\n\nOn naval nuclear propulsion, China remains gravely concerned that AUKUS would transfer naval reactors and large quantities of weapons‑grade HEU to a non‑nuclear‑weapon State—risks current safeguards cannot mitigate. Article 14 has never been applied; neither partners nor the Secretariat may unilaterally define non‑proscribed military activity or procedures for any non‑application of safeguards. Only an IAEA member‑state process ending in Board‑approved definitions, robust accountancy, continuous non‑diversion, and time‑bound return can close these gaps; workshops cannot substitute. Implementation should await such consensus.\n\nChina firmly supports establishing a Middle East zone free of nuclear and other WMD. We have participated in the UN Conference and encourage universal participation, including Israel, to negotiate by consensus scope, verification, and credible security assurances; NWS should respect zones and ratify protocols. China stands ready to facilitate inclusive dialogue.\n\nOn nuclear sharing, many States Parties question compatibility with Articles I and II. Such Cold War arrangements should be reduced—not expanded—nor spread to the Asia‑Pacific; States concerned should refrain from stationing nuclear weapons on NNWS territory and enhance transparency.\n\nAccordingly, China proposes IAEA‑led consultations on naval safeguards, universal participation in the ME WMDFZ Conference, and restraint and transparency on nuclear sharing.",
+        "citations": [
+          {
+            "source": "2023_China_WP_2.pdf",
+            "page": 1,
+            "para": 2
+          },
+          {
+            "source": "2023_China_Statements_5.pdf",
+            "page": 3,
+            "para": 3
+          },
+          {
+            "source": "2024_China_WP_4.pdf",
+            "page": 2,
+            "para": 8
+          },
+          {
+            "source": "2025_China_Statements_5.pdf",
+            "page": 2,
+            "para": 3
+          },
+          {
+            "source": "2024_China_Statements_2.pdf",
+            "page": 1,
+            "para": 4
+          },
+          {
+            "source": "2025_China_Statements_3.pdf",
+            "page": 3,
+            "para": 2
+          }
+        ],
+        "drafts": [
+          {
+            "issue": "Naval propulsion",
+            "text": "Mr. Chair, China appreciates efforts to sustain dialogue. However, we remain gravely concerned that AUKUS would entail the transfer of naval reactors and ton‑scale weapons‑grade HEU to a NNWS—risks current safeguards cannot mitigate (2023_China_WP_2.pdf p.1 ¶2; 2025_China_Statements_3.pdf p.2 ¶5). Article 14 has never been applied; neither partners nor the Secretariat may unilaterally interpret ‘non‑proscribed military activity’ or procedures for any safeguards non‑application—these must be negotiated by IAEA Member States and approved by the Board (2023_China_Statements_5.pdf p.3 ¶3). We can support technical workshops, but they cannot substitute for an inclusive, intergovernmental process leading to Board‑agreed definitions, accountancy, continuous non‑diversion assurances, and time‑bound return of any exempted material. Pending such consensus, implementation of any arrangement should not proceed. China stands ready to work constructively within the IAEA to this end.",
+            "citations": [
+              {
+                "source": "2023_China_WP_2.pdf",
+                "page": 1,
+                "para": 2
+              },
+              {
+                "source": "2025_China_Statements_3.pdf",
+                "page": 2,
+                "para": 5
+              },
+              {
+                "source": "2023_China_Statements_5.pdf",
+                "page": 3,
+                "para": 3
+              }
+            ]
+          },
+          {
+            "issue": "Middle East Weapons of Mass Destruction Free Zone and Israel",
+            "text": "Mr. Chair, China firmly supports establishing a Middle East zone free of nuclear and other WMD as an essential step to regional security and global non-proliferation (2024_China_WP_4.pdf p.2 ¶8). We have consistently participated in the UN Conference and reaffirmed this commitment in the Beijing Declaration; we will work with all parties for the early realization of this goal (2025_China_Statements_7.pdf p.2 ¶3). We welcome calls for universal participation, including Israel, and encourage all regional states to engage constructively under UN auspices to negotiate by consensus practical elements—scope, verification, and credible security assurances (2025_China_Statements_5.pdf p.2 ¶3). Nuclear-weapon States should respect existing and prospective zones, sign and ratify the relevant protocols, and implement associated assurances. China stands ready to facilitate inclusive dialogue and support outcomes commanding the consent of all states of the region.",
+            "citations": [
+              {
+                "source": "2024_China_WP_4.pdf",
+                "page": 2,
+                "para": 8
+              },
+              {
+                "source": "2025_China_Statements_7.pdf",
+                "page": 2,
+                "para": 3
+              },
+              {
+                "source": "2025_China_Statements_5.pdf",
+                "page": 2,
+                "para": 3
+              }
+            ]
+          },
+          {
+            "issue": "Nuclear sharing and extended deterrence",
+            "text": "Mr. Chair, we note the U.S. assertion that nuclear-sharing and extended deterrence comply with Articles I and II. However, many States Parties have long questioned NATO nuclear sharing as incompatible with those Articles; as a Cold War relic, it should be abandoned, not expanded. We are gravely concerned about signs of proliferation of such arrangements to the Asia‑Pacific; any further spread would run counter to the NPT’s letter and spirit and must be firmly opposed. To reduce risks, States concerned should refrain from stationing nuclear weapons on NNWS territory, halt any steps that move toward shared control, and increase transparency on related doctrines and exercises. China stands ready to work with all parties on practical confidence‑building that diminishes the role of nuclear weapons in security policies and upholds the Treaty’s object and purpose.",
+            "citations": [
+              {
+                "source": "2024_China_Statements_2.pdf",
+                "page": 1,
+                "para": 4
+              },
+              {
+                "source": "2025_China_Statements_3.pdf",
+                "page": 3,
+                "para": 2
+              },
+              {
+                "source": "2023_China_Statements_2.pdf",
+                "page": 2,
+                "para": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "round": 3,
+        "country": "Russia",
+        "selected_issues": [
+          "Naval propulsion",
+          "Nuclear sharing and extended deterrence",
+          "Middle East Weapons of Mass Destruction Free Zone"
+        ],
+        "statement": "Mr. Chair, we thank previous speakers and support balanced, depoliticized progress under the NPT.\n\nOn naval nuclear propulsion, we cannot accept claims that AUKUS is the “highest standard.” Exempting HEU under Article 14 would set a precedent of NNWS holding material outside verification. Article 14 has never been applied; no one should define it unilaterally. We support an IAEA‑briefed, inclusive intergovernmental process to agree Board‑approved parameters for continuous accountancy, non‑diversion, and time‑bound return; until then, transfers or exemptions should be deferred. Russia will contribute its civilian propulsion experience to an intersessional workshop focused on closing paragraph‑14 gaps.\n\nNuclear sharing and expanded extended deterrence contradict the Treaty’s letter and spirit. U.S. nuclear weapons should be withdrawn from Europe and related infrastructure dismantled. Pending this, involved NNWS must ensure maximum transparency; we support legally binding negative security assurances and are ready to discuss standardized reporting and verifiable withdrawal timelines.\n\nWe reiterate support for a Middle East zone free of nuclear and other WMD, grounded in the 1995 Resolution we co‑sponsored. The UN Conference is the practical path; all regional states and invited observers should participate, and the 2026 Review Conference should endorse universal participation.\n\nNext steps: early agreement on 2026 RevCon modalities, reinstating Cluster 3 on universality, and convening an intersessional IAEA‑briefed workshop on naval safeguards.",
+        "citations": [
+          {
+            "source": "2023_Russia_Statements_3.pdf",
+            "page": 3,
+            "para": 2
+          },
+          {
+            "source": "2024_Russia_Statements_4.pdf",
+            "page": 2,
+            "para": 4
+          },
+          {
+            "source": "2023_Russia_Statements_2.pdf",
+            "page": 5,
+            "para": 2
+          },
+          {
+            "source": "2024_Russia_Statements_5.pdf",
+            "page": 3,
+            "para": 2
+          },
+          {
+            "source": "2025_Russia_Statements_4.pdf",
+            "page": 1,
+            "para": 2
+          },
+          {
+            "source": "2024_Russia_Statements_3.pdf",
+            "page": 4,
+            "para": 2
+          },
+          {
+            "source": "2025_Russia_Statements_6.pdf",
+            "page": 1,
+            "para": 1
+          }
+        ],
+        "drafts": [
+          {
+            "issue": "Naval propulsion",
+            "text": "Mr. Chair, we welcome technical dialogue but cannot accept assertions that AUKUS sets the “highest nonproliferation standard.” The prospect of withdrawing weapons‑grade HEU from safeguards under the naval‑use exemption risks creating a new category of NNWS holding significant quantities of material outside verification—eroding confidence in the regime and inviting replication elsewhere. Article 14 has never been applied; no state or Secretariat should unilaterally define its implementation. We support an IAEA‑briefed, inclusive intergovernmental process to develop Board‑approved parameters for continuous accountancy, non‑diversion assurances, and time‑bound return of any exempted material to safeguards. Until such consensus rules exist, any transfer or exemption should be deferred. Drawing on Russia’s unique civilian nuclear‑propulsion experience, we stand ready to contribute technical solutions at an intersessional workshop focused on closing paragraph‑14 gaps, not legitimizing exemptions in advance.",
+            "citations": [
+              {
+                "source": "2023_Russia_Statements_3.pdf",
+                "page": 3,
+                "para": 2
+              },
+              {
+                "source": "2023_Russia_Statements_1.pdf",
+                "page": 7,
+                "para": 3
+              },
+              {
+                "source": "2024_Russia_Statements_4.pdf",
+                "page": 2,
+                "para": 4
+              }
+            ]
+          },
+          {
+            "issue": "Nuclear sharing and extended deterrence",
+            "text": "Mr. Chair, we cannot accept assertions that nuclear sharing and extended deterrence are benign under the NPT. The continued stationing of U.S. nuclear weapons in Europe is a matter of grave concern; they should be completely withdrawn to U.S. territory and the infrastructure dismantled (2023_Russia_Statements_2.pdf p.5 ¶2). Pending that, NNWS involved in such arrangements must exercise maximum transparency and report in detail on nuclear-related infrastructure, its use, and future plans (2024_Russia_Statements_5.pdf p.3 ¶2). To reduce risks and meet the security concerns of NNWS, we support negotiating legally binding negative security assurances equivalent to UNSC 984, conditioned on strict nonproliferation compliance and renunciation of any control over nuclear weapons in alliance frameworks (2025_Russia_Statements_4.pdf p.1 ¶2). We are ready to discuss standardized reporting and consultations on verifiable withdrawal timelines. We will engage on other items in their proper sessions.",
+            "citations": [
+              {
+                "source": "2023_Russia_Statements_2.pdf",
+                "page": 5,
+                "para": 2
+              },
+              {
+                "source": "2024_Russia_Statements_5.pdf",
+                "page": 3,
+                "para": 2
+              },
+              {
+                "source": "2025_Russia_Statements_4.pdf",
+                "page": 1,
+                "para": 2
+              }
+            ]
+          },
+          {
+            "issue": "Middle East Weapons of Mass Destruction Free Zone and Israel",
+            "text": "Mr. Chair, Russia reiterates that establishing a Middle East zone free of nuclear and other WMD is a top non‑proliferation priority and an agreed NPT commitment under the 1995 Resolution, for which we bear co‑sponsor responsibility. We note calls for universal participation; the practical path is through the UN Conference. We urge all Middle Eastern states, without exception, and invited observers to join and engage constructively. To accelerate tangible progress, we propose that the 2026 Review Conference explicitly recommend universal participation in the Conference. Consistent with the BRICS Kazan Declaration, we stand ready to work with all partners and have circulated a working document to advance implementation. We encourage those yet to attend to do so at the next session and to engage in focused, consensus‑based negotiations toward the zone’s early establishment.",
+            "citations": [
+              {
+                "source": "2024_Russia_Statements_3.pdf",
+                "page": 4,
+                "para": 2
+              },
+              {
+                "source": "2025_Russia_WP_2.pdf",
+                "page": 3,
+                "para": 8
+              },
+              {
+                "source": "2025_Russia_Statements_6.pdf",
+                "page": 1,
+                "para": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ],
+  "generated_at": "2025-09-21T18:52:01.310102Z"
+}

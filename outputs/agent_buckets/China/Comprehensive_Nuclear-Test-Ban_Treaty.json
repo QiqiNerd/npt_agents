@@ -1,0 +1,47 @@
+{
+  "country": "China",
+  "issue": "Comprehensive Nuclear-Test-Ban Treaty",
+  "updated_at": "2025-09-21T16:04:12.624005Z",
+  "entries": [
+    {
+      "id": 1262,
+      "year": 2025,
+      "doc_type": "working_paper",
+      "source_file": "2025_China_WP_1.pdf",
+      "page": 3,
+      "paragraph_id": 3,
+      "position_summary": "Supports the CTBT by urging active backing for its preparatory work, the Preparatory Commission, and the Provisional Technical Secretariat, and calls for early entry into force. Until the Treaty enters into force, it urges nuclear-weapon States to commit to a moratorium on nuclear testing.",
+      "quote": "The State Parties to the NPT should actively support the preparatory work for the Comprehensive Nuclear-Test-Ban Treaty (CTBT), support the work of the Preparatory Commission and Provisional Technical Secretariat, foster the early entry into force of that Treaty. Prior to the entry into force of the Treaty, nuclear-weapon States should commit to the moratorium on nuclear testing.",
+      "confidence": 0.93,
+      "weight": 0.465,
+      "tier": "core"
+    },
+    {
+      "id": 680,
+      "year": 2023,
+      "doc_type": "statement",
+      "source_file": "2023_China_Statements_3.pdf",
+      "page": 4,
+      "paragraph_id": 2,
+      "position_summary": "China asserts it fulfills Article VI and supports arms control, endorsing the CTBT, observing a nuclear-testing moratorium, and backing the treaty’s monitoring and verification system. It supports FMCT negotiations in the CD under the Shannon Mandate, backs a Middle East WMD-free zone, and is willing to sign the SEANWFZ Protocol.",
+      "quote": "China actively fulfills its obligations under Article VI of the NPT, and participates constructively in the international nuclear arms control process. China firmly supports the object and purpose of the Comprehensive Nuclear-Test-Ban Treaty (CTBT), abides by the commitment to the “moratorium on nuclear testing”, fully participates in the work of the Preparatory Committee in a constructive manner, and supports the establishment of the treaty’s monitoring and verification mechanism. China supports the Conference on Disarmament in Geneva in reaching a comprehensive and balanced programme of work and carry out negotiations on FMCT in which all relevant parties participate in accordance with the Shannon Mandate. China supports countries in the Middle East in establishing a zone free of nuclear weapons and other weapons of mass destruction in the Middle East, and is willing to take the lead in signing the Protocol to the Treaty on the Southeast Asia Nuclear-Weapon-Free Zone.",
+      "confidence": 0.9,
+      "weight": 0.1285714285714286,
+      "tier": "core"
+    },
+    {
+      "id": 327,
+      "year": 2025,
+      "doc_type": "statement",
+      "source_file": "2025_China_Statements_4.pdf",
+      "page": 5,
+      "paragraph_id": 2,
+      "position_summary": "China says it maintains a minimum nuclear deterrent and will not engage in an arms race. It supports the early entry into force of the CTBT, adheres to a testing moratorium, and backs the Treaty’s monitoring and verification system. China also supports launching FMCT negotiations in the Conference on Disarmament on a consensus basis consistent with CD/1299.",
+      "quote": "China has always maintained its nuclear forces at the minimum level required for national security, has no intention of engaging in an arms race with any country now or in the future. China supports the early entry into force of the Comprehensive Nuclear-Test-Ban Treaty, always abides by its moratorium on nuclear testing, and supports the establishment of the Treaty’s monitoring and verification mechanism. China supports the Conference on Disarmament in initiating the negotiation of a Fissile Material Cut-off Treaty (FMCT) participated by all key parties on the basis of reaching a comprehensive and balanced program of work through consensus in accordance with CD/1299 and the mandate contained therein.",
+      "confidence": 0.86,
+      "weight": 0.215,
+      "tier": "core"
+    }
+  ],
+  "topline_summary": null
+}

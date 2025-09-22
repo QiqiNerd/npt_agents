@@ -1,0 +1,47 @@
+{
+  "country": "China",
+  "issue": "Humanitarian consequences of nuclear weapon use",
+  "updated_at": "2025-09-21T17:55:19.430458Z",
+  "entries": [
+    {
+      "source_file": "2025_China_WP_1.pdf",
+      "page": 4,
+      "paragraph_id": 2,
+      "position_summary": "The country calls for strengthening disarmament education and public awareness to advance a world free of nuclear weapons. It emphasizes teaching younger generations about the humanitarian consequences of war and nuclear weapon use to cultivate opposition to their use.",
+      "quote": "Strengthen nuclear disarmament education and enhance public awareness of the importance of achieving the goal of a world free of nuclear-weapons. Build on a comprehensive and objective understanding of history, help the younger generation to accurately understand the humanitarian disasters brought by war and enhance their belief in opposing war and the use of nuclear weapons.",
+      "confidence": 0.88,
+      "weight": 0.44,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_China_WP_1.pdf",
+      "page": 6,
+      "paragraph_id": 8,
+      "position_summary": "The country urges states and relevant international organizations to assist nations affected by nuclear testing with remediation of radioactive contamination. It calls on nuclear-weapon states that tested abroad to assume historical responsibility, provide remediation and compensation, and address the humanitarian needs of affected populations.",
+      "quote": "Urge States and international organizations with expertise in eliminating and disposing of radioactive contamination to actively consider providing appropriate assistance, upon request, to countries affected by nuclear testing. In particular, nuclear-weapon States that have conducted nuclear tests abroad should fulfill their historical responsibilities and obligations for remediation and compensation, and thoroughly address the humanitarian issues faced by affected countries and their people. 6/6",
+      "confidence": 0.88,
+      "weight": 0.44,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_China_WP_2.pdf",
+      "page": 1,
+      "paragraph_id": 5,
+      "position_summary": "China reaffirms a no-first-use nuclear policy and underscores that nuclear war would bring catastrophic humanitarian consequences. It frames its nuclear weapons as solely for self-defense and deterrence, developed in response to nuclear blackmail and not to threaten others.",
+      "quote": "4. China adheres to the no-first-use policy, based on its understanding of the nature of nuclear weapons and nuclear war. A nuclear war has no ultimate victor, but only bring huge disasters to humanity. China made the choice of developing nuclear weapons in a special historical period to cope with nuclear blackmail, break nuclear monopoly, and prevent nuclear war. China’s development of nuclear weapons is not for the purpose of threatening other countries, but for self-defense, safeguarding national strategic security, and contributing to world peace and stability.",
+      "confidence": 0.79,
+      "weight": 0.1975,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_China_WP_2.pdf",
+      "page": 2,
+      "paragraph_id": 3,
+      "position_summary": "China urges the five nuclear-weapon states to negotiate a mutual no-first-use treaty or issue a joint political statement, emphasizing the devastating humanitarian consequences of nuclear war and framing NFU as contributing to arms control and disarmament. It proposes binding NFU commitments among the P5, support for a treaty providing negative security assurances to non-nuclear-weapon states and nuclear-weapon-free zones, and an agreement of unlimited duration with a withdrawal clause and no reservations.",
+      "quote": "7. In view of the above, China encourages the five nuclear-weapon States to negotiate and conclude a treaty on “mutual no-first-use of nuclear weapons” or issue a political statement in this regard. The following draft elements are presented as a basis for deliberation. (a) We are, convinced that nuclear war would have devastating consequences for all humanity and thus must never be fought, mindful of the primary responsibilities of the permanent members of the UN Security Council for the maintenance of world peace and security including the prevention of nuclear war, reiterating our commitment to work for the complete prohibition and thorough destruction of all types of weapons of mass destruction, believes that this Treaty will be conducive to international peace and security, thus can help create a favorable international environment for further progress in arms control and disarmament, (b) Each State Party undertakes not to be the first to use nuclear weapons against another State Party at any time and under any circumstances. Each State Party undertakes to support the early conclusion of a treaty on not using or threatening to use nuclear weapons against non-nuclear weapon States or nuclear-weapon-free zones. (c) Each State Party shall in exercising its national sovereignty have the right to withdraw from the Treaty if it decides that extraordinary events, related to the subject matter of this Treaty, have jeopardized the supreme interests of its country. (d) This Treaty shall be of unlimited duration. And the articles of this Treaty shall not be subject to any reservation.",
+      "confidence": 0.78,
+      "weight": 0.0975,
+      "tier": "core"
+    }
+  ]
+}

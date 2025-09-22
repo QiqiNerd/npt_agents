@@ -1,0 +1,107 @@
+{
+  "country": "China",
+  "issue": "Security assurances",
+  "updated_at": "2025-09-21T17:55:19.441816Z",
+  "entries": [
+    {
+      "source_file": "2024_China_WP_3.pdf",
+      "page": 1,
+      "paragraph_id": 3,
+      "position_summary": "The country supports the view that, until nuclear weapons are eliminated, non-nuclear-weapon states have a legitimate right to legally binding negative security assurances from nuclear-weapon states, committing them not to use or threaten to use nuclear weapons under any circumstances.",
+      "quote": "2. The majority of non-nuclear-weapon States parties to the NPT have long held that, pending the complete elimination of nuclear weapons, it is the legitimate right of non-nuclear-weapon States to receive legally binding security assurances from nuclear-weapon States that they will not use or threaten to use nuclear weapons under any circumstances.",
+      "confidence": 0.93,
+      "weight": 0.93,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_China_Statements_5.pdf",
+      "page": 2,
+      "paragraph_id": 3,
+      "position_summary": "The country urges nuclear-weapon States to support and respect nuclear-weapon-free zones, sign and ratify their protocols, and implement associated security assurances. It also calls for active support for establishing a Middle East zone free of nuclear weapons and other WMD and constructive participation in related international conferences.",
+      "quote": "Third, nuclear-weapon States should support efforts to establish nuclear-weapon-free zones, respect the legal status of nuclear-weapon-free zones, and sign and ratify the protocols of relevant nuclear-weapon-free zone treaties, and take practical measures to implement relevant security assurances. All relevant parties should earnestly support the establishment of a Middle East Zone free of nuclear weapons and other weapons of mass destruction and participate constructively in the process of relevant international conferences.",
+      "confidence": 0.93,
+      "weight": 0.31,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_China_Statements_5.pdf",
+      "page": 3,
+      "paragraph_id": 3,
+      "position_summary": "China reaffirms a no first use policy at all times and under all circumstances. It pledges unconditional negative security assurances, undertaking never to use or threaten to use nuclear weapons against non-nuclear-weapon States and against states in nuclear-weapon-free zones, and asserts it is the only NWS to make these commitments. This reflects support for and respect of nuclear-weapon-free zones.",
+      "quote": "Mr. President, China clearly undertakes not to be the first to use nuclear weapons at any time and under any circumstances, and unconditionally undertakes not to use or threaten to use nuclear weapons against non-nuclear-weapon States and nuclear-weapon-free zones. China is the only nuclear-weapon State that has clearly made the above-mentioned undertakings.",
+      "confidence": 0.92,
+      "weight": 0.3066666666666667,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_China_Statements_5.pdf",
+      "page": 3,
+      "paragraph_id": 5,
+      "position_summary": "China supports negotiating a legally binding instrument on negative security assurances in the Conference on Disarmament and is open to other measures advancing NSAs. It backs nuclear-weapon-free zones—having signed/ratified protocols for Latin America and the Caribbean, the South Pacific, Africa, and Central Asia, respects Mongolia’s status, and is willing to be the first to sign the SEANWFZ protocol. China also supports establishing a Middle East zone free of nuclear and other WMD.",
+      "quote": "China supports the Conference on Disarmament in commencing substantive work at the earliest opportunity on reaching an international legal instrument on negative security assurances, and adopts an open-minded attitude towards any other proposals or measures that help advance progress on the issue of negative security assurances. China has signed and ratified the relevant protocols of all nuclear-weapon-free zone treaties in Latin America and the Caribbean, the South Pacific, Africa, and Central Asia, respects Mongolia's nuclear-weapon-free status, and actively supports the establishment a a Middle East Zone free of nuclear weapons and other weapons of mass destruction and is willing to be the first to sign the protocol of the Treaty on the Southeast Asia Nuclear-Weapon-Free Zone.",
+      "confidence": 0.92,
+      "weight": 0.3066666666666667,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_China_WP_3.pdf",
+      "page": 1,
+      "paragraph_id": 5,
+      "position_summary": "They support legally binding security assurances from the five nuclear-weapon States to non-nuclear-weapon States under the NPT, citing the 2000 Final Document and arguing such assurances strengthen the non-proliferation regime.",
+      "quote": "The Final Document of 2000 NPT review conference pointed out that legally binding security assurances by the five nuclear-weapon States to the non-nuclear-weapon States parties to the Treaty on the Non-Proliferation of Nuclear Weapons strengthen the nuclear non-proliferation regime.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_China_WP_3.pdf",
+      "page": 2,
+      "paragraph_id": 1,
+      "position_summary": "The country urges the Conference on Disarmament to promptly begin substantive, unrestricted discussions on effective international arrangements to assure non‑nuclear‑weapon States against the use or threat of use of nuclear weapons. It favors developing recommendations on all aspects of this issue, including the option of a legally binding instrument, within a comprehensive and balanced program of work.",
+      "quote": "NPT/CONF.2026/PC.II/WP.34 the Conference on Disarmament should, within the context of an agreed, comprehensive and balanced programme of work, immediately begin discussion of effective international arrangement to assure non-nuclear- weapon States against the use or threat of use of nuclear weapons, to discuss substantively, without limitation, with a view to elaborating recommendations dealing with all aspects of this issue, not excluding an internationally legally binding instrument.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_China_Statements_5.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "The country urges in-depth discussion to clarify the rights and obligations of non-nuclear-weapon states involved in nuclear sharing and extended deterrence within future international legal instruments on negative security assurances.",
+      "quote": "The issue of the rights and obligations of non-nuclear-weapon states participating in “nuclear sharing” and “extended deterrence” arrangements in future international legal instruments on negative security assurances merits in-depth discussion.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_China_WP_4.pdf",
+      "page": 2,
+      "paragraph_id": 2,
+      "position_summary": "Calls on Nuclear-Weapon States to back negotiations in the Conference on Disarmament for a legally binding instrument on negative security assurances to non-nuclear-weapon States, including establishing an ad hoc committee and commencing substantive work promptly.",
+      "quote": "5. Nuclear-weapon States should support the Conference on Disarmament in negotiating a legal instrument providing negative security assurances to non-nuclear- weapon States as soon as possible, support the efforts of the Conference on Disarmament to establish an ad hoc committee in this regard and start substantive work.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_China_WP_1.pdf",
+      "page": 2,
+      "paragraph_id": 4,
+      "position_summary": "Supports legally binding negative security assurances for non-nuclear-weapon States negotiated in the Conference on Disarmament. Endorses the creation of nuclear-weapon-free zones through regional consensus and urges nuclear-weapon States to sign and ratify relevant NWFZ protocols promptly.",
+      "quote": "4. Nuclear-weapon States should provide credible security assurances to non-nuclear-weapon States. Discussions should focus on supporting the Conference on Disarmament in negotiating a legal instrument providing negative security assurances to non-nuclear-weapon States as soon as possible, supporting the efforts of regional countries to establish nuclear- weapon-free zones on the basis of consultations among themselves and voluntary agreement, and signing and ratifying protocols to relevant nuclear-weapon-free zone treaties at an early date.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_China_Statements_7.pdf",
+      "page": 1,
+      "paragraph_id": 5,
+      "position_summary": "The country advocates concluding a legally binding instrument that provides unconditional negative security assurances, prohibiting the use or threat of use of nuclear weapons against non-nuclear-weapon States and nuclear-weapon-free zones. Until such an instrument is in place, it urges all nuclear-weapon States to issue unconditional public pledges not to use or threaten nuclear weapons against these states and zones at any time.",
+      "quote": "Third, to conclude an international legal instrument as soon as possible on not to use or threaten to use nuclear weapons against non-nuclear-weapon States or nuclear-weapon-free zones.Pending the conclusion of the international legal instrument, all nuclear-weapon States should make public statements to undertake unconditionally not to use or threaten to use nuclear weapons against non-nuclear-weapon States nuclear-weapon-free zones at any time and under any circumstances.",
+      "confidence": 0.9,
+      "weight": 0.3,
+      "tier": "core"
+    }
+  ]
+}

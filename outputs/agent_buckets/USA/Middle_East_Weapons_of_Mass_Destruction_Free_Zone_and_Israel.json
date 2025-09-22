@@ -1,0 +1,112 @@
+{
+  "country": "USA",
+  "issue": "Middle East Weapons of Mass Destruction Free Zone and Israel",
+  "updated_at": "2025-09-21T16:04:12.624005Z",
+  "entries": [
+    {
+      "id": 289,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_USA_Statements_5.pdf",
+      "page": 3,
+      "paragraph_id": 3,
+      "position_summary": "The United States supports establishing a Middle East zone free of weapons of mass destruction and their delivery systems. It also advocates for universal adherence to the NPT globally, while acknowledging this goal will take time to achieve.",
+      "quote": "We remain committed to the goal of achieving a Middle East zone free of weapons of mass destruction and their delivery systems. The United States looks forward to the day when the NPT is truly universal, not just in the Middle East but globally. This remains our goal, recognizing that it will not be achieved overnight.",
+      "confidence": 0.93,
+      "weight": 0.465,
+      "tier": "core"
+    },
+    {
+      "id": 718,
+      "year": 2025,
+      "doc_type": "statement",
+      "source_file": "2025_USA_Statements_5.pdf",
+      "page": 1,
+      "paragraph_id": 3,
+      "position_summary": "Supports establishing a Middle East free of nuclear and other WMD alongside comprehensive and durable regional peace, and backs direct, inclusive dialogue among regional states to advance this goal.",
+      "quote": "We remain committed to supporting the goal of achieving a Middle East free of nuclear weapons, and other weapons of mass destruction, alongside a comprehensive and durable regional peace. We also remain committed to supporting the regional states as they pursue direct, inclusive dialogue SENSITIVE BUT UNCLASSIFIED",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "id": 158,
+      "year": 2023,
+      "doc_type": "statement",
+      "source_file": "2023_USA_Statements_5.pdf",
+      "page": 3,
+      "paragraph_id": 3,
+      "position_summary": "The United States supports establishing a Middle East zone free of WMD and delivery systems, contingent on arrangements freely agreed by all regional states. It advocates direct, inclusive dialogue to build confidence and address legitimate security concerns, and is prepared to engage in consensus-based initiatives to implement the 1995 Resolution, noting developments from the UN Conference sessions.",
+      "quote": "Chair, The United States remains committed to the goal of a Middle East zone free of weapons of mass destruction and delivery systems, based on arrangements freely arrived at by all regional states. We are convinced that the only path to progress is through direct, inclusive dialogue aimed at building confidence and addressing the legitimate security concerns of all parties. We are prepared to engage on initiatives to advance implementation of the 1995 Resolution that have consensus regional support. The United States took note of developments during the first three sessions of the UN Conference on the establishment of such a zone,",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "id": 159,
+      "year": 2023,
+      "doc_type": "statement",
+      "source_file": "2023_USA_Statements_5.pdf",
+      "page": 4,
+      "paragraph_id": 1,
+      "position_summary": "The country questions the UN Conference as an effective forum to negotiate a Middle East WMD-free zone, noting other zones were established without a UN-led architecture. It rejects claims that its decision not to observe the Conference hinders the 1995 Resolution or backtracks on commitments, and asserts it was not responsible for ending prior regional consultations, which included senior Israeli participation.",
+      "quote": "but we continue to question whether that UN Conference can serve as an effective forum for dialogue among all the regional states. We note that no other regional zone required a UN umbrella or architecture for negotiation, and we reject claims that the United States’ decision not to participate as an observer in this Conference in any way constitutes hindering the implementation of the 1995 Resolution or backtracking on past U.S. commitments. I note that it was not the United States that ended regional consultations to prepare for the Middle East Zone conference called for in the 2010 Action Plan, consultations in which the Israel participated in at a senior level.",
+      "confidence": 0.88,
+      "weight": 0.44,
+      "tier": "core"
+    },
+    {
+      "id": 292,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_USA_Statements_5.pdf",
+      "page": 4,
+      "paragraph_id": 1,
+      "position_summary": "Supports advancing the establishment of a Middle East WMD-free zone, emphasizing that it should be based on arrangements freely agreed by the regional states. The approach prioritizes regional consent and negotiated frameworks.",
+      "quote": "one step closer to the goal of achieving a Middle East WMD-free zone based on arrangements freely arrived at by the states concerned.",
+      "confidence": 0.86,
+      "weight": 0.86,
+      "tier": "core"
+    },
+    {
+      "id": 278,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_USA_Statements_5.pdf",
+      "page": 1,
+      "paragraph_id": 1,
+      "position_summary": "The United States underscores ongoing regional proliferation concerns, asserting that Iran, the DPRK, and Syria continue to threaten international peace and security and should act responsibly. It situates these concerns within NPT discussions on the Middle East, including implementation of the 1995 Resolution on the Middle East.",
+      "quote": "Statement by the United States Cluster 2 – Specific Issue Regional Issues, including with respect to the Middle East and the Implementation of the 1995 Resolution on the Middle East Second Preparatory Committee for the 2026 Conference of the Parties to the Treaty on the Non-Proliferation of Nuclear Weapons Full Version by Ambassador Adam Scheinman, Special Representative of the President for Nuclear Nonproliferation Geneva, Switzerland July 29, 2024 Chair, As we reported last year, the three parties we persistently call upon to act responsibly – Iran, the DPRK, and Syria – continue to threaten international peace and security and that of their own citizens.",
+      "confidence": 0.8,
+      "weight": 0.4,
+      "tier": "core"
+    },
+    {
+      "id": 719,
+      "year": 2025,
+      "doc_type": "statement",
+      "source_file": "2025_USA_Statements_5.pdf",
+      "page": 2,
+      "paragraph_id": 1,
+      "position_summary": "The United States supports a Middle East WMD-free zone and related regional initiatives pursued voluntarily and by mutual agreement among all regional states, consistent with international practice and confidence-building. It also calls for universal adherence to the NPT worldwide.",
+      "quote": "aimed at building trust and addressing the political and security obstacles that have impeded progress. Such efforts must be pursued voluntarily on the basis of arrangements mutually agreed upon by all the regional states, consistent with international practices. The United States looks forward to the day when the NPT is truly universal, not just in the Middle East but everywhere.",
+      "confidence": 0.74,
+      "weight": 0.185,
+      "tier": "core"
+    },
+    {
+      "id": 294,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_USA_Statements_5.pdf",
+      "page": 4,
+      "paragraph_id": 3,
+      "position_summary": "The United States denies any nuclear cooperation with Israel, stating that U.S. law prohibits such cooperation. This underscores adherence to U.S. export control and legal restrictions regarding nuclear engagements with Israel.",
+      "quote": "Finally, despite the claims of some in the hall, I wish to note the United States has no nuclear cooperation with Israel, nor could we under U.S. law.",
+      "confidence": 0.73,
+      "weight": 0.365,
+      "tier": "core"
+    }
+  ],
+  "topline_summary": null
+}

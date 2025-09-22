@@ -1,0 +1,112 @@
+{
+  "country": "Russia",
+  "issue": "Transparency and accountability of nuclear arsenals and doctrines",
+  "updated_at": "2025-09-21T16:04:12.624005Z",
+  "entries": [
+    {
+      "id": 274,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_Russia_Statements_5.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "The country calls for greater transparency and accountability from all states, with particular emphasis on NATO non-nuclear-weapon States involved in nuclear sharing. It urges these states to provide maximum, detailed reporting on their nuclear-related infrastructure, its use, and future plans.",
+      "quote": "Going back to the matters of transparency and accountability, we believe that all countries should contribute to this process. At the same time, there is a number of States that are considered non-nuclear-weapon States under the NPT, yet they are in fact NATO members, they take part in nuclear sharing, and nuclear weapons have been placed in the territories of some of them and can at any moment be placed in the territories of others. It is these States who should exercise maximum transparency and report in as great detail as possible their nuclear infrastructure, its use and their plans for the future.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "id": 518,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_Russia_Statements_2.pdf",
+      "page": 2,
+      "paragraph_id": 2,
+      "position_summary": "The country rejects universal or stand-alone transparency and verification measures as inadequate for sensitive national security matters. It argues these issues should be addressed only in light of the strategic context and within substantive negotiations on specific future arms control and disarmament agreements.",
+      "quote": "Any ideas involving \"compartmentalized\" development of some \"universal\" measures of nuclear arsenals transparency and nuclear disarmament verification, appear to be equally inadequate. What we have here at hand is highly sensitive national security aspects that should not be addressed without due regard for strategic situation and outside any substantive negotiations on specific future arms control and disarmament agreements.",
+      "confidence": 0.9,
+      "weight": 0.3,
+      "tier": "core"
+    },
+    {
+      "id": 268,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_Russia_Statements_5.pdf",
+      "page": 1,
+      "paragraph_id": 2,
+      "position_summary": "The country criticizes efforts to use the NPT review process to impose transparency and accountability measures on nuclear-weapon States, describing this as coercive and counterproductive. It blames certain states’ narrow, last-minute, transparency-focused proposals for blocking consensus and argues for a broader, consensus-based approach to strengthening the review process.",
+      "quote": "However, the purpose of strengthening the NPT review process turned out to be merely declaratory, while the main task was to impose transparency and accountability measures on nuclear-weapon States and to convert the NPT review process into a means of oversight and coercion. The Working Group failed to deliver recommendations adopted by consensus due to the narrow and maximalist approach of certain countries, who, instead of agreeing on a wide range of recommendations to strengthen the NPT review process, opted to wait till the last minute to table proposals concerning exclusively the matters of transparency and accountability of nuclear-weapon States and tried to impose them on the rest of the members of the Group as an outcome. However, that did not work. It is noteworthy that those who prevented the adoption of recommendations reflecting the lowest common denominator included the countries that had initiated the establishment of the Group. This only proves that not every delegation pursued the strengthening the NPT review process as their main objective. As a result, the members of the Group only wasted their time, efforts and resources.",
+      "confidence": 0.86,
+      "weight": 0.43,
+      "tier": "core"
+    },
+    {
+      "id": 271,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_Russia_Statements_5.pdf",
+      "page": 2,
+      "paragraph_id": 3,
+      "position_summary": "Russia asserts it provides transparency on NPT implementation within nationally determined limits and supports the existing 2013 P5 common reporting framework without changes. It emphasizes that each nuclear-weapon State should set its own acceptable transparency boundaries based on strategic realities and national security interests.",
+      "quote": "As for Russia's transparency measures, we have continuously and within admissible limits informed the international community of our steps to implement our NPT obligations. As part of the Treaty review process Russia, like other N5 countries, submits national reports prepared according to the agreed common reporting framework. The reporting framework agreed by the N5 in 2013 remains relevant and needs no adjustments at the moment. Each nuclear-weapon State can independently determine acceptable transparency limits depending on the strategic realities and its national security interests.",
+      "confidence": 0.86,
+      "weight": 0.43,
+      "tier": "core"
+    },
+    {
+      "id": 984,
+      "year": 2023,
+      "doc_type": "statement",
+      "source_file": "2023_Russia_Statements_2.pdf",
+      "page": 5,
+      "paragraph_id": 1,
+      "position_summary": "Russia blames the United States for the freeze of New START and the collapse of INF, but says it continues to observe New START’s central limits and exchange launch notifications. It also maintains a unilateral moratorium on deploying ground-launched intermediate- and shorter-range missiles, warning this may change if the U.S. proceeds with such deployments in Europe and the Asia-Pacific.",
+      "quote": "5 Given the \"freezing\" of the New START Treaty and the earlier collapse of the INF Treaty caused by the United States, Russia is taking a number of measures to maintain predictability and stability in the nuclear missile sphere. We continue to adhere to the central quantitative limits stipulated in the New START Treaty, in- form the United States of launches of ICBMs and SLBMs through an exchange of relevant notifications, and observe a unilateral moratorium on the deployment of ground launched intermediate- and shorter-range missiles until similar U.S.-made weapons emerge in relevant regions. At the same time, this moratorium is under serious pressure in view of the Pentagon's active preparations for the deployment of ground-launched intermediate- and shorter-range missiles in Europe and the Asia-Pacific region.",
+      "confidence": 0.79,
+      "weight": 0.26333333333333336,
+      "tier": "core"
+    },
+    {
+      "id": 519,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_Russia_Statements_2.pdf",
+      "page": 2,
+      "paragraph_id": 3,
+      "position_summary": "Advocates a consensus-based, realistic, step-by-step approach to complete nuclear disarmament, emphasizing transparency and verifiability. Stresses that all states possessing military nuclear capabilities must be involved in the process.",
+      "quote": "Any further practical results in the reduction of nuclear weapons and ultimately their complete, transparent and verifiable elimination can only be achieved on the basis of a consensus, realistic sequence of actions and carefully calibrated step-by-step approach. Furthermore, this collaboration will need to involve all the States possessing military nuclear capabilities.",
+      "confidence": 0.78,
+      "weight": 0.26,
+      "tier": "core"
+    },
+    {
+      "id": 269,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_Russia_Statements_5.pdf",
+      "page": 2,
+      "paragraph_id": 1,
+      "position_summary": "The delegation notes the lapse of the Working Group’s mandate and favors addressing review-process matters—including universality and withdrawal—within Cluster 3 as before. It argues that strengthening the review process should not focus solely on nuclear-weapon States’ transparency; transparency and confidence-building are means to advance arms control, disarmament, and non-proliferation. Citing Article VI, it stresses that nuclear disarmament sits within general and complete disarmament and that both nuclear-weapon and non-nuclear-weapon States should report on implementing their disarmament obligations.",
+      "quote": "2 The mandate of the Working Group on further strengthening the review process of the Treaty expired, and there has been no decision to extend it. Now these matters can be discussed exclusively as a cluster 3-specific issue among other issues, which include the NPT universalization, withdrawal from the Treaty, etc., as they were discussed before. In addition, the deliberations on the strengthening of the NPT review process should not be confined to discussing the nuclear-weapon States' transparency and accountability. Transparency and other confidence- building measures are not an end in themselves, but rather a means of addressing arms control, disarmament and non-proliferation challenges. What is more, it should be remembered that Article VI of the NPT puts nuclear disarmament within the context of the general and complete disarmament. Hence, both nuclear-weapon and non-nuclear-weapon States should report on the implementation of their disarmament obligations.",
+      "confidence": 0.76,
+      "weight": 0.10857142857142857,
+      "tier": "core"
+    },
+    {
+      "id": 521,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_Russia_Statements_2.pdf",
+      "page": 2,
+      "paragraph_id": 5,
+      "position_summary": "Russia states that nuclear deterrence remains central to its evolving military doctrine, while emphasizing that nuclear use is reserved for extreme self-defense circumstances. This articulates a conditional-use posture rather than a no-first-use commitment.",
+      "quote": "As a consequence, while the provisions of Russia's doctrines evolve, the factor of nuclear deterrence keeps playing an important role. Nevertheless, we strictly outline the extreme circumstances of self-defence in which Russia reserves the right to nuclear response.",
+      "confidence": 0.74,
+      "weight": 0.37,
+      "tier": "core"
+    }
+  ],
+  "topline_summary": null
+}

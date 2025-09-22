@@ -1,0 +1,107 @@
+{
+  "country": "Russia",
+  "issue": "International Atomic Energy Agency safeguards",
+  "updated_at": "2025-09-21T17:55:19.376659Z",
+  "entries": [
+    {
+      "source_file": "2023_Russia_Statements_1.pdf",
+      "page": 5,
+      "paragraph_id": 5,
+      "position_summary": "Russia expresses full support for the IAEA safeguards system as the NPT’s verification mechanism and prioritizes its impartial, depoliticized, and technically sound implementation.",
+      "quote": "Mr. Chair, The Russian Federation expresses its full support for the IAEA safeguards system, which is the NPT verification mechanism. A priority is to ensure its impartial, depoliticized and technically sound application.",
+      "confidence": 0.94,
+      "weight": 0.94,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_Russia_Statements_5.pdf",
+      "page": 1,
+      "paragraph_id": 2,
+      "position_summary": "The country emphasizes that a trusted, impartial, depoliticized, and technically robust IAEA safeguards system is essential to the NPT and to enabling peaceful nuclear uses. It warns that politicization or technical shortcomings in safeguards would undermine the NPT verification regime and broader non-proliferation efforts.",
+      "quote": "The IAEA safeguards system, which is pivotal for strengthening the NPT and the peaceful uses of nuclear energy, is one of the key elements of this regime. It is essential that the safeguards system be trusted by all States parties to the Treaty. To secure confidence, it should be impartial, politically unbiased, technically reliable and sound. Failure to meet these criteria, as well as any attempts to politicize the IAEA safeguards can severely impair both the NPT verification regime and the nuclear non-proliferation in general.",
+      "confidence": 0.92,
+      "weight": 0.46,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_1.pdf",
+      "page": 3,
+      "paragraph_id": 4,
+      "position_summary": "Russia expresses serious concerns about the IAEA’s State-level safeguards concept and demands a comprehensive, policy-body-approved report detailing parameters, application procedures, and rights/obligations. Until such approval, it views State-level approaches as experimental and reserves the right not to recognize conclusions derived from them.",
+      "quote": "Russia closely follows the situation around the reform of the IAEA Safeguards System, which continues to cause our serious concerns. We expect the Agency's leadership to present a comprehensive report on the State-level concept clearly stating all the parameters of the reform, the procedure for applying the new approach, the rights and obligations of the IAEA Secretariat and Member States. Until the Secretariat has presented such report and it has been approved by the Agency's policy- making bodies, all Secretariat's State-level approaches to safeguards remain purely experimental, leaving the States the right not to recognize any conclusions prepared using such approaches.",
+      "confidence": 0.91,
+      "weight": 0.91,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_Russia_Statements_2.pdf",
+      "page": 3,
+      "paragraph_id": 4,
+      "position_summary": "The country expresses concern over IAEA safeguards reforms, emphasizing potential impacts on national sovereignty and security. It calls for a comprehensive report on the State-level concept detailing all parameters and insists it be submitted to the Board of Governors for consideration and approval.",
+      "quote": "The reform of the safeguards system carried out by the IAEA Secretariat requires close attention of the Agency's member States, as it affects, to varying degrees, the sovereignty and security of all countries. We are still expecting the IAEA leadership to present a comprehensive report on the State-level concept clearly stating all the parameters of the reform. It should be presented to the Agency's Board of Governors for consideration and approval.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_Russia_Statements_2.pdf",
+      "page": 3,
+      "paragraph_id": 5,
+      "position_summary": "They affirm the value of IAEA Additional Protocols but emphasize that adopting them is a voluntary decision, not a mandatory requirement.",
+      "quote": "We note the importance of Additional Protocols to IAEA Safeguards Agreements. At the same time, we would like to emphasize that concluding such Additional Protocols remains a voluntary step.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_Russia_Statements_5.pdf",
+      "page": 1,
+      "paragraph_id": 3,
+      "position_summary": "Russia voices serious concerns about IAEA safeguards reform, particularly the State-level concept, and calls for a comprehensive report clarifying parameters, application procedures, and the respective rights and obligations of the IAEA Secretariat and Member States.",
+      "quote": "Russia closely follows the situation around the reform of the IAEA safeguards system, which continues to cause our serious concerns. We are still expecting the IAEA leadership's comprehensive report on the State-level concept clearly stating all the parameters of the reform, the procedure for applying the new approaches, the obligations and rights of the IAEA Secretariat and Member States.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_Russia_Statements_5.pdf",
+      "page": 1,
+      "paragraph_id": 5,
+      "position_summary": "They acknowledge the Additional Protocol’s value in strengthening confidence in the peaceful nature of nuclear activities, but stress that adopting the Protocol is a voluntary decision for states, not an obligation.",
+      "quote": "We note the significance of the Additional Protocol to the IAEA Safeguards Agreement for ensuring confidence in the peaceful nature of all nuclear material in the countries and the countries' nuclear activities. At the same time, it is our firm belief that concluding such additional protocols remains a voluntary step.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_3.pdf",
+      "page": 1,
+      "paragraph_id": 1,
+      "position_summary": "Russia stresses that the IAEA Safeguards System is central to the non-proliferation regime and must be objective, technically sound, and free from political bias to maintain States Parties’ confidence. It warns that any deviation from these principles undermines the IAEA’s verification mechanism and the non-proliferation regime as a whole.",
+      "quote": "STATEMENT by the Head of the Delegation of the Russian Federation at the Second Session of the Preparatory Committee for the 11th Review Conference of the Parties to the Treaty on the Non-Proliferation of Nuclear Weapons (Cluster II: Non-proliferation and IAEA safeguards) Geneva, 26 July 2024 Mr. Chairman, Nuclear weapons non-proliferation regime is one of the pillars of international peace and security. The IAEA Safeguards System plays a pivotal role in supporting it; it was established in accordance with the IAEA Statute, improved after the conclusion of the NPT and today has become universal. The NPT States Parties' confidence in the IAEA Safeguards System is a key to ensuring resilience of the international nuclear weapons non-proliferation regime in general. This confidence can be secured only if the mechanism the Agency applies to verify the States' compliance with their non-proliferation obligations, is objective, technically sound and politically unbiased. The failure to meet these criteria has a most negative effect on the IAEA verification mechanism, and on the non-proliferation regime as a whole.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_3.pdf",
+      "page": 1,
+      "paragraph_id": 3,
+      "position_summary": "Russia expresses serious concerns about IAEA safeguards reform, specifically the State-level concept, and calls on the Agency’s leadership to provide a comprehensive report detailing the reform’s parameters, application procedures, and the respective rights and obligations of the Secretariat and Member States.",
+      "quote": "Russia closely follows the situation around the reform of the IAEA Safeguards System, which continues to cause our serious concerns. We are still expecting the Agency's leadership to present an exhaustive report on the State-level concept clearly stating all the parameters of the reform, the procedure for applying the new approaches, the obligations and rights of the IAEA Secretariat and Member States.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_3.pdf",
+      "page": 2,
+      "paragraph_id": 3,
+      "position_summary": "The country insists that IAEA verification be limited strictly to measures under each State’s Safeguards Agreement and, where applicable, its Additional Protocol. It calls for uniform, transparent, and objective criteria for determining verification intensity and frequency, and for the IAEA to base safeguards conclusions only on information it can openly defend before policy-making bodies.",
+      "quote": "We believe that only the verification measures and procedures provided for in the State's Safeguards Agreement and Additional Protocol should be applied to this State (for those States that have signed them). The mechanisms determining the frequency and intensity of verification activities should be equally transparent for all Members without exception. They should also exclude the possibility of subjective assessments and rely on clear, measurable and statistically substantiated models. We emphasize that to make safeguards conclusions the IAEA Secretariat should take into account only the information, the credibility of which it is prepared to stand up for in an open discussion at the session of the Agency's policy-making bodies.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    }
+  ]
+}

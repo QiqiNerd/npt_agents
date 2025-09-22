@@ -1,0 +1,87 @@
+{
+  "country": "USA",
+  "issue": "Nuclear sharing and extended deterrence",
+  "updated_at": "2025-09-21T17:55:19.341160Z",
+  "entries": [
+    {
+      "source_file": "2024_USA_Statements_4.pdf",
+      "page": 4,
+      "paragraph_id": 1,
+      "position_summary": "The United States defends extended deterrence arrangements as consistent with NPT Articles I and II, emphasizing that it does not transfer nuclear weapons or control to allies and does not assist NNWS in acquiring them. It argues such alliances reinforce the NPT by reducing incentives for allies to develop their own nuclear weapons.",
+      "quote": "Finally, Chair, I wish to highlight what we can only see as a deliberate effort to mischaracterize extended deterrence arrangements. It seems that some here have conveniently forgotten that the NPT was negotiated with a clear acknowledgment of nuclear alliances, and for the express purpose of ensuring there is no — that is, zero — proliferation of nuclear weapons through such alliances. In fact, such alliances reinforce the NPT by reducing the incentive for allied states to develop or acquire nuclear weapons on their own. U.S. nuclear deterrence relationships operate in strict conformity with Articles I and II of the NPT. We do not and will not transfer nuclear weapons or control over nuclear weapons to anyone, and we do not and will not in any way assist or encourage any non-nuclear weapon State to acquire nuclear weapons.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_4.pdf",
+      "page": 3,
+      "paragraph_id": 3,
+      "position_summary": "The United States defends extended deterrence and nuclear-sharing arrangements as consistent with the NPT, emphasizing that the U.S. retains full control of its nuclear weapons and upholds the highest safety and security standards. It argues these alliances provide credible security assurances that deter allies from seeking their own nuclear weapons and enhance overall stability, rejecting criticisms as false narratives and historical revisionism.",
+      "quote": "Chair, Once again, the United States reaffirms its commitment to nuclear nonprolifera�on and has been a leading actor in addressing the prolifera�on threats of today. Unfortunately, some false narra�ves have persisted during the current review cycle, o�en originally stemming from two countries who have not shown the same commitment to nonprolifera�on. As a result, some States Par�es are now mischaracterizing extended deterrence arrangements. To be absolutely clear, the United States retains complete control of its nuclear weapons and applies the highest safety and security standards under these extended deterrence arrangements. The NPT was nego�ated with a clear understanding of nuclear alliances because they predate the NPT. In fact, such arrangements have strengthened global nonprolifera�on providing allies with the necessary security assurances to ensure they do not feel the need to develop na�onal nuclear weapon capabili�es. These defensive alliances do not only benefit their members; they also increase stability. All na�ons benefit from protec�on against an unstable world. We encourage States Par�es to reject historical revisionism about extended deterrence.",
+      "confidence": 0.86,
+      "weight": 0.2866666666666667,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_3.pdf",
+      "page": 1,
+      "paragraph_id": 3,
+      "position_summary": "The U.S. says the fundamental role of its nuclear weapons is to deter nuclear attack against itself, its allies, and partners, reflecting extended deterrence and a restrained role. It would consider nuclear use only in extreme circumstances to defend vital interests, indicating it does not adopt a no-first-use pledge. It rejects threatening nuclear use for intimidation or expansionist aims.",
+      "quote": "As long as nuclear weapons exist, the fundamental role of U.S. nuclear weapons is to deter nuclear attack on the United States, our allies, and our partners. The United States would consider the use of nuclear weapons only in extreme circumstances to defend the vital interests of the United States or its allies and partners. Unlike some others, we will not threaten the use of nuclear weapons to intimidate or to pursue an expansionist security policy.",
+      "confidence": 0.86,
+      "weight": 0.172,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_2.pdf",
+      "page": 3,
+      "paragraph_id": 5,
+      "position_summary": "The United States denies responsibility for destabilizing actions and implicitly condemns Russia for invading a neighbor, undermining decades of bilateral arms control progress, engaging in dangerous nuclear rhetoric, endangering civilian nuclear facilities, and moving nuclear weapons closer to others’ borders in the context of the war in Ukraine.",
+      "quote": "Mr. Chair, It is not the United States that has attacked a neighboring country without provocation. It is not the United States that has undermined a half century of progress on bilateral arms control, engaged in irresponsible and dangerous nuclear rhetoric, endangered civilian nuclear energy facilities, or moved nuclear weapons closer to others’ borders.",
+      "confidence": 0.86,
+      "weight": 0.14333333333333334,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_7.pdf",
+      "page": 4,
+      "paragraph_id": 1,
+      "position_summary": "It opposes the chair’s emphasis on NNWS reporting about nuclear burden sharing and extended deterrence, arguing these states remain fully NPT-compliant. It defends extended deterrence as enhancing international peace and security and supporting nonproliferation goals.",
+      "quote": "concerned that the chair’s paper placed an emphasis on nuclear burden sharing and extended deterrence arrangements in non-nuclear weapon State reporting. These are non-nuclear-weapon States in full compliance with their NPT obligations. Furthermore, extended deterrence arrangements have a proven record of enhancing international peace and security and contributing to our collective nonproliferation objectives.",
+      "confidence": 0.8,
+      "weight": 0.26666666666666666,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_8.pdf",
+      "page": 2,
+      "paragraph_id": 6,
+      "position_summary": "The country rejects claims that U.S. extended deterrence allies participate in U.S. nuclear employment decision-making or violate the NPT, calling such narratives false. It argues these mischaracterizations undermine transparency and dialogue.",
+      "quote": "We are extremely concerned by false narratives about extended deterrence arrangements and their corrosive effects on transparency and dialogue. Just yesterday, we heard a claim that U.S extended deterrence allies have a role in decision-making with respect to U.S. nuclear weapons employment, and therefore are in violation of their NPT obligations. This is false. The United",
+      "confidence": 0.73,
+      "weight": 0.365,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_7.pdf",
+      "page": 4,
+      "paragraph_id": 2,
+      "position_summary": "The country rejects the notion of a 'third category' of NPT parties and defends security alliances, including nuclear-sharing arrangements, as consistent with the facts, law, and historical record. It views claims of such a category as attempts to discredit alliances.",
+      "quote": "Attempts to create a third category only seek to malign security alliances by confusing the facts, law, and historical record.",
+      "confidence": 0.72,
+      "weight": 0.72,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_3.pdf",
+      "page": 1,
+      "paragraph_id": 3,
+      "position_summary": "The United States frames nuclear weapons primarily for deterrence, assurance of allies and partners, and potential use only if deterrence fails. It commits to maintaining a safe, secure, reliable, and effective nuclear deterrent as long as nuclear weapons exist, while stating a very high threshold for nuclear employment, limited to extreme circumstances.",
+      "quote": "The fundamental role of U.S. nuclear weapons is to deter a strategic attack, assure allies and partners, and achieve objectives if deterrence fails. The United States will continue to maintain a safe, secure, reliable, and effective nuclear deterrent as long as nuclear weapons exist. As has been made clear by successive U.S. Administrations, the United States maintains a very high bar for nuclear employment and would consider the use of nuclear weapons only in extreme circumstances. 1",
+      "confidence": 0.72,
+      "weight": 0.24,
+      "tier": "core"
+    }
+  ]
+}

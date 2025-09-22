@@ -1,0 +1,73 @@
+{
+  "country": "USA",
+  "issue": "Moratorium on nuclear testing",
+  "updated_at": "2025-09-21T16:04:12.624005Z",
+  "entries": [
+    {
+      "id": 41,
+      "year": 2023,
+      "doc_type": "statement",
+      "source_file": "2023_USA_Statements_2.pdf",
+      "page": 3,
+      "paragraph_id": 1,
+      "position_summary": "The United States emphasizes strong support for the CTBTO’s International Monitoring System and upholds a zero-yield moratorium on nuclear explosive testing. This signals backing for CTBT verification mechanisms and a continued halt to nuclear testing.",
+      "quote": "The United States is the largest single supporter of the CTBTO PrepCom’s International Monitoring System, and we maintain a zero-yield moratorium on nuclear explosive testing.",
+      "confidence": 0.92,
+      "weight": 0.46,
+      "tier": "core"
+    },
+    {
+      "id": 55,
+      "year": 2023,
+      "doc_type": "statement",
+      "source_file": "2023_USA_Statements_2.pdf",
+      "page": 5,
+      "paragraph_id": 4,
+      "position_summary": "Supports the CTBT and calls for sustained resourcing of its verification system pending entry into force. Urges declaring and maintaining zero-yield moratoria on nuclear explosive testing.",
+      "quote": "And pending the entry into force of the CTBT, we must provide the resources needed for long-term sustainability of the CTBT verification system and declare and maintain zero-yield moratoria on nuclear explosive testing.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "id": 496,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_USA_Statements_2.pdf",
+      "page": 2,
+      "paragraph_id": 1,
+      "position_summary": "The United States supports CTBT entry into force, backs its verification regime, funds and supplies IMS data, and continues its zero‑yield testing moratorium while urging China and Russia to adhere to similar moratoria and the DPRK to declare and maintain one, with greater transparency from all. It hosts observers at the Nevada National Security Site and commits to transparency in stockpile stewardship. The United States also supports negotiating an FMCT at the Conference on Disarmament in line with CD/1299 as a key next step toward disarmament.",
+      "quote": "2000 Steps One and Two; 2010 Actions Ten through Fourteen: CTBT and Test Moratorium: On Steps One and Two, the United States remains committed to the CTBT’s entry into force and strongly supports the treaty’s verification regime. The United States is the largest financial contributor to the CTBTO PrepCom, provides significant voluntary contributions, and maintains high data availability from the IMS stations the United States is responsible for. The United States has not conducted a nuclear explosive test since 1992 and continues to observe its zero- yield moratorium on nuclear explosive testing. We urge the PRC and Russia to adhere to their respective zero-yield moratoria on nuclear explosive testing and the DPRK to declare and maintain such moratorium. We also urge the PRC, Russia, and the DPRK to provide transparency into their testing programs. For its part, the United States has continued hosting international observers at the Nevada National Security Site (NNSS), and we are committed to transparency in our stockpile stewardship and nonproliferation activities at NNSS and other nuclear security enterprise sites. 2000 Steps Three and Four; 2010 Actions Six and Fifteen: Progress on FMCT and Other Efforts at the CD: On Steps Three and Four, we support negotiation of an FMCT at the Conference on Disarmament as the essential next multilateral step toward achieving the ultimate goal of a world without nuclear weapons. Negotiations, which should take place in accordance with CD/1299, are long overdue.",
+      "confidence": 0.9,
+      "weight": 0.18,
+      "tier": "core"
+    },
+    {
+      "id": 725,
+      "year": 2025,
+      "doc_type": "statement",
+      "source_file": "2025_USA_Statements_5.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "The country condemns the DPRK’s ongoing WMD and ballistic missile programs as violations of UN Security Council resolutions and a threat to regional and global security. It expresses strong concern over the DPRK’s continued nuclear activities and the possibility of a seventh nuclear test, as well as its bellicose rhetoric.",
+      "quote": "Meanwhile, Chair, the DPRK continues to advance its destabilizing weapons of mass destruction and ballistic missile programs in violation of multiple UN Security Council resolutions. These programs pose a threat to all of us and undermine security in the region. We note with significant concern the DPRK’s ongoing nuclear activities, including the possibility of a seventh nuclear test, and its continued irresponsible and bellicose rhetoric.",
+      "confidence": 0.84,
+      "weight": 0.27999999999999997,
+      "tier": "core"
+    },
+    {
+      "id": 495,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_USA_Statements_2.pdf",
+      "page": 1,
+      "paragraph_id": 3,
+      "position_summary": "The state frames its approach around the 2000 Thirteen Steps and the 2010 Action Plan, prioritizing bans/moratoria on nuclear testing, halting and disposing of fissile material production, and ensuring transparency and verification as core disarmament elements. It signals support for CTBT and FMCT-related measures and broader Article VI implementation.",
+      "quote": "I will frame my abridged remarks around the Thirteen Steps agreed to at the 2000 NPT Review Conference, which addressed nuclear testing, fissile material production and disposition, irreversibility, transparency, and verification, among other priorities, as key elements of disarmament. Our efforts also line up well with the relevant actions from the 2010 Action Plan. Our full statement will be available online.",
+      "confidence": 0.73,
+      "weight": 0.10428571428571429,
+      "tier": "core"
+    }
+  ],
+  "topline_summary": null
+}

@@ -1,0 +1,73 @@
+{
+  "country": "USA",
+  "issue": "Emerging and disruptive technologies",
+  "updated_at": "2025-09-21T16:04:12.624005Z",
+  "entries": [
+    {
+      "id": 338,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_USA_Statements_4.pdf",
+      "page": 3,
+      "paragraph_id": 3,
+      "position_summary": "The United States emphasizes robust nuclear security as essential to preventing proliferation and nuclear terrorism and to maintaining public confidence. It advocates the highest safety and security standards, including in cooperation with industry, for emerging technologies such as artificial intelligence and small modular reactors.",
+      "quote": "The United States also recognizes the critical importance of nuclear security in stemming proliferation and preventing nuclear terrorism. As many governments highlighted at the 2024 IAEA International Conference on Nuclear Security, governments and the public must have confidence that nuclear materials, facilities, and technologies remain safe, secure, and protected. Working with industry, we must also prioritize the highest standards for nuclear safety and security for new and emerging technologies, such as artificial intelligence and small modular reactors.",
+      "confidence": 0.86,
+      "weight": 0.2866666666666667,
+      "tier": "core"
+    },
+    {
+      "id": 847,
+      "year": 2025,
+      "doc_type": "statement",
+      "source_file": "2025_USA_Statements_4.pdf",
+      "page": 2,
+      "paragraph_id": 2,
+      "position_summary": "The country underscores that robust nuclear security, alongside IAEA safeguards, is essential to prevent theft, trafficking, and misuse of nuclear materials and technologies. It calls for the highest standards of nuclear safety and security as peaceful nuclear applications and emerging technologies grow. It supports the IAEA’s work to uphold safety and security in Ukraine and condemns actions that jeopardize these efforts.",
+      "quote": "In addi�on to safeguards, nuclear security is cri�cally important to preven�ng prolifera�on. Ensuring nuclear facili�es are protected, and the materials and technologies therein are secure, prevents poten�al the�, trafficking, and misuse, including use to inflict significant harm. To that end, we must con�nue to priori�ze the highest standards of nuclear safety and security as peaceful uses of nuclear technology expand and countries pursue new and emerging technologies. We also reaffirm our support for the IAEA’s efforts to uphold nuclear safety and security in Ukraine and condemn ac�ons that jeopardize these efforts.",
+      "confidence": 0.84,
+      "weight": 0.12,
+      "tier": "core"
+    },
+    {
+      "id": 564,
+      "year": 2024,
+      "doc_type": "statement",
+      "source_file": "2024_USA_Statements_1.pdf",
+      "page": 2,
+      "paragraph_id": 9,
+      "position_summary": "The country calls on the P5 to adopt concrete risk-reduction steps, including crisis communication channels, formalized ballistic missile launch notifications, and a commitment to maintain a human-in-the-loop for nuclear command and employment. It regrets that two of the five nuclear-weapon states have not engaged substantively with these proposals.",
+      "quote": "We proposed risk reduction steps to the P5, such as establishing crisis communication channels among the five nuclear-weapon states, formalizing ballistic missile launch notifications, and committing to maintain a “human-in-the- loop” for the command, control, and employment of nuclear weapons. We regret that two of these states have yet to engage substantively on this agenda.",
+      "confidence": 0.82,
+      "weight": 0.2733333333333333,
+      "tier": "core"
+    },
+    {
+      "id": 1036,
+      "year": 2025,
+      "doc_type": "statement",
+      "source_file": "2025_USA_Statements_2.pdf",
+      "page": 3,
+      "paragraph_id": 1,
+      "position_summary": "The country urges that Russia’s substantial non-strategic nuclear weapons be included in arms control agreements with the United States. It also condemns Russia’s reported development of a nuclear-armed antisatellite capability and insists that nuclear weapons remain prohibited in outer space, as reaffirmed by the UN General Assembly.",
+      "quote": "including its substantial non-strategic nuclear weapon arsenal in arms control agreements with the United States. Russia is also developing a satellite meant to carry a nuclear weapon as an antisatellite capability into outer space – a domain where nuclear weapons are prohibited, and should remain prohibited, as the UN General Assembly reaffirmed overwhelmingly last Fall.",
+      "confidence": 0.81,
+      "weight": 0.405,
+      "tier": "core"
+    },
+    {
+      "id": 1035,
+      "year": 2025,
+      "doc_type": "statement",
+      "source_file": "2025_USA_Statements_2.pdf",
+      "page": 2,
+      "paragraph_id": 5,
+      "position_summary": "The country criticizes Russia for developing novel nuclear weapons and enhancing dual-capable delivery systems, signaling expansion and modernization of its arsenal. It also asserts that Russia has refused to return to compliance with the New START Treaty as it nears expiration, resisting arms control constraints.",
+      "quote": "Russia is developing novel nuclear weapons and improving its suite of dual- capable delivery systems. It has refused to return to compliance with the New START Treaty, which expires in less than a year, and has resisted 2",
+      "confidence": 0.76,
+      "weight": 0.25333333333333335,
+      "tier": "core"
+    }
+  ],
+  "topline_summary": null
+}

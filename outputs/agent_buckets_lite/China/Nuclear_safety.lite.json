@@ -1,0 +1,107 @@
+{
+  "country": "China",
+  "issue": "Nuclear safety",
+  "updated_at": "2025-09-21T17:55:19.434818Z",
+  "entries": [
+    {
+      "source_file": "2024_China_WP_4.pdf",
+      "page": 3,
+      "paragraph_id": 8,
+      "position_summary": "The country urges all NPT States Parties to rigorously meet their national responsibilities for nuclear safety. It emphasizes strict fulfillment of safety obligations at the national level.",
+      "quote": "19. State parties should strictly fulfill the national responsibilities of nuclear safety.",
+      "confidence": 0.93,
+      "weight": 0.93,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_China_WP_3.pdf",
+      "page": 1,
+      "paragraph_id": 2,
+      "position_summary": "The country emphasizes that robust nuclear safety is essential for the development and application of nuclear power and technologies due to potential regional and global impacts. It urges all states to strictly fulfill national nuclear safety responsibilities to enable the peaceful use of nuclear energy without harming the environment or human health.",
+      "quote": "Nuclear safety is the lifeline of the development of nuclear power and the application of nuclear technologies, which not only has a bearing on the economic development and social stability of the countries concerned, but also may bring about serious regional and global impacts. All countries should strictly implement their national responsibilities for nuclear safety, so as to peacefully use the nuclear energy for the building of a community of life for mankind and nature, and not at the expense of the natural environment and human health.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_China_WP_1.pdf",
+      "page": 2,
+      "paragraph_id": 7,
+      "position_summary": "The country urges stronger safety and security measures for peaceful nuclear facilities, including nuclear power plants. It opposes armed attacks on such facilities, calls for compliance with the Convention on Nuclear Safety and prevention of man-made accidents, and supports a proactive IAEA role in promoting safety and security.",
+      "quote": "7. Efforts must be made to ensure the safety and security of nuclear facilities for peaceful uses. Discussions should focus on maintaining the safety and security of nuclear power plants, opposing armed attacks on nuclear power plants and other peaceful nuclear facilities, complying with the Convention on Nuclear Safety, resolutely avoiding man-made nuclear accidents, and supporting the International Atomic Energy Agency (IAEA) in playing a positive role in promoting the safety and security of peaceful nuclear facilities.",
+      "confidence": 0.9,
+      "weight": 0.225,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_China_WP_4.pdf",
+      "page": 3,
+      "paragraph_id": 7,
+      "position_summary": "The country calls to protect peaceful nuclear facilities and opposes armed attacks on them. It urges compliance with the Convention on Nuclear Safety, efforts to prevent man-made nuclear accidents, and supports an active IAEA role in enhancing the safety and security of such facilities.",
+      "quote": "18. Guarantee the safety of peaceful nuclear facilities and oppose armed attacks against nuclear power plants or other peaceful nuclear facilities. All parties should comply with the Convention on Nuclear Safety (CNS), resolutely avoid man-made nuclear accident, and support IAEA to play a positive role in promoting the safety and security of peaceful nuclear facilities.",
+      "confidence": 0.89,
+      "weight": 0.2966666666666667,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_China_WP_1.pdf",
+      "page": 6,
+      "paragraph_id": 4,
+      "position_summary": "Calls for strict compliance with the Convention on Nuclear Safety, enhanced protection of peaceful nuclear facilities, and opposition to any armed attacks on nuclear power plants or other installations. Urges full adherence to the 2009 IAEA General Conference decision prohibiting attacks or threats against operational or under-construction nuclear facilities.",
+      "quote": "Reiterate that all state parties shall strictly comply with the Convention on Nuclear Safety to avoid man-made nuclear accidents. All efforts should be made to ensure the safety of peaceful nuclear facilities and oppose armed attacks on nuclear power plants or other peaceful nuclear installations. The decision adopted by consensus at the IAEA General Conference on September 18, 2009,which prohibits armed attacks or threats of armed attacks against operational or under-construction nuclear facilities, shall be fully complied with.",
+      "confidence": 0.88,
+      "weight": 0.44,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_China_Statements_1.pdf",
+      "page": 7,
+      "paragraph_id": 2,
+      "position_summary": "The country asserts that peaceful nuclear activities must not endanger the environment or human health and calls on Japan to halt the planned ocean discharge of Fukushima’s contaminated water. It urges Japan to meet its moral and legal obligations, engage sincerely with neighboring states, and ensure safe disposal under strict international monitoring.",
+      "quote": "The peaceful uses of nuclear energy should not be achieved at the cost of natural environment and human health. Japan should respond to the concerns of the international community on the decision of discharging the nuclear contaminated water of the Fukushima Daiichi Nuclear Power Plant into the ocean, fulfill its due moral responsibilities and international legal obligations, stop forcing through its plan of discharge the nuclear contaminated water into the ocean, and communicate with its neighbouring countries in a sincere attitude, and ensure that the nuclear-contaminated water is safely disposed under strict international monitoring.",
+      "confidence": 0.88,
+      "weight": 0.44,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_China_Statements_6.pdf",
+      "page": 4,
+      "paragraph_id": 2,
+      "position_summary": "China emphasizes strong national and international efforts on nuclear safety and security, asserting compliance with related obligations and active participation in global mechanisms. It supports converting HEU to LEU for micro‑reactors and assisting countries to minimize HEU use, tailored to their needs and capacities.",
+      "quote": "China always gives priority to nuclear safety and security and continuously improves its national capabilities in nuclear safety and security with a good track record. At the same time, China faithfully fulfills its international obligations on nuclear safety and security, vigorously promotes international cooperation in nuclear safety and security, and deeply participates in international nuclear safety and security mechanisms and processes. China will continue to participate in cooperation on conversion of HEU to LEU for micro-reactors and support countries in minimizing the use of HEU and reducing nuclear safety and security risks, in light of their own needs, as well as their economic and technological capabilities.",
+      "confidence": 0.88,
+      "weight": 0.29333333333333333,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_China_WP_1.pdf",
+      "page": 6,
+      "paragraph_id": 5,
+      "position_summary": "Urges all States Parties to join and comply with nuclear safety and security conventions, and encourages those developing advanced and small modular reactors (including portable reactors) to work closely with the IAEA to ensure their safe and secure deployment. Emphasizes responsible, safeguarded expansion of peaceful nuclear applications.",
+      "quote": "Call on all States Parties to join and abide by conventions and instruments in the fields of nuclear safety and security. State parties developing advanced reactors and small modular reactors including portable reactors are encouraged to enhance cooperation with the IAEA to support the safe and secure deployment of such reactors.",
+      "confidence": 0.86,
+      "weight": 0.2866666666666667,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_China_Statements_6.pdf",
+      "page": 2,
+      "paragraph_id": 5,
+      "position_summary": "The country links safe and secure nuclear operations to sustainable peaceful uses, calling for a fair, cooperative international nuclear security system. It urges all states to fulfill national responsibilities for nuclear safety and adopt a balanced, coordinated approach to nuclear security to protect human health and the environment.",
+      "quote": "Nuclear safety and security are the lifeline for sustainable peaceful uses of nuclear energy, thus the international community should work together to adopt a rational, coordinated and balanced approach to nuclear security, jointly create an international nuclear security system that is fair, cooperative, and mutually beneficial, and build a community with a shared future for nuclear security. All countries should strictly fulfil their national responsibilities for nuclear safety, so that peaceful uses of nuclear energy contributes to creating a community of life for human and nature, rather than sacrifice the natural environment and human health.",
+      "confidence": 0.86,
+      "weight": 0.2866666666666667,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_China_WP_3.pdf",
+      "page": 1,
+      "paragraph_id": 4,
+      "position_summary": "The country argues that Japan’s plan to discharge Fukushima’s contaminated water into the ocean lacks proper justification, ignores safer disposal alternatives, and violates radiation protection principles, thereby posing global risks. It opposes Japan’s unilateral decision and calls for thorough evaluation of other options.",
+      "quote": "1. Japan fails to provide the justification and legitimacy of the ocean discharge plan. Ocean discharge is not the only way to dispose of the nuclear contaminated water of Fukushima. Japan had discussed five ways to dispose of the nuclear contaminated water, namely injection into the ground, discharge into the ocean, vapor release, release as hydrogen gas into the atmosphere, and underground burial. Many experts have also suggested other options for proper disposal, such as building new storage tanks for long-term storage, cement curing, etc. However, Japan did not conduct thorough study of all disposal options and insist on choosing ocean discharge with the least economic cost, thus transferring the risk of nuclear contamination to the whole world. Justification is one of the three fundamental principles of radiation protection which requires that the introduction of a new source of radiation, or any actions to reduce radiation exposure, have a net overall benefit. Japan’s unilateral decision of ocean discharge violates the principle of justification.",
+      "confidence": 0.85,
+      "weight": 0.85,
+      "tier": "core"
+    }
+  ]
+}

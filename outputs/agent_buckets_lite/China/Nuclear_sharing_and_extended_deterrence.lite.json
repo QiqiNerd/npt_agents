@@ -1,0 +1,107 @@
+{
+  "country": "China",
+  "issue": "Nuclear sharing and extended deterrence",
+  "updated_at": "2025-09-21T17:55:19.436090Z",
+  "entries": [
+    {
+      "source_file": "2023_China_Statements_2.pdf",
+      "page": 2,
+      "paragraph_id": 5,
+      "position_summary": "The country firmly opposes the spread of nuclear sharing arrangements to the Asia-Pacific, arguing such practices contradict the NPT’s object and principles. It warns that nuclear sharing undermines the non-proliferation regime and regional stability, citing concerns about Japan and the ROK seeking arrangements with the United States.",
+      "quote": "Fourthly, we must resolutely oppose the proliferation of nuclear sharing to Asia-Pacific Region. In the context of the NPT, nuclear sharing has long been controversial and has never been fully and clearly recognized by all states parties. In fact, nuclear sharing runs counter to the object and principles of the NPT and for a long time, it has had a serious negative impact on the international nuclear non-proliferation regime and regional peace and stability. In recent years, there are signs showing that the arrangement of nuclear sharing is proliferating to the Asia Pacific. Japan, the ROK and other countries are actively seeking nuclear sharing with the US. This is not conducive to peace and stability in theAsia-Pacific region. We are deeply concerned about and firmly opposed to it.",
+      "confidence": 0.92,
+      "weight": 0.92,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_China_Statements_3.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "The country opposes the expansion of nuclear sharing arrangements, particularly to the Asia-Pacific, arguing such practices run counter to the NPT’s letter and spirit. It asserts that any further spread of nuclear sharing would violate the Treaty and must be firmly resisted.",
+      "quote": "We would also like to reaffirm our serious concern over the potential proliferation of nuclear sharing to the Asia-Pacific region. Nuclear sharing has long been a controversial issue as many believe it runs counter to the letter and spirit of the NPT.Any further spread of this kind of arrangement to other parts of the world would constitute a clear violation of the Treaty and therefore must be firmly opposed.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_China_Statements_2.pdf",
+      "page": 1,
+      "paragraph_id": 4,
+      "position_summary": "The statement argues that NATO nuclear sharing violates NPT Articles I and II, is a Cold War relic, and should be terminated. It warns against the spread of similar arrangements to the Asia-Pacific, asserting such practices would undermine the NPT and threaten regional peace and stability.",
+      "quote": "Over the years, many States parties of NPT and NGOs have raised various questions on this arrangement, believing that NATO nuclear sharing is incompatible with Articles 1 and 2 of the NPT. As relics of the Cold War, this arrangement is anachronistic and should be abandoned. Moreover, there are risks that such arrangement would be proliferated to other parts of the world, especially to the Asia-Pacific region. This kind of tendency must be clear-eyed and firmly resisted, since it would represent not only a serious violation of the NPT, but also a threat to regional peace and stability.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_China_Statements_5.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "The country urges in-depth discussion to clarify the rights and obligations of non-nuclear-weapon states involved in nuclear sharing and extended deterrence within future international legal instruments on negative security assurances.",
+      "quote": "The issue of the rights and obligations of non-nuclear-weapon states participating in “nuclear sharing” and “extended deterrence” arrangements in future international legal instruments on negative security assurances merits in-depth discussion.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_China_WP_1.pdf",
+      "page": 1,
+      "paragraph_id": 5,
+      "position_summary": "The country urges non-nuclear-weapon States involved in nuclear sharing and extended deterrence to take concrete steps to diminish the role of nuclear weapons in their national and collective security doctrines.",
+      "quote": "Non-nuclear-weapon States participating in the so-called nuclear sharing and extended deterrence arrangements should take concrete measures to reduce the role of nuclear weapons in their national and collective security doctrines.",
+      "confidence": 0.9,
+      "weight": 0.3,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_China_Statements_5.pdf",
+      "page": 2,
+      "paragraph_id": 5,
+      "position_summary": "The country calls for abolishing nuclear sharing and extended deterrence arrangements, withdrawing all nuclear weapons deployed overseas, and ending forward deployment of strategic forces. It further urges participants in such arrangements to clarify their practices, signaling a demand for greater transparency.",
+      "quote": "Fifth, nuclear-weapon States should abolish “nuclear sharing” and “extended deterrence” arrangements, withdraw all nuclear weapons deployed overseas back to their home countries, and cease the playing with fire behavior of forward deployment of strategic forces. Countries participating in “nuclear sharing” and “extended deterrence” arrangements should clarify whether",
+      "confidence": 0.88,
+      "weight": 0.29333333333333333,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_China_Statements_3.pdf",
+      "page": 4,
+      "paragraph_id": 1,
+      "position_summary": "China commits to maintaining a minimum nuclear deterrent and rejects seeking nuclear parity or engaging in an arms race. It also states it does not provide a nuclear umbrella and does not deploy nuclear weapons abroad.",
+      "quote": "the international situation changes, China will always maintain its nuclear force at the minimum level required for national security, and will not seek nuclear parity or engage in a nuclear arms race with any nuclear-weapon State. China does not provide nuclear umbrella and does not deploy nuclear weapons abroad.",
+      "confidence": 0.87,
+      "weight": 0.29,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_China_Statements_3.pdf",
+      "page": 2,
+      "paragraph_id": 4,
+      "position_summary": "China urges all nuclear-weapon states to adopt and codify no-first-use, including a mutual NFU treaty, and to reduce the role of nuclear weapons and avoid targeting any country. It calls for negotiating a legally binding instrument on negative security assurances at the Conference on Disarmament and supports establishing nuclear-weapon-free zones. China opposes global missile defense and the deployment of land-based intermediate-range missiles, and calls for ending strengthened extended deterrence and withdrawing forward-deployed nuclear weapons.",
+      "quote": "Thirdly, effectively reduce the role of nuclear weapons in national and collective security policies. China calls on all nuclear-weapon States to pursue a no-first-use policy like China, conclude a treaty on the mutual no-first-use of nuclear weapons, and not target any country. China advocates early negotiations of an international legal instrument providing negative security assurances to non- nuclear-weapon States at the Conference on Disarmament, and support efforts to establish nuclear-weapon-free zones. Certain country should abandon its development and deployment of global missile defense systems, not seek to deploy land-based intermediate missiles in the Asia-Pacific regions and Europe, stop strengthening the so-called “extended deterrence”, withdraw nuclear weapons 2",
+      "confidence": 0.87,
+      "weight": 0.12428571428571429,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_China_WP_3.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "The country urges protection of nuclear-weapon-free zones and calls on nuclear-weapon States to diminish the role of nuclear weapons, adopt no-first-use, avoid targeting specific countries, and lower alert levels. It demands ending nuclear sharing and extended deterrence and withdrawing nuclear weapons deployed abroad, with greater transparency about such arrangements and clarification of their compatibility with NPT Articles I and II. It also supports negotiating a legal instrument on security assurances and clarifying the rights and obligations of non-nuclear-weapon States involved in sharing arrangements.",
+      "quote": "Nuclear-weapon States and non-nuclear-weapon States should all refrain from taking actions that would undermine or damage the position of nuclear-weapon-free zones. (d) Nuclear-weapon States should diminish the role of nuclear weapons in their national security policies, abandon the nuclear deterrence policy based on the first use of nuclear weapons, refrain from making tailored nuclear deterrence policy against other countries, refrain from listing any country as the target of nuclear strike, reduce the alert status, and refrain from targeting nuclear weapons at any other country. (e)The relevant nuclear-weapon State should abandon the arrangement of nuclear sharing and extended deterrence, and withdraw all nuclear weapons deployed abroad back to its own territories. Before achieving this goal, the relevant nuclear- weapon States and non-nuclear-weapon States should be transparent about the arrangements above, and clarify whether they have breached Article 1 and 2 of the NPT. Meanwhile, in the context of concluding the international legal instrument on security assurances, the international community should have in-depth discussions on the rights and obligations of non- nuclear-weapon States participating in the arrangements of nuclear sharing and extended deterrence. 3/3",
+      "confidence": 0.87,
+      "weight": 0.09666666666666666,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_China_WP_3.pdf",
+      "page": 2,
+      "paragraph_id": 4,
+      "position_summary": "The country criticizes nuclear sharing and extended deterrence, arguing they undermine momentum for establishing nuclear-weapon-free zones and for negotiating legally binding security assurances. It expresses concern about non-nuclear-weapon States’ involvement in the deployment, use, and decision-making related to nuclear weapons under these arrangements.",
+      "quote": "5. In the NPT review process, many countries believe the existence of nuclear sharing and extended deterrence diminishes the political willingness of countries participating in the above arrangements to build nuclear- weapon-free zones or conclude an international legal instrument on security assurances. Many countries are highly concerned about the role of non- nuclear-weapon States that are part of the above arrangement in the deployment, use and decision-making of nuclear weapons.",
+      "confidence": 0.86,
+      "weight": 0.2866666666666667,
+      "tier": "core"
+    }
+  ]
+}

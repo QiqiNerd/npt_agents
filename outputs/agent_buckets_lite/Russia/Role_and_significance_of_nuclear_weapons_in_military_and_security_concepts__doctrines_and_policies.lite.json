@@ -1,0 +1,107 @@
+{
+  "country": "Russia",
+  "issue": "Role and significance of nuclear weapons in military and security concepts, doctrines and policies",
+  "updated_at": "2025-09-21T17:55:19.371992Z",
+  "entries": [
+    {
+      "source_file": "2023_Russia_Statements_2.pdf",
+      "page": 5,
+      "paragraph_id": 3,
+      "position_summary": "The country criticizes U.S. extended deterrence and joint nuclear planning with the Republic of Korea, arguing these arrangements heighten regional tensions and fuel an arms race. It also opposes expanding this model to include Japan.",
+      "quote": "Washington's steps toward extending such schemes to other parts of the world, where the United States already practices so-called \"extended deterrence,\" also have pronounced negative implications for regional and global security. In particular, the arrangements between the United States and the Republic of Korea on joint \"nuclear planning\" lead to heightened tensions in the Asia-Pacific region and spur an arms race. We note with concern the official calls to expand this format to include Japan.",
+      "confidence": 0.86,
+      "weight": 0.43,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_Russia_Statements_2.pdf",
+      "page": 3,
+      "paragraph_id": 1,
+      "position_summary": "The country criticizes states engaged in nuclear sharing, forward deployment, and joint nuclear planning for obstructing nuclear disarmament and calls their appeals for accelerated disarmament hypocritical. It implies these policies must be addressed or ended to enable progress toward Article VI commitments.",
+      "quote": "3 disarmament. It totally escapes us how anyone can call for accelerated nuclear disarmament without taking into account the political reality, especially if the ones who call are the States that allow forward deployment of foreign nuclear weapons in their territory, provide military infrastructure for the use of such weapons and take part in 'nuclear sharing' and joint nuclear planning. It is these countries' irresponsible policy that has become a major obstacle to the nuclear disarmament.",
+      "confidence": 0.86,
+      "weight": 0.2866666666666667,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_2.pdf",
+      "page": 1,
+      "paragraph_id": 5,
+      "position_summary": "The country rejects the TPNW, calling it counter-productive and unworkable in the current security environment. It opposes the immediate outlawing of nuclear weapons, implying continued reliance on them for national and international security.",
+      "quote": "In the current extremely adverse international security environment, we believe it to be twice as obvious that any concepts involving \"short cuts\" to a nuclear-weapon-free world, including immediately outlawing nuclear weapons as a means of ensuring security, are unworkable. We continue to consider such initiatives, including the TPNW, counter-productive, as they cannot bring us any",
+      "confidence": 0.84,
+      "weight": 0.42,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_1.pdf",
+      "page": 4,
+      "paragraph_id": 3,
+      "position_summary": "The country rejects immediate bans and rigid deadlines for achieving nuclear zero, arguing such approaches are counterproductive and contradict the NPT’s logic. It favors a gradual, security-conditions-based path to disarmament rather than radical measures like the TPNW. Nuclear disarmament must enhance overall security, not simply remove weapons from an unchanged strategic environment.",
+      "quote": "In the current circumstances, the validity of the argument we have consistently advocated about the counter-productivity of those approaches to nuclear disarmament that imply an immediate and complete ban on nuclear weapons or the establishment of both tight and artificial deadlines for reaching \"nuclear zero\" becomes doubly evident. It is important to understand that a sustainable and secure nuclear-weapon-free world is not equal to the world in its current deplorable state minus nuclear weapons. Radicalism contradicts the NPT logic and will not lead to the ultimate goal of enhanced security for all.",
+      "confidence": 0.84,
+      "weight": 0.27999999999999997,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_Russia_Statements_3.pdf",
+      "page": 3,
+      "paragraph_id": 1,
+      "position_summary": "The country rejects immediate outlawing of nuclear weapons and artificial disarmament deadlines, arguing these ignore strategic realities, the security interests of nuclear-weapon states, and the principle of undiminished security. It insists disarmament must occur in the context of general and complete disarmament and warns that non-consensus initiatives like the TPNW undermine consensus and the NPT forum's sustainability.",
+      "quote": "3 We believe that any ideas of a 'short cut' to 'nuclear zero' through immediate and unconditional renunciation and outlawing of nuclear weapons are unworkable and counter-productive. So are any attempts to set artificial deadlines for disarmament, especially in the current highly turbulent and unpredictable international environment. Such ideas fail to take into account the politico-military and strategic realities, disregard the security interests of nuclear-weapon States, run counter to the principle of undiminished security and are set outside the context of general and complete disarmament. Attempts to push forward such non-consensus initiatives only exacerbate the contradictions at the NPT forum, which would be detrimental to the sustainability of the nuclear non-proliferation regime.",
+      "confidence": 0.83,
+      "weight": 0.2075,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_2.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "The country condemns NATO nuclear sharing and the forward deployment of U.S. nuclear weapons in Europe as destabilizing, increasing strategic risks, and obstructing progress on nuclear disarmament, especially amid modernization of these capabilities. It calls for the complete withdrawal of U.S. nuclear weapons to U.S. territory and dismantlement of the related infrastructure in Europe.",
+      "quote": "Particular emphasis should be put on the destabilizing practice of the NATO's so-called \"nuclear sharing\" involving forward-based U.S. nuclear weapons deployed in Europe, that is, thousands miles away from the U.S., and capable of promptly hitting critical targets in the territory of Russia and its allies. Given the general increase in threats posed by the West and active modernization of the mentioned nuclear capabilities, this practice increases strategic risks and prompts one to take compensating counter-measures. This factor has considerably complicated the dialogue at the NPT forum for decades, and has long been a major obstacle to further steps in the field of nuclear disarmament. We reiterate that the United States' nuclear weapons must be completely withdrawn to their national territory and the relevant infrastructure in Europe must be dismantled.",
+      "confidence": 0.83,
+      "weight": 0.2075,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_2.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "The country argues that nuclear weapons are essential to its security and deterrence in light of perceived NATO threats and the Ukraine crisis. It rejects further reductions of its nuclear arsenal, indicating that disarmament steps or a reduced role for nuclear weapons are not feasible under current conditions.",
+      "quote": "At this stage the continued possession of nuclear weapons is for our country the only possible response to certain external threats. The Ukrainian crisis pro- voked and fueled by the West has confirmed the validity of our concerns. Having flagrantly violated the principle of equal and indivisible security, the NATO bloc has staked on malicious expansion aimed at weakening our country. The West used our forced response to protect our external security contour as a pretext to move to an open power game against Russia, dangerously teetering on the brink of direct military confrontation. Under these circumstances, further reductions in our coun- try's nuclear weapons would not only dramatically decrease its security, but would actually turn the idea of large-scale aggression against Russia into a very realistic option for NATO countries, which have a significant advantage in conventional weapons.",
+      "confidence": 0.83,
+      "weight": 0.2075,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_3.pdf",
+      "page": 2,
+      "paragraph_id": 4,
+      "position_summary": "The country contends that U.S. extended deterrence measures with the Republic of Korea—highlighted by an SSBN port visit and claims of a “nuclear” alliance—contradict nonproliferation goals and undermine denuclearization of the Korean Peninsula. It argues that Washington, not the DPRK, bears primary responsibility for the lack of progress on denuclearization.",
+      "quote": "For many years, it has been common to blame the DPRK for violating the NPT and the lack of progress in denuclearization of the Korean Peninsula. In fact, it is the United States that is taking steps incompatible with the objectives of nuclear non-proliferation by drawing the Republic of Korea, a non-nuclear-weapon State within the meaning of the NPT, into the orbit of its nuclear strategy. The President of the Republic of Korea has openly declared that the alliance with the U.S. has \"upgraded to a nuclear one.\" On 18 July, a U.S. nuclear-armed intercontinental ballistic missile submarine visited the port of Busan. Such actions nullify the prospects for resolving the situation on the Korean Peninsula, undermining the goal of its denuclearization, which is backed by relevant UN Security Council resolutions. The responsibility for this falls on Washington.",
+      "confidence": 0.82,
+      "weight": 0.2733333333333333,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_1.pdf",
+      "page": 3,
+      "paragraph_id": 3,
+      "position_summary": "The statement argues that nuclear disarmament under Article VI must be considered in the broader context of general and complete disarmament, noting rising global conventional military expenditures. It suggests that high spending by the U.S., NATO, and allies affects the feasibility of renouncing nuclear weapons and sustains the perceived role of nuclear deterrence.",
+      "quote": "I would like to draw attention to another negative aspect: increased expenditures on conventional weapons. The NPT places nuclear disarmament in the context of general and complete disarmament. But at present, military spending is growing in most States. In particular, the U.S. accounts for 40% of all military expenditures in the world. And if we add up the budgets of the armies of the NATO countries and their closest allies, we will get about two-thirds of global military expenses. And this cannot be ignored when speaking of renouncing nuclear weapons.",
+      "confidence": 0.8,
+      "weight": 0.4,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_Russia_Statements_1.pdf",
+      "page": 2,
+      "paragraph_id": 2,
+      "position_summary": "The statement criticizes U.S./NATO nuclear modernization and potential geographic expansion of U.S. nuclear deployments in Europe as escalating strategic risks, prompting Russia and Belarus to take compensatory nuclear measures for deterrence. It asserts that Russian-Belarusian nuclear cooperation complies with international law and the NPT and does not threaten third countries.",
+      "quote": "Such steps severely aggravate strategic risks and general atmosphere of tension and elicit responses aimed at restoring the balance of forces and maintaining reliable deterrence. In particular, due to a quantum leap in the development of combat capability of the US nuclear weapons deployed in Europe and posing strategic threat, potential expansion of the geographic scope of its deployment, as well as general increase of diverse threats posed by NATO, the Russian Federation and the Republic of Belarus have had to resort to compensating steps in the nuclear field. Nevertheless, Russian-Belarusian cooperation in this sphere strictly complies with the international law and our international obligations, including the provisions of the NPT, and poses no threat to third countries.",
+      "confidence": 0.78,
+      "weight": 0.26,
+      "tier": "core"
+    }
+  ]
+}

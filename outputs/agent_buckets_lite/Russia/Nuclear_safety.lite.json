@@ -1,0 +1,57 @@
+{
+  "country": "Russia",
+  "issue": "Nuclear safety",
+  "updated_at": "2025-09-21T17:55:19.388924Z",
+  "entries": [
+    {
+      "source_file": "2023_Russia_Statements_5.pdf",
+      "page": 4,
+      "paragraph_id": 1,
+      "position_summary": "Russia supports strengthening global nuclear safety but asserts that each state has sole responsibility and discretion to determine and implement nuclear safety measures within its territory.",
+      "quote": "an adequate level of nuclear safety. The Russian Federation supports the strengthening of nuclear safety globally, while respecting the fundamental principle, according to which it is the sole responsibility of States to ensure nuclear safety in their territories and determine its optimal parameters at their discretion.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_5.pdf",
+      "page": 9,
+      "paragraph_id": 3,
+      "position_summary": "Russia links the development of peaceful nuclear energy to robust nuclear safety and supports strengthening nuclear safety worldwide. It emphasizes that states bear sole responsibility for ensuring nuclear safety on their own territories and determining its parameters at their discretion.",
+      "quote": "The development of peaceful uses of nuclear energy is impossible without an adequate level of nuclear safety. The Russian Federation supports the strengthening of nuclear safety around the world, while respecting the fundamental principle, according to which states themselves should bear sole responsibility for ensuring nuclear safety on their territories and determine its optimal parameters at their discretion.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_5.pdf",
+      "page": 9,
+      "paragraph_id": 2,
+      "position_summary": "Russia emphasizes strengthening national capacity for the safe use of nuclear energy in cooperation with the IAEA. It is party to key international nuclear safety and emergency conventions and acceded to the Vienna Convention on Civil Liability for Nuclear Damage in 2005.",
+      "quote": "We have been consistently strengthening our national capacity to ensure the safe use of nuclear energy in extensive collaboration with the IAEA. Russia is party to the Convention on Nuclear Safety, the Convention on Early Notification of a Nuclear Accident and the Joint Convention on the Safety of Spent Fuel Management and on the Safety of Radioactive Waste Management, as well as to the Convention on Assistance in the Case of a Nuclear Accident or Radiological Emergency. In 2005 Russia acceded to the 1963 Vienna Convention on Civil Liability for Nuclear Damage.",
+      "confidence": 0.86,
+      "weight": 0.43,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_5.pdf",
+      "page": 3,
+      "paragraph_id": 6,
+      "position_summary": "The country emphasizes strengthening national capacity for the safe use of nuclear energy and highlights active cooperation with the IAEA. This indicates support for peaceful nuclear applications coupled with robust safety measures.",
+      "quote": "We have been consistently strengthening our national capacity to ensure the safe use of nuclear energy in active collaboration with the IAEA.",
+      "confidence": 0.78,
+      "weight": 0.39,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_4.pdf",
+      "page": 2,
+      "paragraph_id": 2,
+      "position_summary": "The country highlights ongoing development of a lead-cooled fast reactor and on-site closed fuel cycle infrastructure to manage spent fuel and radioactive waste, aiming to improve nuclear power plant efficiency. This underscores its focus on advancing peaceful nuclear energy and enhancing safety/waste management capabilities.",
+      "quote": "We are continuing the construction of a pilot energy project with BREST- OD-300 lead-cooled reactor and the infrastructure necessary to close the nuclear fuel cycle within one site. This will enable us to fine-tune technologies addressing the issue of the spent nuclear fuel and radioactive waste and improve the efficiency of the nuclear power plants.",
+      "confidence": 0.7,
+      "weight": 0.35,
+      "tier": "core"
+    }
+  ]
+}

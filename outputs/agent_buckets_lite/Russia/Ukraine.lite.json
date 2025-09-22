@@ -1,0 +1,47 @@
+{
+  "country": "Russia",
+  "issue": "Ukraine",
+  "updated_at": "2025-09-21T17:55:19.392257Z",
+  "entries": [
+    {
+      "source_file": "2023_Russia_Statements_2.pdf",
+      "page": 4,
+      "paragraph_id": 2,
+      "position_summary": "Russia asserts it sought a comprehensive U.S.–Russia dialogue on strategic stability, focusing on risk reduction and arms control in the Euro-Atlantic region. It argues the United States failed to respect Russia’s core interests and then halted the nascent talks, using the Ukraine situation— which Russia says Washington provoked— as a pretext.",
+      "quote": "Prior to the current crisis, Russia initiated a dialogue with the U.S. to find ways to comprehensively resolve the unsatisfactory military and political situation in the Euro-Atlantic region, as well as to ensure strategic stability by means of risk reduction and arms control. We sought substantive work to minimize conflict po- tential and formulate a new \"security equation.\" However, the dialogue that had barely begun was devalued by the United States' refusal to respect our fundamental interests and its general anti-Russian policy, and then interrupted by Washington under the pretext of the developments around Ukraine, which it itself had pro- voked.",
+      "confidence": 0.88,
+      "weight": 0.29333333333333333,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_2.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "The country argues that nuclear weapons are essential to its security and deterrence in light of perceived NATO threats and the Ukraine crisis. It rejects further reductions of its nuclear arsenal, indicating that disarmament steps or a reduced role for nuclear weapons are not feasible under current conditions.",
+      "quote": "At this stage the continued possession of nuclear weapons is for our country the only possible response to certain external threats. The Ukrainian crisis pro- voked and fueled by the West has confirmed the validity of our concerns. Having flagrantly violated the principle of equal and indivisible security, the NATO bloc has staked on malicious expansion aimed at weakening our country. The West used our forced response to protect our external security contour as a pretext to move to an open power game against Russia, dangerously teetering on the brink of direct military confrontation. Under these circumstances, further reductions in our coun- try's nuclear weapons would not only dramatically decrease its security, but would actually turn the idea of large-scale aggression against Russia into a very realistic option for NATO countries, which have a significant advantage in conventional weapons.",
+      "confidence": 0.83,
+      "weight": 0.2075,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_1.pdf",
+      "page": 2,
+      "paragraph_id": 2,
+      "position_summary": "The country argues that U.S./NATO actions have escalated the Ukraine crisis and warns such policies risk a direct clash between nuclear powers. It asserts that the Middle East conflict has prompted nuclear rhetoric and that the nuclear dimension is growing in the Asia-Pacific, highlighting rising nuclear risks and the increasing role of nuclear weapons in regional security dynamics.",
+      "quote": "Contradictions across the world have built up, bringing a number of brewing conflicts to active phase and creating new hotbeds of tension. The United States and its allies continue to aggravate the Ukrainian crisis, which was brought about by NATO's unchecked expansion and the West's nurturing the anti-Russian Kiev regime relying on ultra-nationalist actors. Desperate attempts to inflict \"strategic defeat\" on Russia and remove our country from the international arena as a sovereign stronghold of those who struggle for a just, multi-polar world order, are fraught with a direct clash between nuclear powers. The Middle East conflict is expanding, which has already led to the use of \"nuclear rhetoric\". In the Asia-Pacific, the turbulence has intensified manifold, with rifts growing along various dividing lines and the nuclear factor gaining increasing role.",
+      "confidence": 0.78,
+      "weight": 0.26,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_2.pdf",
+      "page": 4,
+      "paragraph_id": 3,
+      "position_summary": "The statement blames the United States for undermining arms control, asserting that this forced Russia to suspend New START. It alleges U.S. noncompliance with New START’s quantitative limits and claims U.S. assistance to Ukraine in attacking Russian treaty-accountable strategic facilities, framing Russia’s response as justified.",
+      "quote": "The destructive actions of the United States continued to have a devastating effect on the arms control architecture, which it had already largely destroyed. This led, in particular, to the suspension of the New START Treaty. Russia's forced de- cision was a justified, legitimate and practically inevitable reaction to Washing- ton's undermining of the fundamental principles and understandings on which the New START Treaty was based and to the following fundamental change of cir- cumstances. The American side's failure to observe the central quantitative limits under the New START Treaty and its assistance to the Kiev regime in attacking our strategic facilities subject to the Treaty also dealt a severe blow to its viability.",
+      "confidence": 0.73,
+      "weight": 0.24333333333333332,
+      "tier": "core"
+    }
+  ]
+}

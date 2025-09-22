@@ -1,0 +1,17 @@
+{
+  "country": "Russia",
+  "issue": "Legacy of nuclear weapons, their use and testing",
+  "updated_at": "2025-09-21T17:55:19.399055Z",
+  "entries": [
+    {
+      "source_file": "2023_Russia_Statements_5.pdf",
+      "page": 3,
+      "paragraph_id": 4,
+      "position_summary": "Russia expresses strong support for IAEA technical cooperation, noting its financial contributions to the Technical Cooperation Fund and collaboration with the IAEA. It highlights joint work to remediate uranium legacy sites, underscoring commitment to addressing historical nuclear-related environmental impacts.",
+      "quote": "We highly appreciate the work of the IAEA Secretariat to encourage cooperation between States via the Department of Technical Cooperation and the Department of Nuclear Sciences and Applications. Russia is a donor of the Technical Cooperation Fund. Together with the IAEA, we are implementing a project to remediate uranium legacy sites.",
+      "confidence": 0.82,
+      "weight": 0.41,
+      "tier": "core"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "country": "Russia",
+  "issue": "Emerging and disruptive technologies",
+  "updated_at": "2025-09-21T16:04:12.624005Z",
+  "entries": [
+    {
+      "id": 5,
+      "year": 2025,
+      "doc_type": "statement",
+      "source_file": "2025_Russia_Statements_1.pdf",
+      "page": 2,
+      "paragraph_id": 1,
+      "position_summary": "The country criticizes U.S. expansion of missile defense, development of counterforce first-strike capabilities, forward deployment of ground-based intermediate- and shorter-range missiles, and plans to weaponize outer space. It portrays these steps as escalatory, threatening, and undermining strategic stability and existing arms control norms.",
+      "quote": "increasing scale of the US global missile defence accompanied by the build-up of counterforce capabilities for mounting disarming first strike, forward deployment of the US ground-based intermediate and shorter-range missiles; publicly announced US plans to place weapons in outer space.",
+      "confidence": 0.73,
+      "weight": 0.1825,
+      "tier": "core"
+    }
+  ],
+  "topline_summary": null
+}

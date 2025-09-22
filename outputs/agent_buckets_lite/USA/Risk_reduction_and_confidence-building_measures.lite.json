@@ -1,0 +1,107 @@
+{
+  "country": "USA",
+  "issue": "Risk reduction and confidence-building measures",
+  "updated_at": "2025-09-21T17:55:19.363946Z",
+  "entries": [
+    {
+      "source_file": "2025_USA_Statements_8.pdf",
+      "page": 1,
+      "paragraph_id": 4,
+      "position_summary": "The country welcomes broad support for risk reduction measures and asserts that such measures complement Article VI disarmament objectives, contributing to the prevention of nuclear war. It frames risk reduction as aligned with the NPT’s disarmament commitments.",
+      "quote": "Second, we would like to welcome the progress made on key issues. For example, we welcome the strong support of many States Parties for risk reduction. As we have frequently stated, risk reduction complements Article VI goals and contributes to our common interest in preventing nuclear war.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_5.pdf",
+      "page": 3,
+      "paragraph_id": 3,
+      "position_summary": "The United States supports establishing a Middle East zone free of WMD and delivery systems, contingent on arrangements freely agreed by all regional states. It advocates direct, inclusive dialogue to build confidence and address legitimate security concerns, and is prepared to engage in consensus-based initiatives to implement the 1995 Resolution, noting developments from the UN Conference sessions.",
+      "quote": "Chair, The United States remains committed to the goal of a Middle East zone free of weapons of mass destruction and delivery systems, based on arrangements freely arrived at by all regional states. We are convinced that the only path to progress is through direct, inclusive dialogue aimed at building confidence and addressing the legitimate security concerns of all parties. We are prepared to engage on initiatives to advance implementation of the 1995 Resolution that have consensus regional support. The United States took note of developments during the first three sessions of the UN Conference on the establishment of such a zone,",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_1.pdf",
+      "page": 2,
+      "paragraph_id": 11,
+      "position_summary": "The country commits to concrete risk reduction measures, especially during heightened tensions, to promote stability and build the confidence necessary for further steps. It frames risk reduction as a prerequisite for broader progress.",
+      "quote": "It is why we remain committed to advancing concrete risk reduction measures, measures that are especially needed when tensions are high, in order to promote stability and to provide the confidence needed to pursue further steps.",
+      "confidence": 0.88,
+      "weight": 0.88,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_2.pdf",
+      "page": 4,
+      "paragraph_id": 6,
+      "position_summary": "The country urges Russia to return to compliance with New START and to engage in talks to manage nuclear risks. It supports negotiating a post-2026 nuclear arms control framework.",
+      "quote": "It is time for Russia to return to compliance with New START and engage with us to manage nuclear risks and discuss a post-2026 nuclear arms control framework.",
+      "confidence": 0.88,
+      "weight": 0.44,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_1.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "The country supports arms control engagement, risk reduction measures, and advancing a fissile material cutoff treaty to strengthen the NPT. It also stresses the importance of negative security assurances and calls on all states to uphold the assurances they have given.",
+      "quote": "Steps such as these – on arms control engagement, on risk reduction, and on Cutoff – can help strengthen the NPT’s role as a positive force for restraint and diplomacy. So too do negative security assurances, and we call on all states to uphold the assurances they have given.",
+      "confidence": 0.87,
+      "weight": 0.2175,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_1.pdf",
+      "page": 4,
+      "paragraph_id": 2,
+      "position_summary": "The country calls for using the NPT review process to advance nuclear restraint through renewed arms control and concrete risk-reduction measures. It insists on full compliance with IAEA safeguards and supports expanding peaceful nuclear uses globally.",
+      "quote": "At a time of rising instability and risk, let’s use this review process to advance policies and practices of nuclear restraint, including action on arms control and risk reduction, insisting on full compliance with IAEA safeguards, and facilitating an expansion of peaceful uses on a global scale.",
+      "confidence": 0.87,
+      "weight": 0.174,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_2.pdf",
+      "page": 5,
+      "paragraph_id": 1,
+      "position_summary": "The country criticizes China for refusing to engage in bilateral risk-reduction and arms-control discussions, noting Beijing’s suspension of their bilateral consultations. It implies a desire for such engagement that is not being reciprocated by the PRC.",
+      "quote": "PRC continues to show no interest in engaging bilaterally on risk reduction or arms control, as demonstrated by its suspension of our bilateral consultations.",
+      "confidence": 0.86,
+      "weight": 0.43,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_1.pdf",
+      "page": 2,
+      "paragraph_id": 8,
+      "position_summary": "The country urges Russia and China to engage in arms control and risk-reduction discussions. It offered to negotiate a post‑February 2026 arms control framework without preconditions, but states that Russia has refused to participate.",
+      "quote": "Over the past two years, we have pressed Russia and the PRC to engage on arms control and risk reduction, including by urging Russia to work with us to develop a post-February 2026 arms control framework, which it has refused to do. We offered to do so without preconditions.",
+      "confidence": 0.86,
+      "weight": 0.43,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_1.pdf",
+      "page": 2,
+      "paragraph_id": 10,
+      "position_summary": "The United States is proactively convening expert discussions among the five nuclear-weapon States focused on nuclear doctrines and risk reduction. It seeks to enhance transparency and build confidence despite acknowledged difficulties.",
+      "quote": "That is why the United States has convened multiple expert discussions on nuclear doctrines and risk reduction among the five nuclear-weapon States – despite the obvious difficulties to doing so.",
+      "confidence": 0.86,
+      "weight": 0.43,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_2.pdf",
+      "page": 7,
+      "paragraph_id": 1,
+      "position_summary": "The United States reaffirms its commitment to disarmament consistent with the Thirteen Steps and Article VI, stating readiness to pursue critical arms control measures. It seeks to reduce nuclear risks through bilateral engagement with Russia and China and via the P5 process, despite their current unwillingness to engage.",
+      "quote": "The “Thirteen Steps” clearly identified the need for all Nuclear Weapon States to engage in the disarmament process. It is because of the seriousness with which we take our disarmament-related commitments that President Biden made clear at the UN last September that “no matter what else is happening in the world, the United States is ready to pursue critical arms control measures.” It's also why we will continue to seek to reduce nuclear risks with Russia and the PRC bilaterally and through the P5 process, despite their unwillingness to engage.",
+      "confidence": 0.86,
+      "weight": 0.2866666666666667,
+      "tier": "core"
+    }
+  ]
+}

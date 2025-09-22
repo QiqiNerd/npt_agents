@@ -1,0 +1,107 @@
+{
+  "country": "USA",
+  "issue": "Peaceful uses of nuclear technology",
+  "updated_at": "2025-09-21T17:55:19.326454Z",
+  "entries": [
+    {
+      "source_file": "2023_USA_Statements_6.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "The United States highlights the IAEA’s key role in advancing peaceful uses under NPT Article IV and linking them to the UN Sustainable Development Goals, and seeks broader support for flagship IAEA initiatives (Rays of Hope, ZODIAC, plastics pollution). It underscores its leadership as the largest contributor to IAEA peaceful uses programs, noting over $630 million in voluntary support since 2010, including substantial funding for the Peaceful Uses Initiative and the Technical Cooperation Fund.",
+      "quote": "In this effort, we seek to draw more attention to the IAEA’s critical role in disseminating the benefits of peaceful uses of nuclear science and technology and making a more definitive link between the benefits of peaceful uses derived from the NPT Article IV and the UN’s Sustainable Development Goals. We aim to build support for the flagship initiatives of the IAEA, such as “Rays of Hope” on cancer, the Zoonotic Disease Integrated ACtion project, and Nuclear Technology for Controlling Plastics Pollution. The United States is proud to continue to be the largest contributor to IAEA peaceful uses activities. Since 2010, we have provided voluntary contributions totaling over $630 million to the Agency’s work to promote peaceful uses, including over $150 million to the Peaceful Uses Initiative, and over $320 million to the IAEA’s Technical Cooperation Fund.",
+      "confidence": 0.96,
+      "weight": 0.96,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_6.pdf",
+      "page": 2,
+      "paragraph_id": 2,
+      "position_summary": "The United States emphasizes the broad and growing benefits of peaceful nuclear applications beyond power and underscores its leadership in developing and exporting such technologies. It cites contributions such as advanced radiotherapy and the sterile insect technique to improve global health, agriculture, and related sectors.",
+      "quote": "Chair, The peaceful uses of nuclear science and technology are not limited to nuclear power. Since the NPT came into force over 50 years ago, the breadth of peaceful uses has grown tremendously, encompassing health, food, water, and more. The United States has been a proud leader in this journey. From the development of advanced radiotherapy techniques to diagnose and treat cancer to controlling harmful insect populations around the world with the sterile insect technique, the United States has pioneered technologies and exported them to improve the lives of millions of people worldwide.",
+      "confidence": 0.92,
+      "weight": 0.92,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_7.pdf",
+      "page": 3,
+      "paragraph_id": 3,
+      "position_summary": "The United States reaffirms its commitment to broaden NPT States Parties’ access to peaceful nuclear technologies—particularly those that help address climate change—and to foster cooperation with other States Parties and relevant international organizations, with a focus on supporting developing countries.",
+      "quote": "Finally, I would like to say a few words about the role of nuclear science and technology in tackling a global challenge that affects each of our countries – climate change. The United States has acknowledged again and again the need for urgent action to mitigate the causes of climate change and adapt to its impacts. We are particularly concerned in this regard for countries in the developing world where new, dangerous weather patterns threaten agricultural production and national economic well-being. In this regard, I wish to reaffirm our commitment to broadening access of NPT States Parties to peaceful uses, including technologies that help combat climate change, and to fostering cooperation with other States Parties and relevant international organizations to that end.",
+      "confidence": 0.91,
+      "weight": 0.91,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_6.pdf",
+      "page": 2,
+      "paragraph_id": 4,
+      "position_summary": "The United States emphasizes responsible, sustainable peaceful nuclear uses under the highest safety and security standards and highlights the IAEA’s central role in setting and supporting implementation of these norms. It urges all NPT States Parties to ratify and implement international nuclear safety and security treaties and commitments from the design phase onward.",
+      "quote": "The peaceful uses of the atom must be leveraged responsibly and under the highest standards of nuclear safety and security. The United States continues to prioritize implementing and maintaining these standards because they are essential for sustainability. Safe and secure nuclear technology is technology that citizens can trust, businesses can sell, utilities can rely on, and governments can back. The IAEA plays a critical role here as well by promoting safety standards and security guidance that reflect international consensus and supporting national regulatory bodies to implement these guidelines. We encourage all NPT States Parties to ratify and implement the international treaties and commitments related to nuclear safety and security throughout national planning – beginning with the design phase.",
+      "confidence": 0.91,
+      "weight": 0.30333333333333334,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_8.pdf",
+      "page": 2,
+      "paragraph_id": 2,
+      "position_summary": "The country expresses support for the peaceful applications of nuclear energy, science, and technology. It notes and welcomes the broad, strong backing for these peaceful uses.",
+      "quote": "Finally, we were pleased to hear strong and widespread support for the numerous peaceful applications of nuclear energy, science, and technology.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_6.pdf",
+      "page": 1,
+      "paragraph_id": 1,
+      "position_summary": "Affirms the NPT’s inalienable right to peaceful nuclear uses, emphasizing benefits in energy, health, and agriculture, contingent on compliance with treaty obligations. Signals U.S. intent to promote and expand peaceful nuclear technologies, citing national efforts to strengthen the American nuclear enterprise.",
+      "quote": "Cluster III Statement (Peaceful Uses) NPT PrepCom 2025 Thank you Chair, The Nuclear Nonproliferation Treaty enshrines the “inalienable right” of all States Parties to leverage nuclear energy for peaceful purposes in conformity with their obligations under the Treaty so that we may leverage the peaceful atom in areas of energy, health, and agriculture. President Eisenhower envisioned this potential for nuclear science and technology in his Atoms for Peace speech over 70 years ago. Today, President Trump is furthering these efforts by unleashing the ingenuity and strength of the American nuclear enterprise.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_6.pdf",
+      "page": 2,
+      "paragraph_id": 3,
+      "position_summary": "The United States underscores the IAEA’s key role in enabling peaceful uses of nuclear science and technology, noting it has provided over $690 million in extra-budgetary support since 2010. It urges other States to increase support to the IAEA to advance shared NPT commitments.",
+      "quote": "The IAEA is the global clearinghouse in providing technical support and capacity building to Member States for the peaceful use of nuclear science and technology. Since 2010, the United States has provided over $690 million – the single largest contribution – in extra- budgetary funding and in-kind contributions to help the IAEA respond to the priorities of Member States. We call on States in a position to do so and who value this work to increase their support to the Agency to help us realize our shared commitment to the NPT.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_1.pdf",
+      "page": 2,
+      "paragraph_id": 1,
+      "position_summary": "Supports establishing a cooperative framework to promote peaceful uses of nuclear energy, science, and technology. Emphasizes facilitation of collaboration and access under the NPT’s peaceful uses pillar.",
+      "quote": "creating a framework that enables cooperation on the peaceful uses of nuclear energy, science, and technology.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_6.pdf",
+      "page": 1,
+      "paragraph_id": 2,
+      "position_summary": "The United States emphasizes strong support for NPT States Parties to access and benefit from peaceful applications of nuclear energy, science, and technology. It affirms a firm commitment to the NPT’s objectives, particularly the full realization of peaceful uses.",
+      "quote": "In the past year, the United States has continued its extraordinary efforts to support NPT States Parties seeking to benefit from the peaceful applications of nuclear energy, science, and technology in accordance with the Treaty. The United States is profoundly committed to the provisions and purposes of the NPT, including the full realization of the benefits of peaceful uses.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_6.pdf",
+      "page": 1,
+      "paragraph_id": 3,
+      "position_summary": "The United States highlights the role of nuclear science and technology in advancing sustainable development, including climate, food, water, and health goals. It supports expanding access to peaceful uses assistance to help achieve the UN SDGs.",
+      "quote": "At the 2000 NPT Review Conference, NPT States Parties recognized, “the importance of the concept of sustainable development as a guiding principle for the peaceful uses of nuclear energy.” The United States emphasizes that innovative, science-based solutions are needed to address global challenges in climate change, food and clean water, and protecting human and animal health. Nuclear science and technology advances are poised to help advance progress towards the UN Sustainable Development Goals, or SDGs, and we are committed to doing more to overcome barriers to accessing peaceful uses assistance.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    }
+  ]
+}

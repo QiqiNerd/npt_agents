@@ -1,0 +1,107 @@
+{
+  "country": "USA",
+  "issue": "Regional proliferation challenges including the the Democratic People's Republic of Korea, Iran and Joint Comprehensive Plan of Action",
+  "updated_at": "2025-09-21T17:55:19.334915Z",
+  "entries": [
+    {
+      "source_file": "2025_USA_Statements_4.pdf",
+      "page": 2,
+      "paragraph_id": 4,
+      "position_summary": "The United States insists Iran must never acquire a nuclear weapon and supports a negotiated resolution/new deal that addresses international concerns while enabling Iranian prosperity. It reports constructive talks toward such an agreement but notes more work remains.",
+      "quote": "As we have said con�nuously, Iran can never be allowed to obtain a nuclear weapon. The Trump administra�on believes that a nego�ated resolu�on – one that addresses the interna�onal community’s concerns while advancing Iranian prosperity – remains within reach. Talks toward a new deal with Iran have been construc�ve, and much more work remains to be done.",
+      "confidence": 0.93,
+      "weight": 0.93,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_1.pdf",
+      "page": 2,
+      "paragraph_id": 3,
+      "position_summary": "The country condemns the DPRK’s accelerating nuclear and ballistic missile programs as unlawful and in violation of UN Security Council resolutions, and calls on NPT States Parties to join in denouncing this behavior.",
+      "quote": "• The DPRK is accelerating its unlawful nuclear weapons and ballistic missile programs in violation of multiple UN Security Council resolutions. We hope States Parties will join us in condemning its reckless and destabilizing behavior.",
+      "confidence": 0.93,
+      "weight": 0.93,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_4.pdf",
+      "page": 2,
+      "paragraph_id": 3,
+      "position_summary": "The country views Iran’s nuclear program as a prime challenge to the nonproliferation regime, asserting that Iran is producing highly enriched uranium without a credible civilian justification. It also accuses Iran of disregarding its NPT-mandated comprehensive safeguards obligations.",
+      "quote": "Despite the successes of the NPT in its 55 years in force, stressors con�nue to challenge the nonprolifera�on regime. Prime among these challenges con�nues to be Iran’s nuclear program Iran con�nues to accelerate its produc�on of highly enriched uranium – a material for which Iran has no credible civilian purpose. No other country in the world is enriching to this level that does not also possess nuclear weapons. Moreover, Iran has disregarded its obliga�ons under its NPT- mandated comprehensive safeguards agreement.",
+      "confidence": 0.93,
+      "weight": 0.465,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_5.pdf",
+      "page": 2,
+      "paragraph_id": 4,
+      "position_summary": "The United States opposes Iran developing or acquiring nuclear weapons and seeks to resolve the issue peacefully through diplomacy, implying support for negotiated solutions such as the JCPOA framework.",
+      "quote": "The president has made clear that the United States will not allow Iran to develop or acquire a nuclear weapon. It is our strong preference that this issue be resolved peacefully, through diplomatic means.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_1.pdf",
+      "page": 2,
+      "paragraph_id": 5,
+      "position_summary": "The country condemns the DPRK for advancing its WMD and ballistic missile programs, characterizing them as destabilizing and in violation of multiple UN Security Council resolutions.",
+      "quote": "The DPRK is advancing its destabilizing weapons of mass destruction and ballistic missile programs in violation of multiple UN Security Council resolutions.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_5.pdf",
+      "page": 3,
+      "paragraph_id": 1,
+      "position_summary": "The statement condemns the DPRK’s continued advancement of unlawful WMD and ballistic missile programs in violation of UN Security Council resolutions. It urges all NPT States Parties to fully implement these resolutions as a prerequisite for productive dialogue aimed at reversing the DPRK’s programs.",
+      "quote": "We note that the DPRK also continues to advance unlawful WMD and ballistic missile programs through sanctions evasion, violating multiple UN Security Council resolutions. We call upon all states parties to fully implement these resolutions, which is necessary for dialogue to play a role in reversing the DPRK’s WMD and missile programs.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_5.pdf",
+      "page": 2,
+      "paragraph_id": 3,
+      "position_summary": "The United States warns that Iran is escalating its nuclear program by producing highly enriched uranium and failing to fully cooperate with the IAEA. It argues that Iran is not meeting its safeguards obligations, preventing the Agency from assuring the program is exclusively peaceful.",
+      "quote": "The United States is profoundly concerned by Tehran’s sustained path of nuclear escalation. Iran is the only country without nuclear weapons that is producing highly enriched uranium. For five years, Iran has refused to fully cooperate with the IAEA and abide by its safeguards commitments; due to this intransigence, the Agency remains unable to provide critical assurances that the program is exclusively peaceful.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_1.pdf",
+      "page": 2,
+      "paragraph_id": 6,
+      "position_summary": "The statement condemns Iran for accelerating production and accumulation of highly enriched uranium without a credible civilian purpose, noting this level of enrichment is atypical for non-nuclear-weapon states. It further alleges Iran is disregarding its NPT-mandated comprehensive safeguards obligations.",
+      "quote": "Iran has accelerated its production and accumulation of highly enriched uranium – a material for which Iran has no credible civilian purpose. No other country in the world is enriching to this level that does not also possess nuclear weapons. Moreover, Iran has disregarded its obligations under its NPT-mandated comprehensive safeguards agreement.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_5.pdf",
+      "page": 1,
+      "paragraph_id": 3,
+      "position_summary": "The statement criticizes Iran for failing to cooperate with the IAEA on undeclared nuclear material, not implementing its Additional Protocol and modified Code 3.1, and expanding enrichment to 60% with advanced centrifuges. It argues these actions lack a credible civilian purpose and urges collective pressure for Iran to comply with its safeguards obligations.",
+      "quote": "Equally concerning are Iran’s failures to provide the IAEA with technically credible clarifications regarding undeclared locations where the IAEA detected the presence of nuclear material. Iran is not implementing its Additional Protocol and modified Code 3.1 of its safeguards subsidiary arrangements, both of which remain in force. Iran is also expanding its uranium enrichment infrastructure, deploying advanced centrifuges and producing HEU up to 60%, none of which have a credible civilian purpose. We must all insist that Iran",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_1.pdf",
+      "page": 1,
+      "paragraph_id": 7,
+      "position_summary": "The country condemns the DPRK’s ongoing unlawful nuclear and ballistic missile programs, viewing them as a threat to international peace and security and to the global nonproliferation regime.",
+      "quote": "The DPRK continues its unlawful nuclear and ballistic missile programs, threatening international peace and security and the global nonproliferation regime.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    }
+  ]
+}

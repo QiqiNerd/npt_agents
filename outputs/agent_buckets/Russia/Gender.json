@@ -1,0 +1,99 @@
+{
+  "country": "Russia",
+  "issue": "Gender",
+  "updated_at": "2025-09-21T16:04:12.624005Z",
+  "entries": [
+    {
+      "id": 1063,
+      "year": 2025,
+      "doc_type": "working_paper",
+      "source_file": "2025_Russia_WP_1.pdf",
+      "page": 1,
+      "paragraph_id": 1,
+      "position_summary": "Russia argues that gender equality has been overemphasized in the nuclear non-proliferation, disarmament, and peaceful uses domain. It notes that gender issues are now embedded across UN and IAEA agendas and major nuclear-related forums, implying skepticism about this level of focus.",
+      "quote": "NPT /CONF.2026/PC.III/WP.4 Preparatory Committee for the 2026 Review Conference of the Parties to the Treaty on the 3 March 2025 Non-Proliferation of Nuclear Weapons English Original: Russian Third session New York, 28 April–9 May 2025 Russian approaches to gender equality in the context of nuclear non-proliferation, disarmament and the peaceful use of nuclear energy Working paper submitted by the Russian Federation Over the past few decades, gender equality (i.e. equality between men and women) in the field of nuclear non-proliferation, disarmament and the peaceful use of nuclear energy has perhaps been given too much importance. In one form or another, this issue is reflected in the agenda of virtually all major specialized events organized by the United Nations, the International Atomic Energy Agency (IAEA) and other international venues. In particular, this issue is actively discussed at meetings of the First Committee of the General Assembly, the Conference on Disarmament, the preparatory committees and review conferences of the Parties to the Treaty on the Non-Proliferation of Nuclear Weapons, and sessions of the IAEA Board of Governors and General Conference.",
+      "confidence": 0.88,
+      "weight": 0.88,
+      "tier": "core"
+    },
+    {
+      "id": 1067,
+      "year": 2025,
+      "doc_type": "working_paper",
+      "source_file": "2025_Russia_WP_1.pdf",
+      "page": 1,
+      "paragraph_id": 5,
+      "position_summary": "The country argues that merit and professionalism, not gender, should guide appointments in non-proliferation, disarmament, and peaceful nuclear use. It rejects the use of gender perspectives for what it calls manipulation and opposes artificial quotas to increase women's representation.",
+      "quote": "Taking all of the above into account, we believe that the key criterion in the field of nuclear non-proliferation, disarmament and the peaceful use of nuclear energy should remain the professionalism of the candidate, regardless of his or her gender. It is unacceptable to use gender perspectives for manipulation of any kind. In recent years, initiatives aimed at establishing various artificial quotas to ensure women’s 25-03547 (E) 040325 060325 *2503547*",
+      "confidence": 0.88,
+      "weight": 0.88,
+      "tier": "core"
+    },
+    {
+      "id": 1068,
+      "year": 2025,
+      "doc_type": "working_paper",
+      "source_file": "2025_Russia_WP_1.pdf",
+      "page": 2,
+      "paragraph_id": 1,
+      "position_summary": "The country opposes participation quotas and argues that equality should not be reduced to numerical targets. It supports merit-based selection regardless of gender, emphasizing professional skills, knowledge, and competence over quotas.",
+      "quote": "NPT/CONF.2026/PC.III/WP.4 participation have been very popular in various arenas. Often such quotas are higher on the priority scale than overcoming real-world discriminatory barriers. We are convinced that equality should not become a proverbial numbers game. We believe that the promotion of any candidate, regardless of gender, should be based on their professional skills, knowledge and competence.",
+      "confidence": 0.88,
+      "weight": 0.88,
+      "tier": "core"
+    },
+    {
+      "id": 1069,
+      "year": 2025,
+      "doc_type": "working_paper",
+      "source_file": "2025_Russia_WP_1.pdf",
+      "page": 2,
+      "paragraph_id": 2,
+      "position_summary": "The country expresses readiness to share its experience, adopt best practices from other states, and engage with the international community on all aspects of gender equality, emphasizing professionalism. It signals openness to collaboration and knowledge exchange on gender within the NPT context.",
+      "quote": "For our part, we reaffirm our readiness to share our experience in addressing issues in this area, to use the positive practices of other States and to remain open to engaging with the international community on all aspects of gender equality issues, with due regard for the principle of professionalism. 2/2 25-03547",
+      "confidence": 0.86,
+      "weight": 0.86,
+      "tier": "core"
+    },
+    {
+      "id": 1066,
+      "year": 2025,
+      "doc_type": "working_paper",
+      "source_file": "2025_Russia_WP_1.pdf",
+      "page": 1,
+      "paragraph_id": 4,
+      "position_summary": "The country supports strengthening gender equality and gender mainstreaming within the NPT, particularly in the review process, and endorses achieving gender balance. It aligns with the Preparatory Committee’s emphasis on these priorities.",
+      "quote": "Recently, many States Parties to the Treaty on the Non-Proliferation of Nuclear Weapons have emphasized the importance of strengthening gender equality and gender mainstreaming in the Treaty’s review process. The session of the Preparatory Committee for the 2024 Review Conference made strong reference to the need for gender balance.",
+      "confidence": 0.86,
+      "weight": 0.43,
+      "tier": "core"
+    },
+    {
+      "id": 1064,
+      "year": 2025,
+      "doc_type": "working_paper",
+      "source_file": "2025_Russia_WP_1.pdf",
+      "page": 1,
+      "paragraph_id": 2,
+      "position_summary": "The country affirms that the Beijing 1995 and UNGA 2000 outcomes provide a roadmap for states on gender-related efforts, implying support for integrating these frameworks into NPT-related work. It emphasizes using these agreed UN benchmarks to guide action on gender.",
+      "quote": "The outcomes of the Fourth World Conference on Women (Beijing, 1995) and of the twenty-third special session of the General Assembly (New York, 2000) provide a road map for States in this regard.",
+      "confidence": 0.84,
+      "weight": 0.84,
+      "tier": "core"
+    },
+    {
+      "id": 1065,
+      "year": 2025,
+      "doc_type": "working_paper",
+      "source_file": "2025_Russia_WP_1.pdf",
+      "page": 1,
+      "paragraph_id": 3,
+      "position_summary": "The country highlights the Women, Peace and Security agenda, citing UNSC resolution 1325 (2000) as foundational in recognizing women’s special role in building lasting peace. It underscores the importance of women’s participation in peacebuilding processes.",
+      "quote": "However, the origins of the debate on the role of women in achieving international peace appear to date back to 2000, when the Security Council adopted resolution 1325 (2000) on women and peace and security. For the first time in the history of the United Nations, this set out the special role of women in building lasting peace.",
+      "confidence": 0.77,
+      "weight": 0.77,
+      "tier": "core"
+    }
+  ],
+  "topline_summary": null
+}

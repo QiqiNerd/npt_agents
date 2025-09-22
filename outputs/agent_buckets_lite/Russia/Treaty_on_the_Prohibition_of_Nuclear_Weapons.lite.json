@@ -1,0 +1,57 @@
+{
+  "country": "Russia",
+  "issue": "Treaty on the Prohibition of Nuclear Weapons",
+  "updated_at": "2025-09-21T17:55:19.399690Z",
+  "entries": [
+    {
+      "source_file": "2023_Russia_Statements_2.pdf",
+      "page": 2,
+      "paragraph_id": 3,
+      "position_summary": "The country opposes the TPNW, arguing it was hastily negotiated and is counterproductive, deepening divisions among NPT parties and weakening the NPT’s viability. While supporting the ultimate goal of a nuclear-weapon-free world, they reject the TPNW as a means to achieve it.",
+      "quote": "Guided by these considerations, we have consistently stated that such endeavors as the TPNW are counterproductive. While sharing the idea of a nuclear-weapon-free world as the ultimate goal of nuclear disarmament, we are at the same time con- vinced that the hasty drafting and conclusion of the TPNW have not brought this goal closer. They have only deepened the divisions among the parties to the NPT and thereby have weakened its viability.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_2.pdf",
+      "page": 1,
+      "paragraph_id": 5,
+      "position_summary": "The country rejects the TPNW, calling it counter-productive and unworkable in the current security environment. It opposes the immediate outlawing of nuclear weapons, implying continued reliance on them for national and international security.",
+      "quote": "In the current extremely adverse international security environment, we believe it to be twice as obvious that any concepts involving \"short cuts\" to a nuclear-weapon-free world, including immediately outlawing nuclear weapons as a means of ensuring security, are unworkable. We continue to consider such initiatives, including the TPNW, counter-productive, as they cannot bring us any",
+      "confidence": 0.84,
+      "weight": 0.42,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_1.pdf",
+      "page": 4,
+      "paragraph_id": 3,
+      "position_summary": "The country rejects immediate bans and rigid deadlines for achieving nuclear zero, arguing such approaches are counterproductive and contradict the NPT’s logic. It favors a gradual, security-conditions-based path to disarmament rather than radical measures like the TPNW. Nuclear disarmament must enhance overall security, not simply remove weapons from an unchanged strategic environment.",
+      "quote": "In the current circumstances, the validity of the argument we have consistently advocated about the counter-productivity of those approaches to nuclear disarmament that imply an immediate and complete ban on nuclear weapons or the establishment of both tight and artificial deadlines for reaching \"nuclear zero\" becomes doubly evident. It is important to understand that a sustainable and secure nuclear-weapon-free world is not equal to the world in its current deplorable state minus nuclear weapons. Radicalism contradicts the NPT logic and will not lead to the ultimate goal of enhanced security for all.",
+      "confidence": 0.84,
+      "weight": 0.27999999999999997,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_Russia_Statements_3.pdf",
+      "page": 3,
+      "paragraph_id": 1,
+      "position_summary": "The country rejects immediate outlawing of nuclear weapons and artificial disarmament deadlines, arguing these ignore strategic realities, the security interests of nuclear-weapon states, and the principle of undiminished security. It insists disarmament must occur in the context of general and complete disarmament and warns that non-consensus initiatives like the TPNW undermine consensus and the NPT forum's sustainability.",
+      "quote": "3 We believe that any ideas of a 'short cut' to 'nuclear zero' through immediate and unconditional renunciation and outlawing of nuclear weapons are unworkable and counter-productive. So are any attempts to set artificial deadlines for disarmament, especially in the current highly turbulent and unpredictable international environment. Such ideas fail to take into account the politico-military and strategic realities, disregard the security interests of nuclear-weapon States, run counter to the principle of undiminished security and are set outside the context of general and complete disarmament. Attempts to push forward such non-consensus initiatives only exacerbate the contradictions at the NPT forum, which would be detrimental to the sustainability of the nuclear non-proliferation regime.",
+      "confidence": 0.83,
+      "weight": 0.2075,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_2.pdf",
+      "page": 2,
+      "paragraph_id": 2,
+      "position_summary": "Russia endorses NPT-based, step-by-step disarmament and rejects ‘shortcuts’ to abolition, specifically opposing the idea of simply outlawing nuclear weapons (TPNW). It asserts disarmament should proceed within the NPT framework rather than through a prohibition treaty.",
+      "quote": "Russia remains strongly committed to this approach, which was originally enshrined in the NPT. We believe that schemes involving a \"shortcut\" to \"nuclear zero\", including by simply outlawing nuclear weapons, are completely unfeasible.",
+      "confidence": 0.8,
+      "weight": 0.4,
+      "tier": "core"
+    }
+  ]
+}

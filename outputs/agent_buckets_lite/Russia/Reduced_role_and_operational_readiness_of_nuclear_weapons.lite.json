@@ -1,0 +1,37 @@
+{
+  "country": "Russia",
+  "issue": "Reduced role and operational readiness of nuclear weapons",
+  "updated_at": "2025-09-21T17:55:19.406237Z",
+  "entries": [
+    {
+      "source_file": "2023_Russia_Statements_2.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "The country argues that nuclear weapons are essential to its security and deterrence in light of perceived NATO threats and the Ukraine crisis. It rejects further reductions of its nuclear arsenal, indicating that disarmament steps or a reduced role for nuclear weapons are not feasible under current conditions.",
+      "quote": "At this stage the continued possession of nuclear weapons is for our country the only possible response to certain external threats. The Ukrainian crisis pro- voked and fueled by the West has confirmed the validity of our concerns. Having flagrantly violated the principle of equal and indivisible security, the NATO bloc has staked on malicious expansion aimed at weakening our country. The West used our forced response to protect our external security contour as a pretext to move to an open power game against Russia, dangerously teetering on the brink of direct military confrontation. Under these circumstances, further reductions in our coun- try's nuclear weapons would not only dramatically decrease its security, but would actually turn the idea of large-scale aggression against Russia into a very realistic option for NATO countries, which have a significant advantage in conventional weapons.",
+      "confidence": 0.83,
+      "weight": 0.2075,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_2.pdf",
+      "page": 2,
+      "paragraph_id": 5,
+      "position_summary": "Russia claims it is fulfilling its NPT obligations by contributing to tangible reductions in nuclear weapons. It asserts it has consistently reduced the role of nuclear weapons in its military doctrine and that its nuclear deterrence policy is exclusively defensive.",
+      "quote": "Fulfilling its obligations under the NPT, Russia has made a significant con- tribution to the process of real nuclear weapons reductions and has consistently diminished the place and role of nuclear weapons in its Military Doctrine over decades. Our State policy in the field of nuclear deterrence is exclusively defensive",
+      "confidence": 0.78,
+      "weight": 0.26,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_2.pdf",
+      "page": 2,
+      "paragraph_id": 4,
+      "position_summary": "Russia argues that nuclear deterrence must remain a central component of its security policy due to growing external threats to its vital interests. This implies opposition to reducing the role of nuclear weapons at this time.",
+      "quote": "This is an objective reality that in the current situation, Russia has to retain nuclear deterrence as an integral component of its efforts to address specific external threats, which continue to increase, affecting our country's vital interests.",
+      "confidence": 0.76,
+      "weight": 0.38,
+      "tier": "core"
+    }
+  ]
+}

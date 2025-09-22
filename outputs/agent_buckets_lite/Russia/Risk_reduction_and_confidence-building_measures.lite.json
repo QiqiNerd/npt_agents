@@ -1,0 +1,107 @@
+{
+  "country": "Russia",
+  "issue": "Risk reduction and confidence-building measures",
+  "updated_at": "2025-09-21T17:55:19.405183Z",
+  "entries": [
+    {
+      "source_file": "2023_Russia_Statements_2.pdf",
+      "page": 4,
+      "paragraph_id": 2,
+      "position_summary": "Russia asserts it sought a comprehensive U.S.–Russia dialogue on strategic stability, focusing on risk reduction and arms control in the Euro-Atlantic region. It argues the United States failed to respect Russia’s core interests and then halted the nascent talks, using the Ukraine situation— which Russia says Washington provoked— as a pretext.",
+      "quote": "Prior to the current crisis, Russia initiated a dialogue with the U.S. to find ways to comprehensively resolve the unsatisfactory military and political situation in the Euro-Atlantic region, as well as to ensure strategic stability by means of risk reduction and arms control. We sought substantive work to minimize conflict po- tential and formulate a new \"security equation.\" However, the dialogue that had barely begun was devalued by the United States' refusal to respect our fundamental interests and its general anti-Russian policy, and then interrupted by Washington under the pretext of the developments around Ukraine, which it itself had pro- voked.",
+      "confidence": 0.88,
+      "weight": 0.29333333333333333,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_2.pdf",
+      "page": 4,
+      "paragraph_id": 2,
+      "position_summary": "Russia claims it is reducing nuclear risks and maintaining predictability by voluntarily observing New START’s quantitative limits on strategic offensive arms despite the treaty’s suspension.",
+      "quote": "While the conditions for such dialogue are missing, Russia continues to take a number of relevant measures to reduce nuclear danger and maintain acceptable level of predictability and stability in the nuclear and missile sphere. Those include voluntary observance of quantitative restrictions on strategic offensive arms stipulated in the suspended New START Treaty, throughout its duration.",
+      "confidence": 0.84,
+      "weight": 0.27999999999999997,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_2.pdf",
+      "page": 6,
+      "paragraph_id": 2,
+      "position_summary": "The country advocates for nuclear risk reduction as part of a comprehensive effort to minimize strategic risks, integrated with repairing the broader international security architecture. It emphasizes reducing potential conflict among nuclear-weapon States by addressing root causes through equitable dialogue.",
+      "quote": "As a matter of principle, we believe that nuclear risk reduction should be con- sidered in the broader context of minimizing strategic risks and on the basis of a com- prehensive approach that takes into account the combination of relevant factors in their interrelationship. New steps in this area should be seamlessly integrated into the process of repairing the undermined international security architecture and minimiz- ing the potential for conflict between nuclear-weapon States by addressing the root causes of the contradictions that arise between them through equitable dialogue.",
+      "confidence": 0.83,
+      "weight": 0.83,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_2.pdf",
+      "page": 1,
+      "paragraph_id": 2,
+      "position_summary": "The country argues that progress on nuclear disarmament must be conditioned by the broader international security environment and conducted on the basis of undiminished security for all. It invokes the NPT preamble, the 2000 ‘13 steps,’ and the 2010 Action Plan to stress that easing tensions and building trust are prerequisites for sustainable disarmament.",
+      "quote": "We note that many participants have shown their unwillingness to adequate- ly and pragmatically take into account, in the disarmament context, the state of the security environment, which is not limited to nuclear aspects alone. Meanwhile, the link between progress towards nuclear disarmament and the overall interna- tional security situation was evident for the authors of the NPT and was explicitly incorporated by them into the context of the Treaty. It is worth recalling that its preamble refers to the desire of States \"to further the easing of international tension and the strengthening of trust between States in order to facilitate the cessation of the manufacture of nuclear weapons, the liquidation of all their existing stockpiles, and the elimination from national arsenals of nuclear weapons and the means of their delivery pursuant to a Treaty on general and complete disarmament under strict and effective international control.\" Fundamental understandings regarding the conditions necessary to ensure the consistency and sustainability of nuclear disarmament have been developed and supplemented throughout the NPT duration. The 2000 \"13 steps\" underlined the need to implement the steps leading to nuclear disarmament in a way that pro- motes international stability, and based on the principle of undiminished security for all. The 2010 Action Plan further elaborates on this formula and envisages that",
+      "confidence": 0.8,
+      "weight": 0.4,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_2.pdf",
+      "page": 5,
+      "paragraph_id": 1,
+      "position_summary": "Russia blames the United States for the freeze of New START and the collapse of INF, but says it continues to observe New START’s central limits and exchange launch notifications. It also maintains a unilateral moratorium on deploying ground-launched intermediate- and shorter-range missiles, warning this may change if the U.S. proceeds with such deployments in Europe and the Asia-Pacific.",
+      "quote": "5 Given the \"freezing\" of the New START Treaty and the earlier collapse of the INF Treaty caused by the United States, Russia is taking a number of measures to maintain predictability and stability in the nuclear missile sphere. We continue to adhere to the central quantitative limits stipulated in the New START Treaty, in- form the United States of launches of ICBMs and SLBMs through an exchange of relevant notifications, and observe a unilateral moratorium on the deployment of ground launched intermediate- and shorter-range missiles until similar U.S.-made weapons emerge in relevant regions. At the same time, this moratorium is under serious pressure in view of the Pentagon's active preparations for the deployment of ground-launched intermediate- and shorter-range missiles in Europe and the Asia-Pacific region.",
+      "confidence": 0.79,
+      "weight": 0.26333333333333336,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_2.pdf",
+      "page": 4,
+      "paragraph_id": 3,
+      "position_summary": "The country criticizes U.S. plans to deploy ground-launched intermediate and shorter-range missiles as destabilizing and likely to trigger an action–reaction cycle by others. It notes Russia’s unilateral moratorium on deploying similar systems but warns this restraint may collapse due to U.S. actions.",
+      "quote": "However, even such efforts may be undermined by Washington's destabilizing policy. In particular, as the United States advances its plans to deploy its ground-launched intermediate and shorter-range missiles in different parts of the world, Russia's unilateral moratorium on the deployment of similar systems is hanging by a thread. There are some other countries that will have to respond to Washington's steps in this area. As a result, the chain of actions and reactions initiated by the United States will inevitably cause a new and extremely dangerous surge in negative dynamics.",
+      "confidence": 0.78,
+      "weight": 0.39,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_4.pdf",
+      "page": 3,
+      "paragraph_id": 1,
+      "position_summary": "The country supports the dialogue on establishing a Middle East WMD-free zone under consensus-based rules of procedure for both procedural and substantive matters. It views this dialogue as a confidence-building measure that contributes to improving inter-State relations in the region.",
+      "quote": "3 whenever it deems it possible, as was elaborated when the forum rules of procedure were agreed: they are based on the principle of consensus on both procedural and substantive issues. The dialogue on the Middle East WMD-free zone, which has an element of confidence building, is inherently incorporated into the positive momentum for improving inter-State relations in the region.",
+      "confidence": 0.78,
+      "weight": 0.39,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_Russia_WP_2.pdf",
+      "page": 2,
+      "paragraph_id": 9,
+      "position_summary": "The country supports the Conference’s consensus-only decision-making and the creation of an intersessional working committee, seeing these modalities as enabling deeper substantive discussion and building trust among regional states. It views these steps as constructive for advancing a WMD-free zone in the Middle East.",
+      "quote": "Crucially, the participants have agreed that all decisions of the Conference, whether procedural or substantive, will be taken solely by consensus. It is also significant that the participating States have established an intersessional working committee, which allows for a more substantive and in-depth discussion of issues related to the mandate of the Conference, which in turn plays an important role in building trust among the countries of the region.",
+      "confidence": 0.78,
+      "weight": 0.26,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_5.pdf",
+      "page": 2,
+      "paragraph_id": 1,
+      "position_summary": "The delegation notes the lapse of the Working Group’s mandate and favors addressing review-process matters—including universality and withdrawal—within Cluster 3 as before. It argues that strengthening the review process should not focus solely on nuclear-weapon States’ transparency; transparency and confidence-building are means to advance arms control, disarmament, and non-proliferation. Citing Article VI, it stresses that nuclear disarmament sits within general and complete disarmament and that both nuclear-weapon and non-nuclear-weapon States should report on implementing their disarmament obligations.",
+      "quote": "2 The mandate of the Working Group on further strengthening the review process of the Treaty expired, and there has been no decision to extend it. Now these matters can be discussed exclusively as a cluster 3-specific issue among other issues, which include the NPT universalization, withdrawal from the Treaty, etc., as they were discussed before. In addition, the deliberations on the strengthening of the NPT review process should not be confined to discussing the nuclear-weapon States' transparency and accountability. Transparency and other confidence- building measures are not an end in themselves, but rather a means of addressing arms control, disarmament and non-proliferation challenges. What is more, it should be remembered that Article VI of the NPT puts nuclear disarmament within the context of the general and complete disarmament. Hence, both nuclear-weapon and non-nuclear-weapon States should report on the implementation of their disarmament obligations.",
+      "confidence": 0.76,
+      "weight": 0.10857142857142857,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_2.pdf",
+      "page": 4,
+      "paragraph_id": 1,
+      "position_summary": "The country criticizes the United States and NATO for undermining arms control frameworks and promoting unfair strategic risk reduction initiatives that serve U.S. interests. It states that strategic dialogue with the West is pointless until Washington and NATO respect its security interests and the principle of equality.",
+      "quote": "4 instruments that restrained it, and, on the other hand, took destructive steps that rendered the implementation of a number of treaties counter-productive for other parties. All this highlights the hypocrisy of the United States' attempts to impose on its opponents unfair arms control and strategic risk reduction schemes that do not correspond to the realities and benefit no one but Washington. Until Washington and the U.S.-led NATO, who renounce the principle of equality and show no readiness to respect our security interests, abandon their profoundly hostile anti- Russian policy, strategic dialogue with the West remains pointless to Russia.",
+      "confidence": 0.74,
+      "weight": 0.37,
+      "tier": "core"
+    }
+  ]
+}

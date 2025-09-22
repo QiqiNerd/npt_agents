@@ -1,0 +1,107 @@
+{
+  "country": "USA",
+  "issue": "Transparency and accountability of nuclear arsenals and doctrines",
+  "updated_at": "2025-09-21T17:55:19.323959Z",
+  "entries": [
+    {
+      "source_file": "2025_USA_Statements_7.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "The United States highlights its recent disclosures of stockpile numbers and transparency on nuclear doctrine, budgets, and modernization, noting similar efforts by France and the UK. It urges Russia and China to adopt equivalent levels of transparency and accountability.",
+      "quote": "For example, the United States has published the number of weapons in our nuclear stockpile twice in the past four years, including most recently last year. We have also been transparent with respect to nuclear doctrine, military budgets, and nuclear modernization. France and the UK have also demonstrated a commitment to transparency, including through the presentation of their national reports during side events during this PrepCom. We call on Russia and China to commit to the same level of transparency and accountability that we have demonstrated.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_8.pdf",
+      "page": 3,
+      "paragraph_id": 3,
+      "position_summary": "The United States emphasizes transparency by annually publishing the Stockpile Stewardship and Management Plan along with detailed budget information for Congress and the public. This signals openness about nuclear stockpile management and associated funding.",
+      "quote": "Separately, we release a detailed report every year, titled the Stockpile Stewardship and Management Plan. Both this document and equally detailed budget information are made available to the U.S. Congress and the public each year.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_WP_1.pdf",
+      "page": 3,
+      "paragraph_id": 4,
+      "position_summary": "The United States emphasizes its consistent national reporting on NPT implementation and notes the growth in reporting by States parties. It supports dedicating formal time at PrepCom and Review Conferences for presenting and discussing national reports to enhance transparency and accountability.",
+      "quote": "8. The United States has reported consistently on its own implementation of the Non-Proliferation Treaty and actions to strengthen the Treaty regime across all three pillars, including to the 2014 Preparatory Conference, the 2015 Review Conference and, most recently, the 2022 Review Conference (NPT/CONF.2020/57), using a reporting format adopted by the nuclear-weapon States. The practice of submitting national reports has grown steadily and is now well established. In 2015, 22 States parties submitted national reports, and in 2022, 40 States parties did so. These reports have usually been presented in side events, as there has not been place for such presentations at formal meetings of the Preparatory Committee or the Review Conference. The United States would support dedicating time at those formal meetings for presentation and interactive discussion of national reports. Such discussions would provide an enhanced mechanism for transparency and accountability.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_2.pdf",
+      "page": 2,
+      "paragraph_id": 1,
+      "position_summary": "The United States supports CTBT entry into force, backs its verification regime, funds and supplies IMS data, and continues its zero‑yield testing moratorium while urging China and Russia to adhere to similar moratoria and the DPRK to declare and maintain one, with greater transparency from all. It hosts observers at the Nevada National Security Site and commits to transparency in stockpile stewardship. The United States also supports negotiating an FMCT at the Conference on Disarmament in line with CD/1299 as a key next step toward disarmament.",
+      "quote": "2000 Steps One and Two; 2010 Actions Ten through Fourteen: CTBT and Test Moratorium: On Steps One and Two, the United States remains committed to the CTBT’s entry into force and strongly supports the treaty’s verification regime. The United States is the largest financial contributor to the CTBTO PrepCom, provides significant voluntary contributions, and maintains high data availability from the IMS stations the United States is responsible for. The United States has not conducted a nuclear explosive test since 1992 and continues to observe its zero- yield moratorium on nuclear explosive testing. We urge the PRC and Russia to adhere to their respective zero-yield moratoria on nuclear explosive testing and the DPRK to declare and maintain such moratorium. We also urge the PRC, Russia, and the DPRK to provide transparency into their testing programs. For its part, the United States has continued hosting international observers at the Nevada National Security Site (NNSS), and we are committed to transparency in our stockpile stewardship and nonproliferation activities at NNSS and other nuclear security enterprise sites. 2000 Steps Three and Four; 2010 Actions Six and Fifteen: Progress on FMCT and Other Efforts at the CD: On Steps Three and Four, we support negotiation of an FMCT at the Conference on Disarmament as the essential next multilateral step toward achieving the ultimate goal of a world without nuclear weapons. Negotiations, which should take place in accordance with CD/1299, are long overdue.",
+      "confidence": 0.9,
+      "weight": 0.18,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_1.pdf",
+      "page": 3,
+      "paragraph_id": 9,
+      "position_summary": "The United States highlights it has declassified information on its nuclear stockpile and argues that greater transparency of nuclear arsenals supports nonproliferation and disarmament, including fulfilling NPT commitments. It frames transparency as a concrete step toward meeting treaty obligations.",
+      "quote": "And it is why the United States just released newly declassified information on our nuclear weapons stockpile. We believe that increasing the transparency of states’ nuclear stockpiles is important to nonproliferation and disarmament efforts, including commitments under this treaty.",
+      "confidence": 0.88,
+      "weight": 0.44,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_8.pdf",
+      "page": 2,
+      "paragraph_id": 1,
+      "position_summary": "The United States supports dedicating time for interactive discussion of national reports at future NPT meetings and advocates reporting by both nuclear-weapon and non-nuclear-weapon states to ensure balanced attention to all three pillars.",
+      "quote": "I wish to reaffirm that the United States remains ready and willing to allocate time for the interactive discussion of national reports in future NPT meetings. Further, to ensure a balanced treatment across all three pillars of the Treaty, we continue to believe there is value in including reporting by both nuclear weapons states and non-nuclear weapons states.",
+      "confidence": 0.88,
+      "weight": 0.44,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_USA_Statements_8.pdf",
+      "page": 3,
+      "paragraph_id": 1,
+      "position_summary": "The United States underscores its commitment to transparency by voluntarily releasing aggregate New START data in May 2023. It criticizes Russia for not providing comparable data under the treaty.",
+      "quote": "Moreover, the United States voluntarily released aggregate data on U.S. strategic offensive arms under the New START Treaty on May 15, 2023. We note that Russia did not.",
+      "confidence": 0.88,
+      "weight": 0.44,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_WP_1.pdf",
+      "page": 3,
+      "paragraph_id": 3,
+      "position_summary": "Supports regular reporting by States parties on implementing the 2010 Action Plan and Article VI, and encourages nuclear-weapon States to adopt standardized reporting formats and agreed intervals within the strengthened review process.",
+      "quote": "7. States parties have long reported to the Review Conference on their actions in support of the Non-Proliferation Treaty. As was stated in the consensus action plan from the 2010 Review Conference, “States parties should submit regular reports, within the framework of the strengthened review process for the Treaty, on the implementation of the present action plan, as well as of article VI”, along with disarmament actions recommended by the 1995 and 2000 Review Conferences (action 20). The action plan also encouraged the nuclear-weapon States to agree on a standard reporting form and to determine appropriate reporting intervals (action 21).",
+      "confidence": 0.88,
+      "weight": 0.29333333333333333,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_WP_1.pdf",
+      "page": 3,
+      "paragraph_id": 10,
+      "position_summary": "The United States supports enhancing transparency and accountability by dedicating plenary time during PrepCom and Review Conference meetings to consider national reports, particularly those of nuclear-weapon states. It endorses a simplified alternative proposal that nearly achieved consensus after the Chair’s paper failed to do so.",
+      "quote": "10. The working group held extensive and constructive deliberations on proposals for transparency and accountability, focused on interactive discussion of national reports by States parties. Paragraphs 16 to 19 of the Chair’s working paper address this issue in detail, but fall short of consensus. A simplified alternative proposal submitted by four States parties came very close to achieving consensus, with only one State party objecting. The United States believes that this alternative, reproduced below, represents the best chance of gaining consensus in this area: The working group recommends that the Chairs of the Preparatory Committee meetings and the President of the Review Conference dedicate time in plenary sessions of the review cycle to consider the national reports of States parties, in particular the reports of the nuclear-weapon States, with regard to the 24-09063 3/5",
+      "confidence": 0.87,
+      "weight": 0.435,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_USA_Statements_2.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "The United States supports negotiating an FMCT, has engaged in UNGA FMCT initiatives, and maintains a unilateral moratorium on producing fissile material for weapons while urging China to follow suit. It cites irreversible disarmament steps—dismantling plutonium production reactors, stockpile reductions via arms control with Russia, and fissile material disposition—and endorses the principles of irreversibility, verifiability, and transparency. The U.S. advances verification capabilities through the IPNDV, Quad Nuclear Verification Partnership, and UN GGE.",
+      "quote": "We will also engage constructively in the other subsidiary bodies, including on the Cessation of the nuclear arms race and nuclear disarmament. In addition to our efforts at the CD, the United States actively participated in two UN General Assembly FMCT initiatives in 2014-2015 and 2017-2018 that we believe laid important groundwork for future FMCT negotiations. We continue to maintain our unilateral moratorium on the production of fissile material for use in nuclear weapons and urge the PRC – the only Nuclear Weapon State that has not done the same – to join us. 2000 Steps Five and Thirteen; 2010 Actions Two and Eighteen: Irreversibility and Further Development of Verification Capabilities: On Steps Five and Thirteen, the United States has undertaken important steps to support the principal of irreversibility, including through irreversible dismantlement of all weapons-grade plutonium production reactors, stockpile reductions through arms control treaties with Russia, disposition of fissile material from nuclear weapons, and other efforts. We also support language from the 2022 RevCon Draft Final document that acknowledges the mutually reinforcing principles of irreversibility, verifiability, and transparency. Active U.S. engagement in the IPNDV, Quad Nuclear Verification Partnership, and UN GGE underscore our commitment to engaging a broad set of countries on the development of future tools for arms control that support irreversibility, verifiability, and transparency in nuclear disarmament. We also welcome the group statement on irreversibility in nuclear disarmament delivered by Norway,",
+      "confidence": 0.87,
+      "weight": 0.145,
+      "tier": "core"
+    }
+  ]
+}

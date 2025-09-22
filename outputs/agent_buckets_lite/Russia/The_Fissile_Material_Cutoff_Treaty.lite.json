@@ -1,0 +1,97 @@
+{
+  "country": "Russia",
+  "issue": "The Fissile Material Cutoff Treaty",
+  "updated_at": "2025-09-21T17:55:19.391402Z",
+  "entries": [
+    {
+      "source_file": "2024_Russia_Statements_3.pdf",
+      "page": 5,
+      "paragraph_id": 3,
+      "position_summary": "Russia supports launching negotiations at the Conference on Disarmament for a universal, non-discriminatory, and effectively verifiable FMCT banning production of fissile material for nuclear weapons or other explosive devices.",
+      "quote": "Mr. Chairman, Russia supports launching negotiations to elaborate a universal, non- discriminating, and effectively verifiable Treaty banning the production of fissile material for nuclear weapons or other nuclear explosive devices (FMCT), at the Conference on Disarmament.",
+      "confidence": 0.93,
+      "weight": 0.465,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_3.pdf",
+      "page": 5,
+      "paragraph_id": 3,
+      "position_summary": "Russia supports launching negotiations at the Conference on Disarmament on a universal, non-discriminatory, and effectively verifiable FMCT to ban production of fissile material for nuclear weapons or other explosive devices.",
+      "quote": "Russia stands for launching negotiations on a universal, non-discriminatory and effectively verifiable treaty banning the production of fissile materials for nuclear weapons or other nuclear explosive devices (FMCT) at the Conference on Disarmament.",
+      "confidence": 0.92,
+      "weight": 0.92,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_Russia_Statements_5.pdf",
+      "page": 3,
+      "paragraph_id": 5,
+      "position_summary": "Russia expresses conditional support for launching FMCT negotiations under the Shannon mandate at the Conference on Disarmament, emphasizing a universal, non-discriminatory, and effectively verifiable treaty. Simultaneously, it argues the FMCT concept is largely obsolete today but states willingness to participate if negotiations are decided.",
+      "quote": "Madam Chair, Russia supports launching negotiations based on the principles set forth in the 1999 document CD/1299 (the 'Shannon mandate') to elaborate a universal, non- discriminating, and effectively verifiable treaty banning the production of fissile material for nuclear weapons or other nuclear explosive devices (FMCT), at the Conference on Disarmament. At the same time, we believe that today the idea of such a treaty has become to a considerable extent obsolete. However, we will be ready to participate in negotiations on its development should such a decision be adopted.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_3.pdf",
+      "page": 5,
+      "paragraph_id": 5,
+      "position_summary": "The country highlights that an FMCT should reliably prevent the production of fissile material for nuclear weapons worldwide, indicating support for a robust, global prohibition on such production. This reflects endorsement of an FMCT as a key nonproliferation measure.",
+      "quote": "As we see it, the FMCT main objective is to provide a reliable guarantee against the production of fissile materials for nuclear weapons on a global scale.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_Russia_Statements_5.pdf",
+      "page": 3,
+      "paragraph_id": 6,
+      "position_summary": "They advocate for an FMCT that, if negotiated, would reliably ensure no production of fissile material for nuclear weapons, implying a strong, verifiable prohibition.",
+      "quote": "We see that the FMCT, if it is ever to be elaborated, should aim at providing reliable guarantee that fissile material for nuclear weapons will not be produced",
+      "confidence": 0.88,
+      "weight": 0.88,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_3.pdf",
+      "page": 5,
+      "paragraph_id": 4,
+      "position_summary": "Supports negotiating an FMCT under the Conference on Disarmament strictly in line with the 1995 Shannon mandate and within a comprehensive, balanced program of work. Emphasizes that all states capable of producing weapons‑grade fissile material must participate without exception.",
+      "quote": "However, it should be realized that, in order to achieve results, the process must be framed within a comprehensive and balanced programme of work of the Conference and strictly adhere to the principles set out in the 1995 document CD/1299 (the Shannon mandate). It is equally important that all countries with the capacity to produce weapons-grade fissile material take part in them without exception.",
+      "confidence": 0.88,
+      "weight": 0.88,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_3.pdf",
+      "page": 5,
+      "paragraph_id": 4,
+      "position_summary": "Supports FMCT negotiations in the Conference on Disarmament under the 1995 Shannon mandate, as part of a comprehensive and balanced program of work. Emphasizes that all states with capabilities to produce weapon-grade fissile material must participate in the negotiations.",
+      "quote": "At the same time, it should be understood that to achieve result, this process should be part of a comprehensive and balanced programme of work of the Conference and strictly abide by the principles enshrined in the 1995 document CD/1299 (the so-called Shannon mandate). It is equally important that the negotiations involve all countries possessing capabilities for the production of weapon-grade fissile material.",
+      "confidence": 0.87,
+      "weight": 0.87,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_3.pdf",
+      "page": 5,
+      "paragraph_id": 6,
+      "position_summary": "They oppose transferring FMCT negotiations from the Conference on Disarmament to another forum, calling such a move destructive and warning it could severely limit participation. They prefer the CD as the negotiation venue.",
+      "quote": "We emphasize that we believe statements on the possibility of transferring the FMCT negotiations from the Conference on Disarmament to another forum, to be destructive. In such a case the number of participants in the negotiations may be extremely limited.",
+      "confidence": 0.86,
+      "weight": 0.86,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_3.pdf",
+      "page": 5,
+      "paragraph_id": 5,
+      "position_summary": "The country argues that any FMCT, if negotiated, must provide reliable guarantees—implying strong verification—to ensure a global halt to the production of fissile material for nuclear weapons. This is presented as essential to uphold equal and indivisible security for all states.",
+      "quote": "We see that the FMCT, if it is ever to be elaborated, should aim at providing reliable guarantee that fissile material for nuclear weapons will not be produced globally. This is the only way to ensure the compliance with the principle of equal and indivisible security for all.",
+      "confidence": 0.86,
+      "weight": 0.43,
+      "tier": "core"
+    }
+  ]
+}

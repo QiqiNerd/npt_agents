@@ -1,0 +1,107 @@
+{
+  "country": "China",
+  "issue": "Peaceful uses of nuclear technology",
+  "updated_at": "2025-09-21T17:55:19.423740Z",
+  "entries": [
+    {
+      "source_file": "2023_China_Statements_6.pdf",
+      "page": 1,
+      "paragraph_id": 2,
+      "position_summary": "The country emphasizes the importance of expanding peaceful uses of nuclear energy to address climate change, drive economic development, and achieve the 2030 SDGs. It affirms that NPT States Parties are entitled to continuously benefit from such peaceful applications.",
+      "quote": "The peaceful uses of nuclear energy and technology is an important means to meet the global climate change challenge, expand the momentum of global economic development, and achieve the 2030 Sustainable Development Goals. States Parties are entitled to reaping constantly the dividends of peaceful uses of nuclear energy.",
+      "confidence": 0.94,
+      "weight": 0.94,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_China_WP_1.pdf",
+      "page": 5,
+      "paragraph_id": 6,
+      "position_summary": "The country reaffirms that all states have an inalienable right to the peaceful use of nuclear energy and highlights its importance for development, addressing climate and energy challenges, and achieving the 2030 SDGs. It supports assisting developing countries in leveraging nuclear-related science, technology, and innovation for sustainable development.",
+      "quote": "4. Peaceful Uses of Nuclear Energy Reaffirm peaceful uses of nuclear energy is an inalienable right of all countries, which has great significance for promoting social and economic development, responding to global challenges including climate change and energy shortage, and realizing the 2030 Sustainable Development Goals. Recall the actions committed in Pact for the Future, support developing countries in peacefully using science, technology and innovation to realize sustainable development.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_China_Statements_2.pdf",
+      "page": 2,
+      "paragraph_id": 6,
+      "position_summary": "The country emphasizes that peaceful nuclear energy and technology are vital for achieving the SDGs and addressing climate change. It calls on the Review Conference to strengthen support for the IAEA’s promotional role and to encourage international cooperation to maximize the benefits of nuclear applications.",
+      "quote": "Fourthly, the peaceful use of nuclear energy and nuclear technology is indispensable for realizing the Sustainable Development Goals (SDGs) and addressing the challenge of climate change. The Review Conference should make greater efforts, further supporting the IAEA to play its unique role in this regard and to reinforce its promotional activities. Moreover, the Conference should further advocate and encourage international cooperation, so as to fully bring out the potential of nuclear energy and nuclear technology.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_China_WP_4.pdf",
+      "page": 3,
+      "paragraph_id": 3,
+      "position_summary": "The country emphasizes that nonproliferation efforts must not infringe on NPT Article IV rights to peaceful nuclear energy, particularly for developing countries. It urges avoiding politicization of peaceful uses to prevent disruptions to normal international cooperation.",
+      "quote": "16. Efforts to prevent the proliferation of nuclear weapons should not undermine the legitimate rights of peaceful uses of nuclear energy of States parties, especially developing countries. The international community should refrain from politicizing the peaceful uses of nuclear energy issues, so as not to disrupt or hinder regular international cooperation.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_China_WP_4.pdf",
+      "page": 3,
+      "paragraph_id": 5,
+      "position_summary": "Supports the IAEA’s central role in promoting peaceful nuclear energy and calls for increased, needs-based assistance from developed countries and the IAEA to developing countries.",
+      "quote": "17. IAEA should continue to play a central role in promoting the peaceful uses of nuclear energy. Developed countries and IAEA should provide more assistance to developing countries in the peaceful uses of nuclear energy based on their actual needs.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_China_WP_4.pdf",
+      "page": 3,
+      "paragraph_id": 6,
+      "position_summary": "The country urges active support for IAEA technical cooperation and calls for adequate, predictable resources to meet growing technical cooperation needs.",
+      "quote": "Member States should actively support the IAEA’s technical cooperation activities to ensure its adequate and predictable resources,thus meeting the growing needs for technical cooperation.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_China_Statements_6.pdf",
+      "page": 1,
+      "paragraph_id": 1,
+      "position_summary": "China underscores that peaceful uses of nuclear energy are an inalienable right and a core pillar of the NPT, and advocates strengthened international cooperation in this area to advance the Treaty’s disarmament and non-proliferation objectives and promote 'atoms for peace and development.'",
+      "quote": "Remarks by Chinese Delegation on Peaceful Uses of Nuclear Energy at the First Meeting of the Preparatory Committee for the 2026 NPT Review Conference Mr. Chair, Peaceful uses of nuclear energy is one of the three pillars of the Treaty on the Non-Proliferation of Nuclear Weapons (NPT) and an inalienable right of the States parties by the Treaty. Promoting international cooperation in peaceful uses of nuclear energy contributes to the full realization of the objectives of the Treaty and to the process of nuclear disarmament and nuclear non-proliferation. \"Atoms for peace and development\" is the common aspiration of all peoples.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_China_Statements_6.pdf",
+      "page": 3,
+      "paragraph_id": 3,
+      "position_summary": "China underscores the importance of nuclear energy for socio-economic development, promotes research and industrial applications for peaceful purposes, and supports international cooperation to advance peaceful uses globally.",
+      "quote": "Mr. Chair, China attaches great importance to the role of nuclear energy in promoting socio-economic development, vigorously promotes technological research and industrial development and application of nuclear energy for peaceful purposes, and actively participates in and supports international cooperation in promoting the development and peaceful uses of nuclear energy in the world.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_China_Statements_6.pdf",
+      "page": 3,
+      "paragraph_id": 5,
+      "position_summary": "China emphasizes support for peaceful uses of nuclear technology by expanding technical assistance through IAEA channels and becoming the second-largest contributor to the IAEA Technical Cooperation Fund, contributing nearly $100 million to date.",
+      "quote": "China is actively expanding its technical assistance to other developing countries through IAEA’s technical cooperation channels and has become the second largest contributor to the Technical Cooperation Fund (TCF). So far, China has contributed an accumulated amount of nearly 100 million dollars to the TCF.",
+      "confidence": 0.9,
+      "weight": 0.9,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_China_Statements_1.pdf",
+      "page": 7,
+      "paragraph_id": 1,
+      "position_summary": "China supports expanding peaceful uses of nuclear energy, backing the IAEA’s central role and increased financial and technical assistance to developing countries to advance the 2030 Agenda. It supports multilateral export control mechanisms but opposes their politicization and use for decoupling or ideological purposes.",
+      "quote": "peaceful uses of nuclear energy and nuclear technology are growing. China supports the central role of the IAEA in promoting international nuclear energy cooperation and opts for increasing financial and technical assistance to developing countries in order to contribute to implementation of the 2030 Agenda for Sustainable Development. China supports multilateral export control mechanism, but opposes the use of non-proliferation as an excuse to draw ideological lines, stretch the concept of national security, and use export control as a political tool for decoupling.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "country": "USA",
+  "issue": "Treaty on the Prohibition of Nuclear Weapons",
+  "updated_at": "2025-09-21T17:55:19.353767Z",
+  "entries": [
+    {
+      "source_file": "2025_USA_Statements_2.pdf",
+      "page": 4,
+      "paragraph_id": 4,
+      "position_summary": "The United States urges strengthening the NPT and pursuing Article VI-consistent, engagement-based arms control to prevent nuclear arms races, calling specifically on China and Russia to participate. It signals readiness to engage and critiques what it sees as ‘shortcuts’ to disarmament, implicitly rejecting the TPNW approach ahead of the next Review Conference.",
+      "quote": "As we look toward next year’s Review Conference, we must remember what brought us here decades ago. We are here to advance our collective security by strengthening the NPT, preventing the proliferation of nuclear weapons, and, yes, pursuing their ultimate elimination. The next step is clear, we need China and Russia to work with us to that end. Unlike some efforts that seek shortcuts to nuclear disarmament, it is only through such engagement that we can pursue effective measures to prevent nuclear arms races and make progress towards nuclear disarmament. The United States remains ready to pursue that way forward, and we urge everyone to use your collective voices to demand that these states engage without further 4",
+      "confidence": 0.78,
+      "weight": 0.156,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_USA_Statements_8.pdf",
+      "page": 3,
+      "paragraph_id": 4,
+      "position_summary": "The country advocates for engaging in arms control dialogues with China and Russia to reduce the risk of nuclear conflict and urges States Parties to support these efforts. It dismisses alternative proposals as empty and unverifiable, implicitly criticizing the TPNW.",
+      "quote": "By contrast, President Trump has made clear his readiness to have arms control dialogues with China and Russia, with the goal of reducing the risks of nuclear conflict. We hope that States Parties will focus their energy on calling on them to do so. Join us in that dialogue instead of echoing empty and unverifiable proposals.",
+      "confidence": 0.72,
+      "weight": 0.24,
+      "tier": "core"
+    }
+  ]
+}

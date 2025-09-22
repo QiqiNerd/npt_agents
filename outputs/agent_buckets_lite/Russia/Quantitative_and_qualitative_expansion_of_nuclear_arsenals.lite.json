@@ -1,0 +1,77 @@
+{
+  "country": "Russia",
+  "issue": "Quantitative and qualitative expansion of nuclear arsenals",
+  "updated_at": "2025-09-21T17:55:19.400531Z",
+  "entries": [
+    {
+      "source_file": "2024_Russia_Statements_2.pdf",
+      "page": 4,
+      "paragraph_id": 2,
+      "position_summary": "Russia claims it is reducing nuclear risks and maintaining predictability by voluntarily observing New START’s quantitative limits on strategic offensive arms despite the treaty’s suspension.",
+      "quote": "While the conditions for such dialogue are missing, Russia continues to take a number of relevant measures to reduce nuclear danger and maintain acceptable level of predictability and stability in the nuclear and missile sphere. Those include voluntary observance of quantitative restrictions on strategic offensive arms stipulated in the suspended New START Treaty, throughout its duration.",
+      "confidence": 0.84,
+      "weight": 0.27999999999999997,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_2.pdf",
+      "page": 3,
+      "paragraph_id": 2,
+      "position_summary": "The country condemns NATO nuclear sharing and the forward deployment of U.S. nuclear weapons in Europe as destabilizing, increasing strategic risks, and obstructing progress on nuclear disarmament, especially amid modernization of these capabilities. It calls for the complete withdrawal of U.S. nuclear weapons to U.S. territory and dismantlement of the related infrastructure in Europe.",
+      "quote": "Particular emphasis should be put on the destabilizing practice of the NATO's so-called \"nuclear sharing\" involving forward-based U.S. nuclear weapons deployed in Europe, that is, thousands miles away from the U.S., and capable of promptly hitting critical targets in the territory of Russia and its allies. Given the general increase in threats posed by the West and active modernization of the mentioned nuclear capabilities, this practice increases strategic risks and prompts one to take compensating counter-measures. This factor has considerably complicated the dialogue at the NPT forum for decades, and has long been a major obstacle to further steps in the field of nuclear disarmament. We reiterate that the United States' nuclear weapons must be completely withdrawn to their national territory and the relevant infrastructure in Europe must be dismantled.",
+      "confidence": 0.83,
+      "weight": 0.2075,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_Russia_Statements_1.pdf",
+      "page": 2,
+      "paragraph_id": 2,
+      "position_summary": "The statement criticizes U.S./NATO nuclear modernization and potential geographic expansion of U.S. nuclear deployments in Europe as escalating strategic risks, prompting Russia and Belarus to take compensatory nuclear measures for deterrence. It asserts that Russian-Belarusian nuclear cooperation complies with international law and the NPT and does not threaten third countries.",
+      "quote": "Such steps severely aggravate strategic risks and general atmosphere of tension and elicit responses aimed at restoring the balance of forces and maintaining reliable deterrence. In particular, due to a quantum leap in the development of combat capability of the US nuclear weapons deployed in Europe and posing strategic threat, potential expansion of the geographic scope of its deployment, as well as general increase of diverse threats posed by NATO, the Russian Federation and the Republic of Belarus have had to resort to compensating steps in the nuclear field. Nevertheless, Russian-Belarusian cooperation in this sphere strictly complies with the international law and our international obligations, including the provisions of the NPT, and poses no threat to third countries.",
+      "confidence": 0.78,
+      "weight": 0.26,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_2.pdf",
+      "page": 3,
+      "paragraph_id": 3,
+      "position_summary": "The statement argues that disarmament progress requires the West to stop policies perceived as undermining Russia’s security and for all nuclear-armed states to join the disarmament process. It highlights NATO’s role as a “nuclear alliance,” the combined U.S.-UK-French capabilities, and criticizes the UK’s expansion of its arsenal. The thrust is that NATO’s posture and allied arsenals impede disarmament and must be addressed in future arms control.",
+      "quote": "Thus, further progress on the nuclear disarmament track will require the West to abandon its destructive policy of undermining Russia's security. At the same time, it will be necessary for all the States with military nuclear capabilities to join the dis- armament process. First of all, in this context we have to take into account the com- bined arsenal of the United States, United Kingdom and France, which are NATO al- lies and are capable of jointly using nuclear forces against our country. This factor takes on special significance given the fact that the North Atlantic bloc, positioning itself as a \"nuclear alliance,\" is being increasingly involved in the confrontation with Russia and declares its intention to inflict a \"strategic defeat\" on Russia. Moreover, the nuclear arsenals of London and Paris are not only unlimited, but in the case of the United Kingdom, they are being significantly increased.",
+      "confidence": 0.76,
+      "weight": 0.152,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_2.pdf",
+      "page": 4,
+      "paragraph_id": 3,
+      "position_summary": "The statement blames the United States for undermining arms control, asserting that this forced Russia to suspend New START. It alleges U.S. noncompliance with New START’s quantitative limits and claims U.S. assistance to Ukraine in attacking Russian treaty-accountable strategic facilities, framing Russia’s response as justified.",
+      "quote": "The destructive actions of the United States continued to have a devastating effect on the arms control architecture, which it had already largely destroyed. This led, in particular, to the suspension of the New START Treaty. Russia's forced de- cision was a justified, legitimate and practically inevitable reaction to Washing- ton's undermining of the fundamental principles and understandings on which the New START Treaty was based and to the following fundamental change of cir- cumstances. The American side's failure to observe the central quantitative limits under the New START Treaty and its assistance to the Kiev regime in attacking our strategic facilities subject to the Treaty also dealt a severe blow to its viability.",
+      "confidence": 0.73,
+      "weight": 0.24333333333333332,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_1.pdf",
+      "page": 2,
+      "paragraph_id": 6,
+      "position_summary": "The country argues NATO has become a nuclear bloc whose shared strategy relies on nuclear weapons, rendering UK and French arsenals as direct threats alongside the United States. It criticizes the United Kingdom’s announced buildup of its nuclear arsenal as running counter to international expectations to reduce nuclear weapons and undermining disarmament obligations.",
+      "quote": "At the same time, the military and political situation in the world continues to deteriorate rapidly. The accumulated conflict potential between nuclear powers, which was not curbed in time, has already led to an acute crisis in Euro-Atlantic and threatens to escalate into a military confrontation in Asia-Pacific. Having violated the principle of equal and indivisible security, the NATO bloc has staked on expansion and assertive involvement of more and more members. Besides, NATO has officially become a nuclear bloc, which means that all its States pursue shared strategic goals, which are ensured, inter alia, by nuclear weapons. In this case, nuclear weapons of the United Kingdom and France become as much of a threat to Russia as nuclear weapons of the United States. Moreover, against the backdrop of the international community's demand to reduce nuclear weapons, London has announced a build-up of its nuclear arsenal.",
+      "confidence": 0.73,
+      "weight": 0.146,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_3.pdf",
+      "page": 2,
+      "paragraph_id": 5,
+      "position_summary": "The country opposes the AUKUS partnership, arguing it destabilizes the Asia-Pacific region and risks provoking a new arms race. They view AUKUS-related nuclear naval propulsion cooperation as detrimental to regional and global security.",
+      "quote": "Mr. Chair, We disapprove of the AUKUS trilateral partnership. It leads to increased instability in the Asia-Pacific region and beyond and provokes a new arms race.",
+      "confidence": 0.7,
+      "weight": 0.35,
+      "tier": "core"
+    }
+  ]
+}

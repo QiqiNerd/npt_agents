@@ -1,0 +1,107 @@
+{
+  "country": "Russia",
+  "issue": "Export controls",
+  "updated_at": "2025-09-21T17:55:19.385439Z",
+  "entries": [
+    {
+      "source_file": "2025_Russia_Statements_5.pdf",
+      "page": 4,
+      "paragraph_id": 3,
+      "position_summary": "Russia says its export control system and control lists are fully aligned with the NSG Guidelines for Nuclear Transfers (INFCIRC/254) and are regularly updated to reflect revisions.",
+      "quote": "Russia arranges its national export control system in accordance with the Guidelines for Nuclear Transfers (INFCIRC/254). Russian legislation, including control lists, has been fully harmonized with this document. Regular updates are made to reflect the relevant changes made.",
+      "confidence": 0.92,
+      "weight": 0.92,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_3.pdf",
+      "page": 6,
+      "paragraph_id": 1,
+      "position_summary": "Russia emphasizes implementing Article III(2) and supports the NSG and Zangger Committee as frameworks for non-discriminatory nuclear export controls. It aligns its national export control system with NSG Guidelines (INFCIRC/254) and regularly updates its regulations accordingly.",
+      "quote": "6 We attach great importance to the implementation of Article III para 2 of the NPT. We believe that the activities of the Nuclear Suppliers Group (NSG) and the Zangger Committee, which was established as the NPT Exporters' Committee, have demonstrated that there is practical possibility of establishing an agreed non- discriminating procedure of nuclear export controls. Russia arranges its national export control system in accordance with the Guidelines for Nuclear Transfers (INFCIRC/254). Russian legislation, including control lists, has been fully harmonized with this document. Regular updates are made to reflect the relevant changes introduced.",
+      "confidence": 0.9,
+      "weight": 0.45,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_Russia_Statements_2.pdf",
+      "page": 4,
+      "paragraph_id": 4,
+      "position_summary": "Russia advocates broad, non-discriminatory access to peaceful nuclear energy for all NPT-compliant states and promotes international cooperation in this area. It opposes unilateral restrictions and other barriers—framed as politicization—that it argues violate Article IV’s guarantee of equal access to nuclear materials, equipment, and technology for peaceful purposes.",
+      "quote": "Russia has consistently supported a broad access to the benefits of peaceful nuclear energy for the States parties to the NPT and the development of international cooperation in this area. All countries compliant with their obligations under the Treaty should have the right to freely develop peaceful nuclear technologies. Imposing unilateral restrictions, creating artificial barriers to bilateral and international cooperation, and undermining the principle of equal access to nuclear materials, equipment ant technical information to be used for peaceful purposes, violate Article IV of the NPT. Politicization of this area and creating artificial dividing lines are unacceptable.",
+      "confidence": 0.89,
+      "weight": 0.445,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_Russia_Statements_5.pdf",
+      "page": 4,
+      "paragraph_id": 2,
+      "position_summary": "Russia emphasizes the importance of implementing Article III(2) and endorses the roles of the NSG and Zangger Committee. It argues these mechanisms demonstrate that agreed, non-discriminatory nuclear export control procedures are feasible to support safeguards.",
+      "quote": "Madam Chair, Russia attaches great importance to the implementation of Article III para 2 of the NPT. We believe that the activities of the Nuclear Suppliers Group and the Zangger Committee have demonstrated that there is practical possibility of establishing an agreed non-discriminating procedure of nuclear export controls.",
+      "confidence": 0.87,
+      "weight": 0.435,
+      "tier": "core"
+    },
+    {
+      "source_file": "2025_Russia_Statements_7.pdf",
+      "page": 4,
+      "paragraph_id": 1,
+      "position_summary": "The country asserts its Article IV right to develop nuclear energy and engage in nondiscriminatory international cooperation for peaceful purposes. It opposes unilateral restrictions, export barriers, and politicization that undermine equal access to nuclear materials, equipment, and technology.",
+      "quote": "4 national nuclear energy policy and to engage in cooperation in this area without any discrimination. Imposing unilateral restrictions, inventing barriers for bilateral and multilateral cooperation, as well as undermining the principle of equal access to nuclear materials, equipment and technical information to be used for peaceful purposes violate Article IV of the NPT. Politicization and artificial dividing lines in this sphere are unacceptable.",
+      "confidence": 0.86,
+      "weight": 0.43,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_1.pdf",
+      "page": 6,
+      "paragraph_id": 6,
+      "position_summary": "Russia argues that compliant States should not face restrictions on access to peaceful nuclear technology, affirming Article IV rights and opposing discriminatory export limitations.",
+      "quote": "Russia finds unacceptable any attempts to limit the access to the benefits of peaceful atom for any State compliant with its non-proliferation obligations.",
+      "confidence": 0.86,
+      "weight": 0.43,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_5.pdf",
+      "page": 4,
+      "paragraph_id": 2,
+      "position_summary": "Supports non-discriminatory access to peaceful nuclear energy for all NPT parties and opposes unilateral restrictions on nuclear technology trade affecting both supplier and recipient states.",
+      "quote": "We stand for non-discriminatory access for all NPT States parties to the benefits of peaceful nuclear energy and the inadmissibility of any unilateral restrictions against both supplier and recipient countries of nuclear technology.",
+      "confidence": 0.86,
+      "weight": 0.43,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_4.pdf",
+      "page": 4,
+      "paragraph_id": 2,
+      "position_summary": "Russia argues that states complying with their non-proliferation obligations should not face restrictions on access to peaceful nuclear technology and benefits, implicitly criticizing restrictive export control practices that go beyond NPT obligations. It emphasizes the Article IV right to peaceful uses for compliant states.",
+      "quote": "Russia finds inadmissible any attempts to limit the access to the benefits of peaceful atom for any State compliant with its non-proliferation obligations.",
+      "confidence": 0.84,
+      "weight": 0.42,
+      "tier": "core"
+    },
+    {
+      "source_file": "2024_Russia_Statements_3.pdf",
+      "page": 6,
+      "paragraph_id": 2,
+      "position_summary": "They argue that non-proliferation measures, including export controls, should not unduly restrict legitimate trade in dual-use items or civil science and technology cooperation, emphasizing the protection of peaceful uses. They advocate a balanced approach that preserves legitimate commerce while upholding non-proliferation goals.",
+      "quote": "We believe that international non-proliferation efforts should not lead to unreasonable restrictions on legitimate trade in dual-use goods and technologies and on civil cooperation in the areas of science and technology.",
+      "confidence": 0.84,
+      "weight": 0.42,
+      "tier": "core"
+    },
+    {
+      "source_file": "2023_Russia_Statements_1.pdf",
+      "page": 2,
+      "paragraph_id": 2,
+      "position_summary": "The country condemns using the NPT as a pretext to restrict access to nuclear technology, emphasizing Article IV’s guarantee of the right to peaceful nuclear energy. It argues such restrictions are politically motivated abuses by some parties that create a false impression of the Treaty’s unfairness.",
+      "quote": "Another destructive trend is the use of the NPT as a pretext for restricting States' access to nuclear technology. Those who do so forget about Article IV of the NPT, which guarantees the right to peaceful uses of nuclear energy. This approach is also dangerous because it creates the false impression that the Treaty is unfair, when in fact it only concerns the abuse of the NPT provisions by some NPT parties who thus try to deal with their short-term political challenges.",
+      "confidence": 0.84,
+      "weight": 0.42,
+      "tier": "core"
+    }
+  ]
+}
