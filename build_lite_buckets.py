@@ -2,9 +2,7 @@
 import os, json
 from datetime import datetime
 
-FULL_DIR = "outputs/agent_buckets"
-LITE_DIR = "outputs/agent_buckets_lite"
-TOP_N = 10  # 每个 issue 只保留前 N 条（已按置信度排序过）
+from config import FULL_DIR, LITE_DIR, LITE_TOP_N
 
 def main():
     os.makedirs(LITE_DIR, exist_ok=True)
@@ -20,7 +18,7 @@ def main():
                 continue
             with open(os.path.join(cpath, fname), "r", encoding="utf-8") as f:
                 data = json.load(f)
-            entries = data.get("entries", [])[:TOP_N]
+            entries = data.get("entries", [])[:LITE_TOP_N]
             lite = {
                 "country": data.get("country"),
                 "issue": data.get("issue"),

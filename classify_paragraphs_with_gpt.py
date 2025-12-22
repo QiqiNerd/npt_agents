@@ -11,55 +11,19 @@ from typing import Optional, Tuple, List
 from tqdm import tqdm
 from openai import OpenAI
 
-# ========================== CONFIG ==========================
-DB_PATH = "positions.db"
-MODEL = "gpt-5"              # 使用 GPT-5 模型
-# TEMP = 0.2
-MAX_RETRIES = 4              # 每条段落的最大重试次数
-BASE_SLEEP = 2.0             # 重试退避秒数
-BATCH_SIZE = 50              # 每次抓取多少条
-MAX_ROWS = 500               # 本次最多处理多少条；None 表示处理完为止
-FAIL_LOG = "classification_failures.jsonl"
+from constants import ISSUES_LIST
+
+from config import (
+    DB_PATH,
+    MODEL_CLASSIFY,
+    MAX_RETRIES,
+    BASE_SLEEP,
+    BATCH_SIZE,
+    MAX_ROWS,
+    FAIL_LOG,
+)
 # ============================================================
 
-ISSUES_LIST = [
-    "Treaty on the Prohibition of Nuclear Weapons",
-    "Quantitative and qualitative expansion of nuclear arsenals",
-    "Humanitarian consequences of nuclear weapon use",
-    "Transparency and accountability of nuclear arsenals and doctrines",
-    "Role and significance of nuclear weapons in military and security concepts, doctrines and policies",
-    "Arms control agreements",
-    "Disarmament verification",
-    "Reduced role and operational readiness of nuclear weapons",
-    "Fulfillment of Article VI disarmament obligations",
-    "Security assurances",
-    "No first use",
-    "Risk reduction and confidence-building measures",
-    "Comprehensive Nuclear-Test-Ban Treaty",
-    "Moratorium on nuclear testing",
-    "The Fissile Material Cutoff Treaty",
-    "Moratorium on fissile material production",
-    "Legacy of nuclear weapons, their use and testing",
-    "Gender",
-    "Emerging and disruptive technologies",
-    "Nonproliferation and disarmament education",
-    "Middle East Weapons of Mass Destruction Free Zone and Israel",
-    "Universality of the Treaty on the Non-Proliferation of Nuclear Weapons",
-    "Nuclear-Weapon-Free Zones",
-    "International Atomic Energy Agency safeguards",
-    "Export controls",
-    "Regional proliferation challenges including the the Democratic People's Republic of Korea, Iran and Joint Comprehensive Plan of Action",
-    "Nuclear threats",
-    "Attacks on nuclear facilities",
-    "Peaceful uses of nuclear technology",
-    "Nuclear safety",
-    "Nuclear security",
-    "Strengthening the Treaty on the Non-Proliferation of Nuclear Weapons review process",
-    "Discouraging the Treaty on the Non-Proliferation of Nuclear Weapons withdrawal",
-    "Naval propulsion",
-    "Nuclear sharing and extended deterrence",
-    "Ukraine"
-]
 
 PROMPT_TEMPLATE = """You are an expert on the Nuclear Non-Proliferation Treaty (NPT).
 
@@ -98,7 +62,7 @@ def call_gpt(client: OpenAI, prompt: str) -> Optional[str]:
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             resp = client.responses.create(
-                model=MODEL,
+                model=MODEL_CLASSIFY,
                 input=prompt,
             )
             return resp.output_text

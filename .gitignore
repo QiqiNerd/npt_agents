@@ -1,1 +1,4 @@
 .DS_Store
+.env
+# local config
+config_local.py

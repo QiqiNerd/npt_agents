@@ -2,9 +2,7 @@
 import os, json, numpy as np
 from openai import OpenAI
 
-FULL_DIR = "outputs/agent_buckets"
-EMB_DIR = "outputs/agent_buckets_emb"
-MODEL = "text-embedding-3-large"  # 或者 3-small 更省钱
+from config import FULL_DIR, EMB_DIR, EMBEDDING_MODEL
 
 def _safe_issue_filename(issue: str) -> str:
     s = issue.replace(" ", "_").replace("/", "-")
@@ -18,7 +16,7 @@ def _load_json(path: str):
 
 def embed_texts(client: OpenAI, texts):
     # 批量嵌入
-    resp = client.embeddings.create(model=MODEL, input=texts)
+    resp = client.embeddings.create(model=EMBEDDING_MODEL, input=texts)
     return [d.embedding for d in resp.data]
 
 def main():

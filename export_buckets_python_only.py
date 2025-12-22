@@ -19,52 +19,17 @@ from collections import defaultdict
 from datetime import datetime
 from typing import List, Dict, Any, Tuple, Optional
 
-# =============== 配置 ===============
-DB_PATH = "positions.db"
-OUTPUT_DIR = "outputs/agent_buckets"    # 导出目录
-INCLUDE_SUPPLEMENT = False              # 是否把 0.60–0.70 的段落也并入
-CORE_THRESHOLD = 0.70
-SUPPLEMENT_LOWER = 0.60
-# ====================================
+from constants import ISSUES_LIST
 
-ISSUES_LIST = [
-    "Treaty on the Prohibition of Nuclear Weapons",
-    "Quantitative and qualitative expansion of nuclear arsenals",
-    "Humanitarian consequences of nuclear weapon use",
-    "Transparency and accountability of nuclear arsenals and doctrines",
-    "Role and significance of nuclear weapons in military and security concepts, doctrines and policies",
-    "Arms control agreements",
-    "Disarmament verification",
-    "Reduced role and operational readiness of nuclear weapons",
-    "Fulfillment of Article VI disarmament obligations",
-    "Security assurances",
-    "No first use",
-    "Risk reduction and confidence-building measures",
-    "Comprehensive Nuclear-Test-Ban Treaty",
-    "Moratorium on nuclear testing",
-    "The Fissile Material Cutoff Treaty",
-    "Moratorium on fissile material production",
-    "Legacy of nuclear weapons, their use and testing",
-    "Gender",
-    "Emerging and disruptive technologies",
-    "Nonproliferation and disarmament education",
-    "Middle East Weapons of Mass Destruction Free Zone and Israel",
-    "Universality of the Treaty on the Non-Proliferation of Nuclear Weapons",
-    "Nuclear-Weapon-Free Zones",
-    "International Atomic Energy Agency safeguards",
-    "Export controls",
-    "Regional proliferation challenges including the the Democratic People's Republic of Korea, Iran and Joint Comprehensive Plan of Action",
-    "Nuclear threats",
-    "Attacks on nuclear facilities",
-    "Peaceful uses of nuclear technology",
-    "Nuclear safety",
-    "Nuclear security",
-    "Strengthening the Treaty on the Non-Proliferation of Nuclear Weapons review process",
-    "Discouraging the Treaty on the Non-Proliferation of Nuclear Weapons withdrawal",
-    "Naval propulsion",
-    "Nuclear sharing and extended deterrence",
-    "Ukraine"
-]
+# =============== 配置 ===============
+
+from config import (
+    DB_PATH,
+    FULL_DIR,
+    INCLUDE_SUPPLEMENT,
+    CORE_THRESHOLD,
+    SUPPLEMENT_LOWER,
+)
 
 # --------- 工具函数 ---------
 def normalize_country(raw_country: str) -> str:
@@ -303,11 +268,11 @@ def main():
     buckets = aggregate_buckets(exploded)
 
     # 4) 导出 JSON 合集
-    export_buckets(buckets, OUTPUT_DIR)
+    export_buckets(buckets, FULL_DIR)
 
     # 打印简要统计（可删）
     countries = sorted(buckets.keys())
-    print(f"   Export done to: {OUTPUT_DIR}")
+    print(f"   Export done to: {FULL_DIR}")
     print(f"   Countries: {countries}")
     total = sum(len(issues) for issues in buckets.values())
     print(f"   Country-Issue files: {total}")

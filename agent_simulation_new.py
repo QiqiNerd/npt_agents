@@ -34,96 +34,12 @@ from datetime import datetime
 from functools import lru_cache
 from openai import OpenAI
 
-# ============================ CONFIG ============================
+from constants import ISSUES_LIST
 
-# --- Simulation metadata (Boss suggestion #4) ---
-SIM_SCENARIO_NAME = "NPT Review Process Agent Simulation"
-SIM_SESSION_YEAR = 2025                 # anchor year for recency + "what meeting is this"
-SIM_MEETING_TYPE = "PrepCom"            # "PrepCom" or "RevCon" (or any label you want)
-SIM_LOCATION = "Geneva (simulated)"     # optional display string
+from dotenv import load_dotenv
+load_dotenv()
 
-# --- Countries / rounds ---
-COUNTRIES = ["USA"]
-MAX_ROUNDS = 1
-
-# --- User control (Boss suggestion #2) ---
-ISSUES_PER_TURN = 1   # user chooses 1..5
-ROUND1_ISSUES = None  # e.g. ["Fulfillment of Article VI disarmament obligations", "Risk reduction and confidence-building measures"]
-# If set, round 1 will use these issues (up to ISSUES_PER_TURN). If None, round 1 uses router.
-
-# --- Evidence / retrieval ---
-EVIDENCE_TOPK = 3
-FULL_DIR = "outputs/agent_buckets"
-LITE_DIR = "outputs/agent_buckets_lite"
-EMB_DIR = "outputs/agent_buckets_emb"
-
-# --- Router strategy ---
-USE_LLM_ROUTER = True       # if False: random fallback
-USE_SEMANTIC_EVIDENCE = True
-EMBEDDING_MODEL = "text-embedding-3-large"
-
-# --- LLM for text generation ---
-MODEL_TEXT = "gpt-5.2"
-TEMP_TEXT = 0.2
-MAX_RETRIES = 4
-BASE_SLEEP = 2.0
-
-# --- Output length constraints (soft) ---
-ISSUE_EXPERT_WORDS = (110, 150)
-DELEGATION_WORDS = (180, 230)
-
-# --- Logging ---
-LOG_DIR = "outputs/simulation_logs"
-
-# --- Evidence scoring weights (Boss suggestion #3) ---
-# total doesn't need to sum to 1, but clearer if it does
-W_CONF = 0.55
-W_RECENCY = 0.30
-W_WEIGHT = 0.15
-
-# Recency decay per year (simple linear decay)
-RECENCY_DECAY = 0.15  # 1 year older => -0.15
-
-# ===============================================================
-
-ISSUES_LIST = [
-    "Treaty on the Prohibition of Nuclear Weapons",
-    "Quantitative and qualitative expansion of nuclear arsenals",
-    "Humanitarian consequences of nuclear weapon use",
-    "Transparency and accountability of nuclear arsenals and doctrines",
-    "Role and significance of nuclear weapons in military and security concepts, doctrines and policies",
-    "Arms control agreements",
-    "Disarmament verification",
-    "Reduced role and operational readiness of nuclear weapons",
-    "Fulfillment of Article VI disarmament obligations",
-    "Security assurances",
-    "No first use",
-    "Risk reduction and confidence-building measures",
-    "Comprehensive Nuclear-Test-Ban Treaty",
-    "Moratorium on nuclear testing",
-    "The Fissile Material Cutoff Treaty",
-    "Moratorium on fissile material production",
-    "Legacy of nuclear weapons, their use and testing",
-    "Gender",
-    "Emerging and disruptive technologies",
-    "Nonproliferation and disarmament education",
-    "Middle East Weapons of Mass Destruction Free Zone and Israel",
-    "Universality of the Treaty on the Non-Proliferation of Nuclear Weapons",
-    "Nuclear-Weapon-Free Zones",
-    "International Atomic Energy Agency safeguards",
-    "Export controls",
-    "Regional proliferation challenges including the the Democratic People's Republic of Korea, Iran and Joint Comprehensive Plan of Action",
-    "Nuclear threats",
-    "Attacks on nuclear facilities",
-    "Peaceful uses of nuclear technology",
-    "Nuclear safety",
-    "Nuclear security",
-    "Strengthening the Treaty on the Non-Proliferation of Nuclear Weapons review process",
-    "Discouraging the Treaty on the Non-Proliferation of Nuclear Weapons withdrawal",
-    "Naval propulsion",
-    "Nuclear sharing and extended deterrence",
-    "Ukraine"
-]
+from config import *  # centralized config (with optional local overrides)
 
 # ======================== OpenAI Client =========================
 

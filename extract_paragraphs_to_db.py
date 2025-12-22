@@ -4,11 +4,12 @@ import sqlite3
 import pdfplumber
 from tqdm import tqdm
 
-# === CONFIGURATION ===
-STATEMENTS_DIR = "statements"
-WORKING_PAPERS_DIR = "working_papers"
-DB_PATH = "positions.db"
-DEBUG_MODE = True  # 设置为 True 会重建表（清空数据）
+from config import (
+    STATEMENTS_DIR,
+    WORKING_PAPERS_DIR,
+    DB_PATH,
+    EXTRACT_DEBUG_MODE,
+)
 
 
 # === STEP 1: INITIALIZE DATABASE ===
@@ -16,7 +17,7 @@ def init_db():
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
 
-    if DEBUG_MODE:
+    if EXTRACT_DEBUG_MODE:
         print("DEBUG_MODE is ON: Dropping existing table...")
         cursor.execute("DROP TABLE IF EXISTS npt_positions")
 
@@ -89,12 +90,26 @@ def split_paragraphs(text):
     return paragraphs
 
 
+
+# If a record for that source_file already exists in the database, skip this PDF
+def source_file_already_loaded(conn: sqlite3.Connection, filename: str) -> bool:
+    cur = conn.cursor()
+    cur.execute("SELECT 1 FROM npt_positions WHERE source_file = ? LIMIT 1", (filename,))
+    return cur.fetchone() is not None
+
+
+
 # === STEP 4: PROCESS SINGLE PDF ===
 def process_pdf(filepath, folder_name, conn):
     filename = os.path.basename(filepath)
+
+    if source_file_already_loaded(conn, filename):
+        print(f"Skip already-loaded file: {filename}")
+        return
+
     parsed = parse_filename(filename, folder_name)
     if not parsed:
-        print(f"⛔️ Skipped malformed filename: {filename}")
+        print(f"Skipped malformed filename: {filename}")
         return
 
     year, country, doc_type = parsed
