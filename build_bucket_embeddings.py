@@ -15,7 +15,7 @@ def _load_json(path: str):
         return json.load(f)
 
 def embed_texts(client: OpenAI, texts):
-    # 批量嵌入
+    # Batch embedding
     resp = client.embeddings.create(model=EMBEDDING_MODEL, input=texts)
     return [d.embedding for d in resp.data]
 
