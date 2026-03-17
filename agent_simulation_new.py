@@ -218,11 +218,24 @@ def _rank_full_by_semantic(country: str, issue: str, query: str, top_k: int) -> 
     src = {(e["source_file"], e["page"], e["paragraph_id"]): e for e in full.get("entries", [])}
 
     ranked = []
-    for idx in order[: top_k*3]:
-        m = meta[idx].item()
-        key = (m["source_file"], m["page"], m["paragraph_id"])
-        if key in src:
-            ranked.append(src[key])
+    for idx in order[: top_k * 3]:
+        m = meta[idx]
+
+        # compatible for different formats：
+        # 1) m is already dict
+        # 2) m is numpy object scalar need .item()
+        if hasattr(m, "item") and not isinstance(m, dict):
+            try:
+                m = m.item()
+            except Exception:
+                pass
+
+        if not isinstance(m, dict):
+            continue
+
+    key = (m.get("source_file"), m.get("page"), m.get("paragraph_id"))
+    if key in src:
+        ranked.append(src[key])
 
     # apply recency re-ranking lightly to avoid purely semantic but old evidence
     ranked2 = []
