@@ -28,9 +28,8 @@ from config import (
 PROMPT_TEMPLATE = """You are an expert on the Nuclear Non-Proliferation Treaty (NPT).
 
 Task:
-1) Identify which of the 36 NPT issues this paragraph addresses (multi-label allowed).
-2) Summarize the country's position on those issue(s) in 1–3 sentences.
-3) Provide a confidence score between 0.0 and 1.0.
+1) Identify which of the listed NPT issues this paragraph addresses most directly (multi-label allowed).
+2) Provide a confidence score between 0.0 and 1.0.
 
 Issues list:
 {issues_list}
@@ -38,7 +37,7 @@ Issues list:
 Paragraph:
 \"\"\"{paragraph}\"\"\"
 
-Return strictly valid JSON (no prose, no markdown). Use this schema:
+Return strictly valid JSON (no prose, no markdown). Use this schema (note that 0.85 is just an example and that you should make your own judgment regarding confidence score):
 {{
   "issues": ["...", "..."],
   "position_summary": "...",

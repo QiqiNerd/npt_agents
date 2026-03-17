@@ -188,6 +188,25 @@ if mode == "Run simulation":
     max_rounds = st.sidebar.slider("Number of rounds", 1, 6, 3)
     issues_per_turn = st.sidebar.slider("Issues per turn", 1, 5, 3)
 
+
+    evidence_mode = st.sidebar.radio(
+    "Evidence mode",
+    ["selected", "bucket_full"],
+    index=0,
+    help="selected = current retrieval-first mode; bucket_full = pass a larger slice of the full issue bucket directly to the LLM"
+)
+    
+    full_bucket_max_entries = 8
+    full_bucket_max_chars = 12000
+
+    if evidence_mode == "bucket_full":
+        full_bucket_max_entries = st.sidebar.slider(
+            "Full bucket max entries", 1, 20, 8
+        )
+        full_bucket_max_chars = st.sidebar.slider(
+            "Full bucket max chars", 2000, 30000, 12000, step=1000
+        )
+
     round1_issues = st.sidebar.multiselect(
         "Round 1 issues (optional)",
         options=ISSUES_LIST,
@@ -203,6 +222,9 @@ if mode == "Run simulation":
                 "max_rounds": max_rounds,
                 "issues_per_turn": issues_per_turn,
                 "round1_issues": round1_issues or None,
+                "evidence_mode": evidence_mode,
+                "full_bucket_max_entries": full_bucket_max_entries,
+                "full_bucket_max_chars": full_bucket_max_chars,
             }
 
             result = agent_simulation_new.run_simulation(config)

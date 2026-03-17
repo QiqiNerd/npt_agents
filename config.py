@@ -70,6 +70,11 @@ FULL_DIR = "outputs/agent_buckets"
 LITE_DIR = "outputs/agent_buckets_lite"
 EMB_DIR = "outputs/agent_buckets_emb"
 
+# --- Evidence mode / experiment switch ---
+EVIDENCE_MODE = "bucket_full"   # "selected" | "bucket_full"
+FULL_BUCKET_MAX_ENTRIES = 8  # only used when EVIDENCE_MODE == "bucket_full"
+FULL_BUCKET_MAX_CHARS = 12000  # cap raw evidence text passed to LLM
+
 # --- Router strategy ---
 USE_LLM_ROUTER = True       # if False: random fallback
 USE_SEMANTIC_EVIDENCE = True

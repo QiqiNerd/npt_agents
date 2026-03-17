@@ -115,17 +115,17 @@ def recency_score(entry_year: Optional[int], sim_year: int = SIM_SESSION_YEAR) -
 
 def route_issues_llm(prev_round_text: str, topk: int) -> List[str]:
     prompt = f"""
-You classify NPT discussion topics for routing.
+You are an expert on issues surrounding the Treaty on the Nonproliferation of Nuclear Weapons (NPT). 
+Your job is to classify diplomatic interventions by the issues they address, 
+including interventions at meetings of the Preparatory Committee (PrepCom) and Review Conferences (RevCon) within the NPT review process.
 
-Simulation context: {SIM_SESSION_YEAR} {SIM_MEETING_TYPE} (scenario: {SIM_SCENARIO_NAME}).
+You hear the following interventions from one or multiple delegates, in one or multiple rounds of deliberations (verbatim, may include multiple countries):
+\"\"\"{prev_round_text}\"\"\"
 
-Select up to {topk} most relevant issues from the list, given the previous round interventions.
+Your job is to select up to {topk} issues from the list that are most relevant to these previous rounds of deliberations.
 
 Issues list:
 {json.dumps(ISSUES_LIST, ensure_ascii=False, indent=2)}
-
-Previous round interventions (verbatim, may include multiple countries):
-\"\"\"{prev_round_text}\"\"\"
 
 Return strictly valid JSON:
 {{
@@ -275,6 +275,35 @@ def select_evidence(country: str, issue: str, round_context: str, k: int) -> Lis
             break
     return entries[:k]
 
+def select_evidence_full_bucket(country: str, issue: str, max_entries: int, max_chars: int) -> List[Dict[str, Any]]:
+    """
+    Experimental mode:
+    Skip retrieval ranking and pass a larger slice of the full country-issue bucket
+    directly to the issue expert, with hard caps on entry count and total chars.
+    """
+    path = os.path.join(FULL_DIR, country, _safe_issue_filename(issue) + ".json")
+    full = _load_json(path) or {}
+    entries = full.get("entries", [])
+
+    if not entries:
+        return []
+
+    selected = []
+    total_chars = 0
+
+    for e in entries[:max_entries]:
+        quote = e.get("quote", "") or ""
+        # lightweight estimate of prompt load from this entry
+        entry_chars = len(quote) + len(e.get("source_file", "") or "") + 100
+
+        if selected and (total_chars + entry_chars) > max_chars:
+            break
+
+        selected.append(e)
+        total_chars += entry_chars
+
+    return selected
+
 # ======================== Agents ===============================
 
 def issue_expert(country: str, issue: str, round_ctx: str, evidence: List[Dict[str, Any]]) -> Dict[str, Any]:
@@ -289,36 +318,39 @@ def issue_expert(country: str, issue: str, round_ctx: str, evidence: List[Dict[s
             "source": e.get("source_file"),
             "page": e.get("page"),
             "para": e.get("paragraph_id"),
-            "summary": e.get("position_summary",""),
+            # "summary": e.get("position_summary",""),
             "quote": e.get("quote","")
         })
 
     prompt = f"""
-System: You are the {country} NPT delegate focused ONLY on the issue "{issue}".
-You must reflect the country's established positions using the evidence pack and cite sources.
 
-Simulation: {SIM_SCENARIO_NAME} | {SIM_SESSION_YEAR} {SIM_MEETING_TYPE} | Location: {SIM_LOCATION}
+        System: 
+        You are a delegate representing {country} during the Nuclear Nonproliferation Treaty (NPT) review process, focused ONLY on the issue "{issue}".
 
-User:
-Last round context (other countries' highlights):
-{round_ctx}
+        You know your country's position on this issue from previous statements, working papers, and other position documents from your government. All excerpts from these position documents that are relevant to this issue have been provided below.
 
-Evidence pack (ranked):
-{json.dumps(ev_compact, ensure_ascii=False)}
+        You are now representing your country as a member of your country's delegation at the simulation: {SIM_SESSION_YEAR} {SIM_MEETING_TYPE} | Location: {SIM_LOCATION}.
 
-Instructions:
-1) Respond ONLY on "{issue}". Do NOT repeat generic opening lines.
-2) Your response must address something concrete from last round (agree/rebut/clarify/propose).
-3) Cite 1–3 sources as (source_file p.X ¶Y). Do not fabricate citations.
-4) Keep it between {ISSUE_EXPERT_WORDS[0]}–{ISSUE_EXPERT_WORDS[1]} words.
+        User: 
+        You have heard other delegations make statements to the following effect during deliberations up to this point:
+        {round_ctx}
 
-Return strictly valid JSON:
-{{
-  "issue": "{issue}",
-  "text": "...",
-  "citations": [{{"source":"2024_USA_Statements_1.pdf","page":3,"para":2}}]
-}}
-"""
+        Country- and issue-specific position statements:
+        {json.dumps(ev_compact, ensure_ascii=False)}
+
+        Based on the context of these previous deliberations, you shall suggest a statement that accomplishes the following:
+        1) Respond ONLY on "{issue}". Do NOT repeat generic opening lines.Lay out your own country’s position on this particular issue using language that is consistent with prior statements, working papers, and other position documents from your own country provided above. You shall prioritize more recent position documents but reference older documents if the position has not significantly changed.
+        2) Your response must aAddress something concrete arguments advanced by other delegations during previous deliberations as provided abovefrom last round (agree/rebut/clarify/propose), and, where necessary, draw logical linkages between your issue and other related issues under discussion during previous deliberations.
+        3) Cite 1–3 sources as (source_file p.X ¶Y). Do not fabricate citations.
+        4) Keep it between {ISSUE_EXPERT_WORDS[0]}–{ISSUE_EXPERT_WORDS[1]} words.
+
+        Return strictly valid JSON:
+        {{
+        "issue": "{issue}",
+        "text": "...",
+        "citations": [{{"source":"2024_USA_Statements_1.pdf","page":3,"para":2}}]
+        }}
+        """
     out = call_llm(prompt)
     data = json_extract_block(out) or {}
     if not isinstance(data.get("citations"), list):
@@ -336,26 +368,27 @@ def delegation_head(country: str, round_ctx: str, drafts: List[Dict[str, Any]], 
     - add explicit linkage sentence connecting issues
     """
     prompt = f"""
-System: You are the head of the {country} NPT delegation. Produce ONE unified intervention.
-
-Simulation: {SIM_SCENARIO_NAME} | {SIM_SESSION_YEAR} {SIM_MEETING_TYPE} | Round {round_num}
+System: You are the head of the diplomatic delegation representing {country} at a meeting to review the Treaty on the Nonproliferation of Nuclear Weapons (NPT), 
+specifically the {SIM_SCENARIO_NAME} | {SIM_SESSION_YEAR} {SIM_MEETING_TYPE} | Round {round_num}
 
 User:
-Other delegations' last round highlights:
+You have heard other delegations make statements to the following effect during deliberations up to this point:
 {round_ctx}
 
-Issue expert drafts (each only covers its issue):
+You have a number of issue experts on your delegation. 
+Each issue expert has drafted language you could use to address one specific issue in the statement you are about to prepare and deliver. 
+You are provided with the draft(s) below:
 {json.dumps(drafts, ensure_ascii=False)}
 
-You must address these issues (do not add new ones):
+You shall now use the language in the provided draft(s) to address the following issues that they were intended to address (do not add new issues):
 {json.dumps(selected_issues, ensure_ascii=False)}
 
 Constraints (IMPORTANT):
-- Reduce repetition. In rounds >=2, do NOT write a first paragraph that previews all issue-specific content.
-- Opening: 1 sentence ONLY, referencing prior speakers and explicitly situating this as a simulated intervention at the {SIM_SESSION_YEAR} {SIM_MEETING_TYPE}. No detailed issue claims here.
-- Linkage: 1 sentence that CONNECTS the selected issues (cause–effect, tradeoff, sequencing). This is not a summary; it should explain how issues intersect.
-- Body: 1 short paragraph per issue (2–4 sentences each). Do NOT repeat the opening or linkage content verbatim.
-- Closing: 1 sentence proposing next step / way forward.
+- Acknowledge: At the top, acknowledge having heard the previous speakers’ points.
+- Respond: If you are in rounds >=2, minimize the mere repetition of position statements and instead reflect upon your country’s positions on various issues, thinking of ways to respond to previous speakers convincingly and at a higher level. You should remain faithful to, and reiterate when appropriate, your own country’s positions as provided to you by your issue expert(s).
+- Link: You should make explicit the linkages that exist between the selected issues (e.g., cause–effect, tradeoff, sequencing). This is not a summary; it should explain how issues intersect. Your issue expert(s) may have suggested linkages. Incorporate them appropriately.
+- Reiterate: In the context of these responses and linkages, reiterate your countries’ positions at a high level. Once again, you should remain faithful to your own country’s positions as provided to you by your issue expert.
+- Closing: At the end, based on all of the above, propose a reasonable basis for consensus that is highly consistent with your own country’s positions but that takes into account the foregoing deliberations, suggesting a reasonable next step/way forward.
 - Total length: {DELEGATION_WORDS[0]}–{DELEGATION_WORDS[1]} words.
 - Citations: merge & deduplicate; cite as (source_file p.X ¶Y). Do not invent citations.
 
@@ -380,7 +413,7 @@ Return strictly valid JSON:
 
 def make_statement_header(country: str, round_num: int) -> str:
     # Boss suggestion #4: make the simulation metadata explicit to the reader
-    return f"[{SIM_SCENARIO_NAME} | {SIM_SESSION_YEAR} {SIM_MEETING_TYPE} | {SIM_LOCATION} | Round {round_num} | {country}]"
+    return f"[{SIM_SESSION_YEAR} {SIM_MEETING_TYPE} | {SIM_LOCATION}]"
 
 def simulate_rounds_return_dict():
     os.makedirs(LOG_DIR, exist_ok=True)
@@ -403,13 +436,24 @@ def simulate_rounds_return_dict():
 
             drafts = []
             for issue in selected_issues:
-                ev = select_evidence(country, issue, prev_round_text, k=EVIDENCE_TOPK)
+                if EVIDENCE_MODE == "bucket_full":
+                    ev = select_evidence_full_bucket(
+                        country,
+                        issue,
+                        max_entries=FULL_BUCKET_MAX_ENTRIES,
+                        max_chars=FULL_BUCKET_MAX_CHARS,
+                    )
+                else:
+                    ev = select_evidence(country, issue, prev_round_text, k=EVIDENCE_TOPK)
+
                 if not ev:
                     continue
+
                 drafts.append(issue_expert(country, issue, prev_round_text, ev))
 
             if not drafts:
-                drafts = [{"issue": "General", "text": "No directly relevant evidence available this round.", "citations": []}]
+                continue
+                # drafts = [{"issue": "General", "text": "No directly relevant evidence available this round.", "citations": []}]
 
             final = delegation_head(country, prev_round_text, drafts, selected_issues, round_num=t)
 
@@ -448,7 +492,10 @@ def simulate_rounds_return_dict():
             "use_llm_router": USE_LLM_ROUTER,
             "use_semantic_evidence": USE_SEMANTIC_EVIDENCE,
             "recency_decay": RECENCY_DECAY,
-            "weights": {"conf": W_CONF, "recency": W_RECENCY, "weight": W_WEIGHT}
+            "weights": {"conf": W_CONF, "recency": W_RECENCY, "weight": W_WEIGHT},
+            "evidence_mode": EVIDENCE_MODE,
+            "full_bucket_max_entries": FULL_BUCKET_MAX_ENTRIES if EVIDENCE_MODE == "bucket_full" else None,
+            "full_bucket_max_chars": FULL_BUCKET_MAX_CHARS if EVIDENCE_MODE == "bucket_full" else None
         },
         "transcripts": transcripts,
         "generated_at": datetime.utcnow().isoformat() + "Z"
@@ -491,6 +538,14 @@ def run_simulation(config: dict) -> dict:
     }
     """
     global COUNTRIES, MAX_ROUNDS, ISSUES_PER_TURN, ROUND1_ISSUES
+    global EVIDENCE_MODE, FULL_BUCKET_MAX_ENTRIES, FULL_BUCKET_MAX_CHARS
+
+    if "evidence_mode" in config:
+        EVIDENCE_MODE = config["evidence_mode"]
+    if "full_bucket_max_entries" in config:
+        FULL_BUCKET_MAX_ENTRIES = int(config["full_bucket_max_entries"])
+    if "full_bucket_max_chars" in config:
+        FULL_BUCKET_MAX_CHARS = int(config["full_bucket_max_chars"])
 
     if "countries" in config:
         COUNTRIES = config["countries"]
