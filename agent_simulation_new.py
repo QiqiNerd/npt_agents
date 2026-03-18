@@ -329,7 +329,7 @@ def issue_expert(country: str, issue: str, round_ctx: str, evidence: List[Dict[s
 
         You know your country's position on this issue from previous statements, working papers, and other position documents from your government. All excerpts from these position documents that are relevant to this issue have been provided below.
 
-        You are now representing your country as a member of your country's delegation at the simulation: {SIM_SESSION_YEAR} {SIM_MEETING_TYPE} | Location: {SIM_LOCATION}.
+        You are now representing your country as a member of your country's delegation at the simulation: {SIM_SESSION_YEAR} {SIM_MEETING_TYPE}.
 
         User: 
         You have heard other delegations make statements to the following effect during deliberations up to this point:
@@ -413,7 +413,8 @@ Return strictly valid JSON:
 
 def make_statement_header(country: str, round_num: int) -> str:
     # Boss suggestion #4: make the simulation metadata explicit to the reader
-    return f"[{SIM_SESSION_YEAR} {SIM_MEETING_TYPE} | {SIM_LOCATION}]"
+    # return f"[{SIM_SESSION_YEAR} {SIM_MEETING_TYPE} | {SIM_LOCATION}]"
+    return f"[{SIM_SESSION_YEAR} {SIM_MEETING_TYPE}]"
 
 def simulate_rounds_return_dict():
     os.makedirs(LOG_DIR, exist_ok=True)

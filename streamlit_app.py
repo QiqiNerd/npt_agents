@@ -90,6 +90,8 @@ def render_meta(data: Dict[str, Any], transcripts: List[List[Dict[str, Any]]]) -
 
 
     with st.expander("Show configuration details"):
+        scenario_display = dict(scenario)
+        scenario_display.pop("location", None)
         st.json({"scenario": scenario, "config": config}, expanded=False)
 
 def render_statement_card(rec: Dict[str, Any]) -> None:
