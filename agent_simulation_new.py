@@ -407,6 +407,13 @@ Return strictly valid JSON:
         data["citations"] = []
     if not isinstance(data.get("selected_issues"), list):
         data["selected_issues"] = selected_issues
+
+    # Mechanically prepend "Chair, " for the 2025 PrepCom demo
+    statement = (data.get("statement") or "").lstrip()
+    if str(SIM_MEETING_TYPE) == "PrepCom" and str(SIM_SESSION_YEAR) == "2025":
+        if statement and not statement.startswith("Chair."):
+            statement = "Chair. " + statement
+    data["statement"] = statement
     return data
 
 # ======================== Orchestrator =========================
